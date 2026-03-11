@@ -1,0 +1,1 @@
+{hook h='displayPrestaBlogList' id='3' mod='prestablog'}

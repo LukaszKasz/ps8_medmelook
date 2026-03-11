@@ -1,0 +1,17 @@
+dpdpoland_generate_shipping_list:
+  path: dpdpoland/bulk/generate_shipping_list
+  methods: [POST]
+  defaults:
+    _controller: 'DpdPoland\Controller\Admin\BulkGenerateShippingController::generate'
+
+dpdpoland_generate_shipping_list_with_label:
+  path: dpdpoland/bulk/dpdpoland_generate_shipping_list_with_label
+  methods: [POST]
+  defaults:
+    _controller: 'DpdPoland\Controller\Admin\BulkGenerateShippingController::generateWithLabel'
+
+dpdpoland_generate_shipping_label:
+  path: dpdpoland/bulk/dpdpoland_generate_shipping_label
+  methods: [POST]
+  defaults:
+    _controller: 'DpdPoland\Controller\Admin\BulkGenerateShippingController::generateLabel'

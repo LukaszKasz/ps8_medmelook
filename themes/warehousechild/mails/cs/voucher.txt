@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+Dobrý den {firstname} {lastname},
+
+Objednávka ID {order_name} - Byl vygenerován slevový kupón
+
+S potěšením Vám oznamujeme, že na vaše jméno byl vygenerován slevový kupón na objednávku s označením {order_name}.
+
+SLEVOVÝ KUPÓN: {voucher_num} v hodnotě {voucher_amount}
+
+Pokud jej chcete použít, stačí tento kód kopírovat / přilepit během vyplňování objednávky.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

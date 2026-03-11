@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+Zpráva od zákazníka e-shopu {shop_name}
+
+E-mailová adresa zákazníka: {email}
+
+Objednávka ID #:  {order_name}
+
+Příloha: {attached_file}
+
+Zpráva od zákazníka:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

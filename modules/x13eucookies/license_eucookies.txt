@@ -1,0 +1,24 @@
+Server restriction: medmelook.pl,www.medmelook.pl,*.medmelook.pl,*.local,*.loc,*.localhost,*.test,test.*,dev.*,*.dev,*.dev.*
+
+------ LICENSE FILE DATA -------
+75UW6141GP1YyJh0Qw5E8dNk5ABl3bHL
+Uu+s7Z2A84DSpkHym5flMmxu96ZNBhLZ
+p1ER2dwBmJYULedpdTf/zztK1dtymEdW
+H8JEaRZ02sCgD/y6SPX9jR6M0aBdrZ3W
+UsiQFJJbSu871c9tMzAaBkxAkazMVU3C
+UToK+0wqkd/I2c821+giM+7iZXi8b+SX
+WX/Tbd9LjCa6B/HfQQ3D5Mmlr/aFgbg4
+WanQ053O6jQ6AG/FfC9lm4ZsMPsLg3zp
+wMS20MY0usirCWxY6CZ4qllKQxsvr9cV
+N1tF8vU5D3I9ifdFW6sY6P1hxlBpA8M3
+WJ/gQxt/VuRkB0dgqNEVPj3idzfWkmdp
+r4TOGOFvRNrn3mqkY53AFUWbcJkiUwwO
+PWIZl+UKcPplmWUeRavJfkVX7a3l30eA
+DoRrKzk9g0pKAeAkHam7sIwnincRunoo
+eo96eR2n8kQJPJedOmDKpnSHdVbBe8FU
+024FFHvpdf7u52dko+/7LdqsxfQK9iqU
+P4zepfzgWaRcHN5310AT5YqDyTjCT6Kq
+1vfC7HSrUS0/hdzOvij+1SgGQZSn/uqU
+d10YRBrWGkwE38WHAhahitZ0lAIe5iwu
+6R+eL9i=
+--------------------------------

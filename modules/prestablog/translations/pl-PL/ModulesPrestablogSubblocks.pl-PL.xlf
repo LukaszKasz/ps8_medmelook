@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin1234" source-language="pl-PL" target-language="pl-PL" datatype="plaintext">
+    <body>
+      <trans-unit id="dad1b074ae26dd836d75b5bdd5432d51">
+        <source>Latest news</source>
+        <target>Najnowsze newsy</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e9d1b98827ad74f04d77eef3c128bd71">
+        <source>Oldest news</source>
+        <target>Najstarsze newsy</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3d03520fd98726ca19a2266e81de1f68">
+        <source>Most commented news</source>
+        <target>Najczęściej komentowane newsy</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f265422c546271cf97dda7976cf2477a">
+        <source>Least commented news</source>
+        <target>Najrzadziej komentowane newsy</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="35bc334d9c57a6c06c9d281a7999bd52">
+        <source>Most read news</source>
+        <target>Najczęściej czytane newsy</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e4e9ec64410d78ce43ee597706ec9c4f">
+        <source>Least read news</source>
+        <target>Najrzadziej czytane</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c274cc514ec623465a383b788bd76f97">
+        <source>Custom hook on your tpl file</source>
+        <target>Niestandardowy hook w twoim pliku tpl</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="92daf2d4b8a04b7f74286e1fa1a7d164">
+        <source>FrontOffice</source>
+        <target>FrontOffice</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="0bf6db2e6b4c58d1617df2b59a1b87a1">
+        <source>Module home configuration</source>
+        <target>Konfiguracja domowa modułu</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7aa1113c2137b302700748919c9ede65">
+        <source>BackOffice</source>
+        <target>BackOffice</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7b19b37e7fc3dfe3c3e1ad5b84c7f565">
+        <source>Home page</source>
+        <target>Strona główna</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

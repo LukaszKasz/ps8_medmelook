@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+Dobrý den {firstname} {lastname},
+
+{product} je téměř vyprodán.
+
+Momentálně je skladem méně než {last_qty} ks.
+
+Dostupné množství: {qty}
+
+Doplňte svůj inventář, přejděte do sekce Katalog > Sklady ve vaší administraci a spravujte své zásoby.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

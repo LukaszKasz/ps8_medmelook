@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+Dobrý den {firstname} {lastname},
+
+Vrácení objednávky #{id_order_return} - Aktualizace
+
+Aktualizovali jsme stav vratky objednávky č. {id_order_return}, nový stav je: "{state_order_return}".
+
+Sledovat tuto objednávku a stáhnout fakturu si můžete v našem obchodě, přejděte do části [Historie a detaily mých objednávek]({history_url}) ve svém zákaznickém účtu.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

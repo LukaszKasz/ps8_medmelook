@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>imoje</name>
+    <displayName><![CDATA[imoje]]></displayName>
+    <version><![CDATA[3.12.1]]></version>
+    <description><![CDATA[VISA, MasterCard, BLIK ect.]]></description>
+    <author><![CDATA[imoje]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>

@@ -1,0 +1,95 @@
+© Permanent HDClic / Release Notes for module PrestaShop 1.7
+Module : PrestaBlog
+[pre] = default prefixe for tables installation of PrestaShop : “ps_”
+
+--------------------------------
+########################
+##### Version 5.2.6 ####
+########################
+
+- Added permissions column to the prestablog_author table to manage author-specific permissions using JSON format.
+
+########################
+##### Version 5.2.5 ####
+########################
+
+- Added `id_parent` column to the `prestablog_commentnews` table to manage comment hierarchies.
+- Added `is_admin` column to the `prestablog_commentnews` table to differentiate admin comments from user comments.
+
+########################
+##### Version 5.0.9 ####
+########################
+
+ALTER TABLE `'[pre]'prestablog_color` ADD COLUMN `sharing_icon_color` varchar(255)')) {
+
+########################
+# since 4.5.1 to 4.5.2 #
+########################
+
+MAJOR update.
+
+# Converted the `langues` columns in the `prestablog_news` and `prestablog_subblock` tables from serialized data to JSON format.
+
+ALTER TABLE `[pre]prestablog_news`
+MODIFY COLUMN `langues` TEXT;
+
+UPDATE `[pre]prestablog_news`
+SET `langues` = JSON_OBJECT('langues', `langues`)
+WHERE JSON_VALID(`langues`) IS NULL;
+
+ALTER TABLE `[pre]prestablog_subblock`
+MODIFY COLUMN `langues` TEXT;
+
+UPDATE `[pre]prestablog_subblock`
+SET `langues` = JSON_OBJECT('langues', `langues`)
+WHERE JSON_VALID(`langues`) IS NULL;
+
+# Updated the `value` field in the `configuration` table for entries 'prestablog_sbr', 'prestablog_sbl', and 'prestablog_commentfb_modosId' to JSON format.
+
+UPDATE `[pre]configuration`
+SET `value` = JSON_OBJECT('value', `value`)
+WHERE `name` IN ('prestablog_sbr', 'prestablog_sbl', 'prestablog_commentfb_modosId')
+AND JSON_VALID(`value`) IS NULL;
+
+########################
+# since 4.4.3 to 4.4.4 #
+########################
+
+ALTER TABLE `[pre]prestablog_news_product` ADD KEY `id_shop` (`id_shop`);
+
+--------------------------------
+########################
+# since 4.0.3 to 4.0.4 #
+########################
+
+ALTER TABLE `[pre]prestablog_antispam` ADD KEY `id_shop` (`id_shop`), ADD KEY `actif` (`actif`);
+ALTER TABLE `[pre]prestablog_categorie` ADD KEY `id_shop` (`id_shop`), ADD KEY `actif` (`actif`), ADD KEY `parent` (`parent`);
+ALTER TABLE `[pre]prestablog_categorie_group` ADD KEY `id_group` (`id_group`), ADD KEY `id_prestablog_categorie` (`id_prestablog_categorie`);
+ALTER TABLE `[pre]prestablog_commentnews` ADD KEY `news` (`news`), ADD KEY `actif` (`actif`);
+ALTER TABLE `[pre]prestablog_commentnews_abo` ADD KEY `news` (`news`), ADD KEY `id_customer` (`id_customer`);
+ALTER TABLE `[pre]prestablog_correspondancecategorie` ADD KEY `categorie` (`categorie`), ADD KEY `news` (`news`);
+ALTER TABLE `[pre]prestablog_news` ADD KEY `id_shop` (`id_shop`), ADD KEY `actif` (`actif`);
+ALTER TABLE `[pre]prestablog_news_newslink` ADD KEY `id_prestablog_news` (`id_prestablog_news`), ADD KEY `id_prestablog_newslink` (`id_prestablog_newslink`);
+ALTER TABLE `[pre]prestablog_news_product` ADD KEY `id_prestablog_news` (`id_prestablog_news`), ADD KEY `id_product` (`id_product`);
+ALTER TABLE `[pre]prestablog_subblock` ADD KEY `id_shop` (`id_shop`), ADD KEY `actif` (`actif`);
+
+--------------------------------
+########################
+# since 4.0.2 to 4.0.3 #
+########################
+
+ CREATE TABLE IF NOT EXISTS `[pre]prestablog_news_lookbook` (`id_prestablog_news_lookbook` int(10) unsigned NOT null auto_increment, `id_prestablog_news` int(10) unsigned NOT null, `id_prestablog_lookbook` int(10) unsigned NOT null, PRIMARY KEY (`id_prestablog_news_lookbook`))ENGINE='._MYSQL_ENGINE_.' DEFAULT CHARSET=utf8';
+
+--------------------------------
+########################
+# since 4.0.1 to 4.0.2 #
+########################
+
+no sql
+
+--------------------------------
+########################
+# since 4.0.0 to 4.0.1 #
+########################
+
+no sql

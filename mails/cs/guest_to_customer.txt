@@ -1,0 +1,20 @@
+ 
+
+{shop_url}
+
+Dobrý den {firstname} {lastname},
+
+Váš účet hosta byl změněn na účet zákazníka
+
+Blahopřejeme, váš účet hosta v obchodě {shop_name} byl změněn na účet zákazníka!
+
+E-mailová adresa: {email}
+
+Kliknutím na následující odkaz nastavíte své heslo:
+{url}
+
+Můžete přistupovat ke svému zákaznickému účtu v našem obchodě: [{shop_name}]({shop_url})
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

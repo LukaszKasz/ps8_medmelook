@@ -1,0 +1,35 @@
+.dpdpoland-pudo-open-map-btn {
+    margin-left: 5px;
+    font-weight: normal;
+    text-transform: none;
+    font-size: 13px;
+}
+
+.dpdpoland-pudo-change-map-btn {
+    font-weight: normal;
+    text-transform: none;
+    font-size: 13px;
+}
+
+.dpdpoland-pudo-cod-new-point, .dpdpoland-pudo-new-point, .dpdpoland-pudo-selected-point p, .dpdpoland-pudo-cod-selected-point p {
+    padding: 0;
+    font-size: 13px;
+    margin: 10px 0 0 0;
+}
+
+.dpdpoland-pudo-cod-open-map-btn {
+    margin-left: 5px;
+    font-weight: normal;
+    text-transform: none;
+    font-size: 13px;
+}
+
+.dpdpoland-pudo-cod-change-map-btn {
+    font-weight: normal;
+    text-transform: none;
+    font-size: 13px;
+}
+
+.container_dpdpoland_pudo_cod_warning {
+    margin-top: 10px;
+}

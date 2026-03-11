@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin1234" source-language="da-DK" target-language="da-DK" datatype="plaintext">
+    <body>
+      <trans-unit id="79a505d205b4545c14781954f916b1c8">
+        <source>Search %1$s in the blog</source>
+        <target>Søger of %1$s in the blog</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="193cfc9be3b995831c6af2fea6650e60">
+        <source>Page</source>
+        <target>Side</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a517747c3d12f99244ae598910d979c5">
+        <source>Author</source>
+        <target>Forfatter</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b02d8b2c78dfd6cc791eff6f283e5008">
+        <source>Select a category</source>
+        <target>Ting en kategori</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

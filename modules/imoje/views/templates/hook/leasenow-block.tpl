@@ -1,0 +1,1 @@
+<img alt="ING Lease Now" width="{$imoje_leasenow_button_width}%" class="leasenow-button" src="{$imoje_leasenow_button_url}">

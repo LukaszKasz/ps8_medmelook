@@ -1,0 +1,29 @@
+ 
+
+{shop_url}
+
+Dobrý den {firstname} {lastname},
+
+Děkujeme za Vaši registraci v e-shopu {shop_name}.
+
+Vaše přihlašovací údaje v obchodě {shop_name}
+
+Zde jsou Vaše přihlašovací údaje:
+
+E-mailová adresa: {email}
+
+Tipy pro Vaši bezpečnost:
+
+1. Uschovejte Vaše přihlašovací údaje k účtu na bezpečném místě.
+
+2. Nikomu Vaše přihlašovací údaje neukazujte.
+
+3. Jednou za čas změňte Vaše heslo.
+
+4. Pokud máte podezření, že Váš účet používá někdo jiný, bezodkladně nás prosím kontaktujte.
+
+A nyní můžete přejít k nakupování do našeho e-shopu: [{shop_name}]({shop_url})
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

@@ -1,0 +1,48 @@
+/**
+ * Facebook Conversion Pixel Tracking Plus
+ *
+ * NOTICE OF LICENSE
+ *
+ * @author    Pol Rué
+ * @copyright Smart Modules 2014
+ * @license   http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+ * @category Marketing & Advertising
+ * Registered Trademark & Property of smart-modules.com
+ *
+ * ***************************************************
+ * *     Facebook Conversion Trackcing Pixel Plus    *
+ * *          http://www.smart-modules.com           *
+ * ***************************************************
+*/
+
+#module_form label {
+    float:none;
+}
+#content label {
+    float:none;
+    vertical-align: top;
+}
+input[type=submit] {
+    padding:10px 15px;
+}
+
+input[type="text"] {
+    width: 80%;
+}
+
+.col-lg-3 {
+    width:24.5% !important;
+    display: inline-block;
+}
+
+.col-lg-9 {
+    width:74.5%;
+    display: inline-block;
+}
+.form-group {
+    margin:1em 0;
+}
+
+div#module-nav {
+    margin: 0.9em 0;
+}

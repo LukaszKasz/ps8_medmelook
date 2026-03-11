@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin1234" source-language="it-IT" target-language="it-IT" datatype="plaintext">
+    <body>
+      <trans-unit id="490aa6e856ccf208a054389e47ce0d06">
+        <source>Id</source>
+        <target>ID</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b78a3223503896721cca1303f776159b">
+        <source>Title</source>
+        <target>Titolo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="111893dc2ad3535a627f8d904e9acf80">
+        <source>Date start</source>
+        <target>Data di inizio</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="2ba161ffe2a2956559d5019c2013d69c">
+        <source>Date stop</source>
+        <target>Data di fine</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e02d2ae03de9d493df2b6b2d2813d302">
+        <source>Duration</source>
+        <target>Durata</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d721757161f7f70c5b0949fdb6ec2c30">
+        <source>Theme</source>
+        <target>Tema</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ec53a8c4f07baed5d8825072c89799be">
+        <source>Status</source>
+        <target>Stato</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e25f0ecd41211b01c83e5fec41df4fe7">
+        <source>Delete selected items?</source>
+        <target>Cancellare le voci selezionate?</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ef61fb324d729c341ea8ab9901e23566">
+        <source>Add new</source>
+        <target>Aggiungi</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="eabe6d8b5e97bc5b8f159f5f8f19e8dc">
+        <source>Listing of urls recorded</source>
+        <target>Elenco degli URL</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9d98127b79a58fb147c50df2c2b1c6c9">
+        <source>If the content does not fit in, a scroll bar will appear</source>
+        <target>Se il contenuto non si adatta, apparirà una barra di scorrimento</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8eff3617002e9a854b9704717f35f7aa">
+        <source>popup</source>
+        <target>popup</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="00d23a76e43b46dae9ec7aa9dcbebb32">
+        <source>Enabled</source>
+        <target>Attivare</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b9f5c797ebbf55adccdd8539a65a0241">
+        <source>Disabled</source>
+        <target>Disabili</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c57081ab17a6e9978e69c8af8958483c">
+        <source>If you want a full customization of your popup, please select the "colorpicker" theme.</source>
+        <target>Se si desidera una completa personalizzazione del popup, selezionare il tema \"grid\".</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="eea5508ad471b740424f7cd887b9831f">
+        <source>Color picker background</source>
+        <target>Colore di sfondo popup</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="96fd2b796454b8598b7029086421930c">
+        <source>Background opacity</source>
+        <target>Opacità dello sfondo popup</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7d350ef17ad1bd5c0a191fcff6c86fa8">
+        <source>0 is full transparent and 1 is full colored.</source>
+        <target>0 essendo totalmente trasparente, 1 essendo totalmente colorato</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="131aed6a51aeb1c9c5b934ec7473e513">
+        <source>Color picker content</source>
+        <target>Colore del contenuto</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="13bc9a99a5d2e558193440635b64748a">
+        <source>Content opacity</source>
+        <target>Opacità del contenuto</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8ebb19d9437e6b68cb02a83704ad7d12">
+        <source>Color picker button</source>
+        <target>Colore dei pulsanti</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="16cdc34df27de4fb25f6c1945edc55ea">
+        <source>Button opacity</source>
+        <target>Opacità del pulsante</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="808845e269e9883eee926e799604d040">
+        <source>Color picker button border</source>
+        <target>Colore del bordo del pulsante</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="32954654ac8fe66a1d09be19001de2d4">
+        <source>Width</source>
+        <target>Larghezza</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="21de26caa6bcfc936378c4e45d235bd9">
+        <source>px</source>
+        <target>px</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="eec6c4bdbd339edf8cbea68becb85244">
+        <source>Height</source>
+        <target>Altezza</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8f497c1a3d15af9e0c215019f26b887d">
+        <source>Delay</source>
+        <target>Scadenza</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c50c3b1ca82ba7b7ab55afdf66a2f6c9">
+        <source>milliseconds</source>
+        <target>Millisecondes</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="533419ffd56f9a7c8d89cd0ffd0cc5c9">
+        <source>Popup expire</source>
+        <target>Riapparizione del popup</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="44899574c7ec97d15723d5aa815795f1">
+        <source>unit(s)</source>
+        <target>Unité(s)</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e94da4f053df004e0f36df8603b0db7e">
+        <source>Unit(s) related to selected expire ratio on the field below.</source>
+        <target>Unità che determinerà la prossima visualizzazione del popup</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="1ff0e9f0833d344afa7730c3dedf1de4">
+        <source>Expire ratio</source>
+        <target>Tipo di unità di riappropriazione</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="62902641c38f3a4a8eb3212454360e24">
+        <source>Minute</source>
+        <target>Minuto</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b55e509c697e4cca0e1d160a7806698f">
+        <source>Hour</source>
+        <target>Heure</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="03727ac48595a24daed975559c944a44">
+        <source>Day</source>
+        <target>Viaggio</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7cbb885aa1164b390a0bc050a64e1812">
+        <source>Month</source>
+        <target>Mois</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="537c66b24ef5c83b7382cdc3f34885f2">
+        <source>Year</source>
+        <target>Anno</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f15c1cae7882448b3fb0404682e17e61">
+        <source>Content</source>
+        <target>Contenuto</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e5bb0f8d61e1172237d2db59295ffb54">
+        <source>Popup footer</source>
+        <target>Piè di pagina del popup</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="2c82a796f7ee2215437bed3cf341e3f0">
+        <source>This option shows or hides the footer popup with the close button.</source>
+        <target>Questa opzione mostra o nasconde il popup del piè di pagina con il pulsante di chiusura.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4fa5425a7345e3f8e3e2bb8333b5b922">
+        <source>Its closing is also always possible without button.</source>
+        <target>La sua chiusura è sempre possibile anche senza pulsante.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e16571dcc7245f57c25dd4f684dacbf8">
+        <source>Group access restrictions</source>
+        <target>Restrizioni di gruppo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="630f6dc397fe74e52d5189e2c80f282b">
+        <source>Back to list</source>
+        <target>Torna alla lista</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d9599dc0b7632266962c6be42a79fbbf">
+        <source>List of</source>
+        <target>Elenco di</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ec211f7c20af43e742bf2570c3cb84f9">
+        <source>Add</source>
+        <target>Aggiungi</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7dce122004969d56ae2e0245cb754d35">
+        <source>Edit</source>
+        <target>Modifica</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6a26f548831e6a8c26bfbbd9f6ec61e0">
+        <source>Help</source>
+        <target>Aiuto</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

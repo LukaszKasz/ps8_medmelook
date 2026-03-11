@@ -1,0 +1,8 @@
+name,features,image,price,outofstock,active
+Color,2,1,1,0,1
+Size,"1,3",0,1,1,1
+,,,,,
+,,,,,
+,,Field (name) is required.,,,
+,,Multiple values can be set in filed (features) separeting by comma.,,,
+,,"Set 0  or 1 in fileds (image, price, outofstock, active)  to make these enable or disable.",,,

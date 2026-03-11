@@ -1,0 +1,12 @@
+name,id_variant_group,type,id_feature,products,categories,manufacturers,active
+Color variation,1,custom,0,"1,2,3,4",,,1
+Size variation,2,feature,1,,"1,2,3,6,54",,1
+Color variation,1,reference,0,,"1,2,3,6,54","2,5,6",0
+,,,,,,,
+,,,,,,,
+,,"Fields (name, id_variant_group, type) is required.",,,,,
+,,"Already created variation group id can be set in id_variation_group field, it must exist.",,,,,
+,,"type field can have an opton from (custom, feature, reference, isbn, ean13, upc)",,,,,
+,,If the type is set as feature only then id_feature field need to be set and must be id of an existing product feature.,,,,,
+,,"Multiple values can be set in fileds (products, categories, manufacturers) separeting by comma. These fileds are optional can be empty.",,,,,
+,,Set 0  or 1 in filed active  to enable or disable the variation.,,,,,

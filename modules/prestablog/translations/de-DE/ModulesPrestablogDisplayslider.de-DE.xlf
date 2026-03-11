@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin1234" source-language="de-DE" target-language="de-DE" datatype="plaintext">
+    <body>
+      <trans-unit id="d33116a5d0111c26c0395821d97aaf92">
+        <source>Display Slider</source>
+        <target>Display Slider</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="0e2045d609b67e4de7c0682380108d18">
+        <source>This module can display a slider</source>
+        <target>Dieses Modul kann ein Dia anzeigen</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f4f70727dc34561dfde1a3c529b6205c">
+        <source>Settings</source>
+        <target>Optionen</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="db96bbe90d28bfa6cbc0d2d5ac489d1b">
+        <source>Select a slider</source>
+        <target>Wählen Sie eine Folie</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c9cc8cce247e49bae79f15173ce97354">
+        <source>Save</source>
+        <target>Speichern</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

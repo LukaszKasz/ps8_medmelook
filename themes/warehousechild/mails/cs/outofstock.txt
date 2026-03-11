@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+Dobrý den {firstname} {lastname},
+
+Děkujeme za vaši objednávku {order_name} v obchodě {shop_name}.
+
+Objednávka ID {order_name} - Vyžaduje se doplnění
+
+Bohužel, jedna nebo více položek momentálně není na skladě, což může způsobit mírné zpoždění při dodání. Přijměte naši omluvu za tyto nepříjemnosti a ujistěte se, že se snažíme tuto situaci napravit.
+
+Sledovat tuto objednávku a stáhnout fakturu si můžete v našem obchodě, přejděte do části [Historie a detaily mých objednávek]({history_url}) ve svém zákaznickém účtu.
+
+Pokud máte účet hosta, svou objednávku můžete sledovat v našem obchodě v sekci [Sledování pro návštěvníky]({guest_tracking_url}).
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

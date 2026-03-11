@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+Dobrý den {firstname} {lastname},
+
+Zákaznický servis - Diskuze přeposlána
+
+{employee} Vám chce předat tuto diskuzi.
+
+Historie diskuze: {messages}
+
+{employee} přidal komentář {comment}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

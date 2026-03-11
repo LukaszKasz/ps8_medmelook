@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>pdgooglemerchantcenterpro</name>
+    <displayName><![CDATA[PD Google Shopping Pro]]></displayName>
+    <version><![CDATA[2.6.3]]></version>
+    <description><![CDATA[Moduł generuje plik XML dla Google Merchant center / Gogole Shopping, dla wybranych kombinacji języka, waluty, sklepu lub kraju.]]></description>
+    <author><![CDATA[PrestaDev.pl]]></author>
+    <tab><![CDATA[seo]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>

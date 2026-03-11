@@ -1,0 +1,194 @@
+.payment_module a {
+	overflow:auto;line-height:65px
+}
+
+.loading_gif {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#blik_code {
+	width:230px;
+}
+
+#content_blik_code {
+	padding:.9375rem;
+}
+
+.modal_blik {
+	display:none;
+	position:fixed;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	z-index:50000;
+	background:rgba(0, 0, 0, .5)
+}
+
+.modal_blik-content {
+	background:#fbfbfb none;
+	border:1px solid #d6d4d4;
+	border-radius:4px;
+	transform:translate(-50%, -50%);
+	position:absolute;
+	top:50%;
+	left:50%;
+	color:black;
+	padding:20px;
+}
+
+#modal_blik_code-content {
+	max-width:274px;
+}
+
+.remember_code-content {
+	margin-bottom:10px;
+}
+
+.blik-alias, .alias-deactivate {
+	margin-right:5px;
+	margin-bottom:5px;
+}
+
+#modal_processing {
+	display:none;
+	position:fixed;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	z-index:50000;
+	background:rgba(0, 0, 0, .5)
+}
+
+.d--none {
+	display:none;
+}
+
+.alias-deactivate {
+	font-weight:600;
+	text-transform:uppercase
+}
+
+.fr {
+	float:right;
+}
+
+#text-tip {
+	margin-top:2rem;
+	margin-left:2rem;
+}
+
+#insert_blik_code-text:after {
+	float:right;
+	content:"\25bc";
+}
+
+#insert_blik_code-text.is-active:after {
+	content:"\25b2";
+}
+
+.loading_gif {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+.imoje_blik_code {
+	letter-spacing:5px;
+}
+
+.input-hidden {
+	/* For Hiding Radio Button Circles */
+	position:absolute;
+	left:-9999px;
+}
+
+.box-pm > input[type="radio"]:checked + label {
+	border:1px solid #db5400;
+}
+
+.box-pm {
+	display:-webkit-box;
+	display:-ms-flexbox;
+	display:flex;
+	-ms-flex-wrap:wrap;
+	flex-wrap:wrap;
+	-webkit-box-pack:start;
+	-ms-flex-pack:start;
+	justify-content:flex-start;
+}
+
+.box-pm > .pm {
+	margin:0 .8125rem;
+}
+
+.box-pm > .pm-content {
+	position:relative;
+	margin-bottom:1.563rem;
+	height:165px;
+	width:161px;
+	background:#ffffff;
+	box-shadow:2px 2px 8px 0 rgb(0 0 0 / 20%)
+}
+
+.box-pm > .pm-content:hover {
+	border:1px solid #db5400
+}
+
+.pm-content > .pm-logo {
+
+	max-height:50%;
+	max-width:65%;
+	position:absolute;
+	top:0;
+	bottom:0;
+	left:0;
+	right:0;
+	margin:auto;
+}
+
+.pm-content > .pm-description {
+	bottom:1.25rem;
+	padding-top:.625rem;
+	z-index:2;
+	text-align:center;
+	height:3.125rem;
+	transition:bottom .3s;
+	color:black;
+}
+
+.pbl-loading > .pbl_loading-content {
+	background:#fbfbfb none;
+	border:1px solid #d6d4d4;
+	border-radius:4px;
+	transform:translate(-50%, -50%);
+	position:absolute;
+	top:50%;
+	left:50%;
+	color:black;
+	padding:20px;
+}
+
+#pbl_loading {
+	position:fixed;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	z-index:50000;
+	background:rgba(0, 0, 0, .5)
+}
+
+.pbl_is_not_online {
+	filter:grayscale(100%);
+	pointer-events:none;
+	text-decoration:none !important;
+}
+
+.pbl_img_grayscale {
+	filter:grayscale(100%);
+}

@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin1234" source-language="sv-SE" target-language="sv-SE" datatype="plaintext">
+    <body>
+        <trans-unit id="731ba043178c37ff680e4065d80a154f">
+            <source>API key is missing, setting default models.</source>
+            <target>API-nyckel saknas, standardmodeller ställs in.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="4ea1b466fddc094d2559f2ca1d4bece5">
+            <source>Error connecting to API: </source>
+            <target>Fel vid anslutning till API:</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="ac9c86e73a07d758db9a310819605d19">
+            <source>Unauthorized: Invalid API key.</source>
+            <target>Obehörig: Ogiltig API-nyckel.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="9eaa881086685b3dcb00dc6a1bb65f7e">
+            <source>Failed to connect to API. HTTP Status Code: </source>
+            <target>Misslyckades med att ansluta till API. HTTP-statuskod:</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="6d9e8308f31825abd91b0acf6398e4f5">
+            <source>API connection successful.</source>
+            <target>API-anslutning lyckades.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="2c7ad613cb43207929424cdb9907e186">
+            <source>Failed to retrieve models, setting default models.</source>
+            <target>Misslyckades med att hämta modeller, standardmodeller ställs in.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="fc42865ab309f2e642480630b92db575">
+            <source>This field cannot be empty</source>
+            <target>Detta fält får inte vara tomt</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="3fb66787028092600f08cd2c37cc1027">
+            <source>I manage a website focused on the theme of %theme%. Can you suggest some blog topics I should develop? Format the response as an HTML table with two columns: one for the 'Topic' and one for the 'Popularity Score' (a number between 1 and 100). Each topic should be in a separate row.</source>
+            <target>Jag hanterar en webbplats som fokuserar på temat %theme%. Kan du föreslå några blogginlägg som jag borde utveckla? Formatera svaret som en HTML-tabell med två kolumner: en för 'Ämne' och en för 'Popularitetspoäng' (ett tal mellan 1 och 100). Varje ämne ska vara i en separat rad.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="3c299be1cf8d8948c25b1433eecc542f">
+            <source>Use the topic "%theme%". Create a table with title and keyword variations that group long-tail terms capable of ranking in search engines. Format the response as an HTML table with two columns: one for the Titles and one for the keywords.</source>
+            <target>Använd ämnet "%theme%". Skapa en tabell med titel- och nyckelordsvariationer som grupperar långsvansade termer som kan rankas i sökmotorer. Formatera svaret som en HTML-tabell med två kolumner: en för titlarna och en för nyckelorden.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="1065948d549c2bc51ea828181f2328cf">
+            <source>I want you to write a SEO-optimized blog article on the topic of "%theme%", with a writing style of "%style%". Structure the text in HTML with appropriate tags. The article should be engaging, relevant, high-quality, and undetectable as AI-generated content. Start with an introductory paragraph without mentioning the blog or using a heading. Use subheadings formatted with h2 and h3 tags, incorporating long-tail titles to enhance SEO. Naturally integrate long-tail keywords and highlight them with strong tags. Ensure that each section contains at least 100 words, with smooth transitions. Conclude with a summary that reinforces the key points without adding new information.</source>
+            <target>Jag vill att du ska skriva en SEO-optimerad bloggartikel om ämnet "%theme%" med en skrivstil av "%style%". Strukturera texten i HTML med lämpliga taggar. Artikeln ska vara engagerande, relevant, högkvalitativ och omöjlig att upptäcka som AI-genererat innehåll. Börja med ett inledande stycke utan att nämna bloggen eller använda en rubrik. Använd underrubriker formaterade med h2- och h3-taggar, och inför långsvansade titlar för att förbättra SEO. Integrera långsvansade nyckelord naturligt och markera dem med starka taggar. Se till att varje avsnitt innehåller minst 100 ord, med smidiga övergångar. Avsluta med en sammanfattning som förstärker huvudpunkterna utan att lägga till ny information.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="bdfb00881e5b80ef206858f72db30420">
+            <source>Create a captivating introduction that will be displayed in the blog category to present the article "%theme%". This introduction should be concise, engaging, and provide a general overview of the article's content.</source>
+            <target>Skapa en fängslande introduktion som kommer att visas i bloggkategorin för att presentera artikeln "%theme%". Denna introduktion ska vara kortfattad, engagerande och ge en allmän översikt över artikelns innehåll.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="dceabd505243b76be8191a63ff37046c">
+            <source>Based on the topic "%theme%", create a compelling title that will capture attention and summarize the content effectively. And do not include quotation marks around your answer</source>
+            <target>Skapa en övertygande titel baserad på ämnet "%theme%" som fångar uppmärksamhet och sammanfattar innehållet effektivt. Inkludera inga citattecken runt ditt svar</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="23e8bc5c05172b396e2a5bad9b1d6e7f">
+            <source>Based on the topic "%theme%", create a short and effective meta title that is SEO-friendly and accurately represents the content. And do not include quotation marks around your answer</source>
+            <target>Skapa en kort och effektiv metatitel baserad på ämnet "%theme%" som är SEO-vänlig och korrekt representerar innehållet. Inkludera inga citattecken runt ditt svar</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="cb71ee03fd4e763b82325c5fa0c28711">
+            <source>Based on the topic "%theme%", create a concise and compelling meta description that encourages clicks and is optimized for search engines. And do not include quotation marks around your answer</source>
+            <target>Skapa en kortfattad och övertygande metabeskrivning baserad på ämnet "%theme%" som uppmuntrar till klick och är optimerad för sökmotorer. Inkludera inga citattecken runt ditt svar</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="9d0996a44c6d51cf223e833dceecb286">
+            <source>Artificial intelligence</source>
+            <target>Artificiell intelligens</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="c2d32aa272572eafe2cc4770e2bfd014">
+            <source>ChatGPT API key</source>
+            <target>ChatGPT API-nyckel</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="cf5ec9fb9f7214a3db82a5a39fec5b48">
+            <source>Enter your API key</source>
+            <target>Ange din API-nyckel</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="75ed532d32dc70959050e31b77e58ea7">
+            <source>Leave this field empty to keep the current API key.</source>
+            <target>Lämna detta fält tomt för att behålla den nuvarande API-nyckeln.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="ceff4daba8325b3361765852aaee7993">
+            <source>ChatGPT Model</source>
+            <target>ChatGPT-modell</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="06933067aafd48425d67bcb01bba5cb6">
+            <source>Update</source>
+            <target>Uppdatera</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="c9303b1945ce21da78c0dbf322760d21">
+            <source>Your feedback matters!</source>
+            <target>Din feedback är viktig!</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="d29a6b40ffd41c38d621d20c857f64c1">
+            <source>Try out the idea generation and article writing assistance with ChatGPT, and let us know your thoughts. Your input is valuable to us.</source>
+            <target>Prova idégenerering och artikelhjälp med ChatGPT och låt oss veta vad du tycker. Din input är värdefull för oss.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="4d51c8de422054448e6ce0ba8e601d26">
+            <source>How to configure</source>
+            <target>Hur man konfigurerar</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="017a450e2366b7cac044ddc7d2ec6d8c">
+            <source>To get your API key, follow these steps:</source>
+            <target>För att få din API-nyckel, följ dessa steg:</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="936ccdb97115e9f35a11d35e3d5b5cad">
+            <source>Click here</source>
+            <target>Klicka här</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="95d1a91db28943b4415e58c3a33da00d">
+            <source>and create or log in to your OpenAI account</source>
+            <target>och skapa eller logga in på ditt OpenAI-konto</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="cc20f3461e758ab19d6c5153d0c03cbf">
+            <source>Generate a new API key or copy your existing API key.</source>
+            <target>Generera en ny API-nyckel eller kopiera din befintliga API-nyckel.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="de569f43eaf876d21ef31bdff02dddce">
+            <source>Save your API key securely.</source>
+            <target>Spara din API-nyckel säkert.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="114cc8b1c0ac091317b57b43c943ce3c">
+            <source>Choose the type of GPT you want to use. We suggest you start with the GPT-4 option.</source>
+            <target>Välj vilken typ av GPT du vill använda. Vi föreslår att du börjar med GPT-4-alternativet.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="0102e48992806b281dfda5b8c32dbfe0">
+            <source>For more detailed instructions, visit the</source>
+            <target>För mer detaljerade instruktioner, besök</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="a491057e2a512be510577e93ed7431ca">
+            <source>OpenAI documentation</source>
+            <target>OpenAI-dokumentation</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="e9fc39463470e1ad3aceeb8244e724a2">
+            <source>How to Use the ChatGPT Integration on PrestaBlog</source>
+            <target>Hur man använder ChatGPT-integrationen på PrestaBlog</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="5e128822110d5365a6045423ea397d33">
+            <source>Navigate to the article of your choice or create a new one in PrestaBlog.</source>
+            <target>Gå till artikeln du valt eller skapa en ny i PrestaBlog.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="7393a8196b30dc29c96f66e551d0e1a0">
+            <source>Click on, </source>
+            <target>Klicka på,</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="09f5fffbea463f4bba3c7df3bacf8af0">
+            <source>Create your article with the help of AI</source>
+            <target>Skapa din artikel med hjälp av AI</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="67cb07ef2029aac61fd1c58bae821126">
+            <source>Explore the 3 available fields:</source>
+            <target>Utforska de 3 tillgängliga fälten:</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="ac21e1aa38b4f246d09ab6ab35ed309e">
+            <source>AI conversation interface</source>
+            <target>AI-konversationsgränssnitt</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="1ec217726f49b348c4fd729dd4cdb3d9">
+            <source>This area displays the ongoing conversation with ChatGPT and indicates available actions.</source>
+            <target>Detta område visar den pågående konversationen med ChatGPT och indikerar tillgängliga åtgärder.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="876e05f7a35cede0a6dfb45ca8a1bf2f">
+            <source>Select the type of discussion</source>
+            <target>Välj typ av diskussion</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="f7a1a77382f593bf44d96f3ea90815da">
+            <source>Choose the purpose of your interaction with the AI, such as idea generation, writing article or summary, etc.</source>
+            <target>Välj syftet med din interaktion med AI, såsom idégenerering, skriva artikel eller sammanfattning, etc.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="229a6246e3bcb00dc80f5062f21e4261">
+            <source>Input Area:</source>
+            <target>Indataområde:</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="cb1dbc03dd0800161365d31bf34a0dfa">
+            <source>Use this area to enter your messages or requests based on the selected type of discussion. If needed, you can also fine-tune your inputs with specific prompts. ChatGPT’s responses will appear in the conversation interface.</source>
+            <target>Använd detta område för att skriva in dina meddelanden eller förfrågningar baserat på vald diskussionstyp. Om det behövs kan du även finjustera dina inmatningar med specifika uppmaningar. ChatGPT:s svar kommer att visas i konversationsgränssnittet.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="7e1b06e49d9166c6b0573f4c2a8a7a7d">
+            <source>Insert as Title</source>
+            <target>Infoga som titel</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="b956d3110bf0ec93f5143307f8805858">
+            <source>Insert as Summary</source>
+            <target>Infoga som sammanfattning</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="4fa9d50c162845ce07031e59a0b8f9d9">
+            <source>Insert as Content</source>
+            <target>Infoga som innehåll</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="01ad56177ad7d89c8bb1b87d04073b00">
+            <source>Insert as Meta Title</source>
+            <target>Infoga som metatitel</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="93ec8ef721a968d46e0d1c33b0b2ad0a">
+            <source>Insert as Meta Description</source>
+            <target>Infoga som metabeskrivning</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="6a6582418fa4fa682583297ce016691e">
+            <source>Perform Action</source>
+            <target>Utför åtgärd</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="deccbe4e9083c3b5f7cd2632722765bb">
+            <source>Translate</source>
+            <target>Översätt</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="570fdb4a2ef6f7de2ad5792df04762ac">
+            <source>Free Discussion</source>
+            <target>Fri diskussion</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="643c4b78e6b32f9c8c62e45bc2fe083f">
+            <source>Find Topic ideas</source>
+            <target>Hitta ämnesidéer</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="20ab5f1273080384c2f6e90b2d4e2977">
+            <source>Find SEO Variations ideas</source>
+            <target>Hitta SEO-variationsidéer</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="c6737f945d8059c07cd6883d954407f4">
+            <source>Write Article</source>
+            <target>Skriv artikel</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="28e0253892784cf8089a2fb5f8547302">
+            <source>Create Summary</source>
+            <target>Skapa sammanfattning</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="ac6d3236a59e3be0d834444665964096">
+            <source>Create Title</source>
+            <target>Skapa titel</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="9ca21d5ab709b656905d25323a10782e">
+            <source>Create Meta Title</source>
+            <target>Skapa metatitel</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="e2277017902135e0093a6164dc80b8cc">
+            <source>Create Meta Description</source>
+            <target>Skapa metabeskrivning</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="a5e2f7fabd1510feb6ee13b9c418624d">
+            <source>Choose a writing style for your article...</source>
+            <target>Välj en skrivstil för din artikel...</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="9238e39b78a343523047c8f093482fdc">
+            <source>Casual and Friendly</source>
+            <target>Avslappnad och vänlig</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="aeae4d62e861ba9c01c2aa96883c42a9">
+            <source>Emotional and Personal</source>
+            <target>Emotionell och personlig</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="9547cd0d23be04ccf439845e3dbdb0d7">
+            <source>Professional and Formal</source>
+            <target>Professionell och formell</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="dfee64ebedff424995f7bac3618a6b67">
+            <source>Sarcastic or Humorous</source>
+            <target>Sarkastisk eller humoristisk</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="b618ae21695ea702066a677432b9e939">
+            <source>Inspiring and Motivating</source>
+            <target>Inspirerande och motiverande</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="5aeb46595f96275a462932f0bfef3892">
+            <source>Confident and Assertive</source>
+            <target>Självsäker och bestämd</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="955bdfba4832e3f88b020a5c1edaaded">
+            <source>Thoughtful and Reflective</source>
+            <target>Eftertänksam och reflekterande</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="0510c2bebec733098959e5b1c27054a3">
+            <source>Trustworthy and Serious</source>
+            <target>Pålitlig och seriös</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="4023d776af856af29d16f68c6157b664">
+            <source>Innovative and Forward-thinking</source>
+            <target>Innovativ och framåtblickande</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="6a8a7969d927a7507103c244d079a617">
+            <source>Inclusive and Diverse</source>
+            <target>Inkluderande och mångsidig</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="0d579c0c2343b83459cc9882a9eb044c">
+            <source>Enter your theme...</source>
+            <target>Ange ditt tema...</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="88512a88100c22e54a61aaec8ed842ba">
+            <source>Type your message here...</source>
+            <target>Skriv ditt meddelande här...</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="94966d90747b97d1f0f206c98a8b1ac3">
+            <source>Send</source>
+            <target>Skicka</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="7713c2a0cbed27dadb47b358c95e2935">
+            <source>Enter your subject...</source>
+            <target>Ange ditt ämne...</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="b6ac38ddf6d8f88d5b6f14c6613b4f47">
+            <source>Enter your article topic...</source>
+            <target>Ange ditt artikelämne...</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="8d62b895b039cc484a42cd57dacaef12">
+            <source>Enter the theme to summarize...</source>
+            <target>Ange temat för att sammanfatta...</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="4217de8a5def833de500a1c9d9d16c93">
+            <source>Enter the topic for the title...</source>
+            <target>Ange ämnet för titeln...</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="21b06d47d600f4defa3f1490225dd958">
+            <source>Enter the topic for the meta title...</source>
+            <target>Ange ämnet för metatiteln...</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="4f1d1c82fe605744316162c2cf5c4a37">
+            <source>Enter the topic for the meta description...</source>
+            <target>Ange ämnet för metabeskrivningen...</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="299ec5932718436e262f5c13ab48f2ed">
+            <source>Processing your request, this might take a little time...</source>
+            <target>Behandlar din förfrågan, detta kan ta lite tid...</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="cfe1b4b75fb8dc152b124f9305835a11">
+            <source>Your message</source>
+            <target>Ditt meddelande</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="902b0d55fddef6f8d651fe1035b7d4bd">
+            <source>Error</source>
+            <target>Fel</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="06df33001c1d7187fdd81ea1f5b277aa">
+            <source>Actions</source>
+            <target>Åtgärder</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="6e00d090d55d80e07326e6defe846c78">
+            <source>Content inserted successfully.</source>
+            <target>Innehållet infogat framgångsrikt.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="78f31810e25fc5797dd2184947e14e09">
+            <source>Error inserting content.</source>
+            <target>Fel vid infogning av innehåll.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="6dd08874f83507e9c7b23f1a46b7fa7c">
+            <source>Translation</source>
+            <target>Översättning</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="0da980338ca97a6c3cfcd646be318b2d">
+            <source>Error: No visible field found.</source>
+            <target>Fel: Inget synligt fält hittades.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="f408a76b9b0b937b60217a50b6b65abb">
+            <source>Error: No visible TinyMCE editor found.</source>
+            <target>Fel: Ingen synlig TinyMCE-redigerare hittades.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="bb1fc649b76642bc3794e0b6912877be">
+            <source>Error: No visible meta title field found.</source>
+            <target>Fel: Inget synligt metatitelfält hittades.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="74f0d4137e01b767650b6779b4d7fc5b">
+            <source>Error: No visible meta description field found.</source>
+            <target>Fel: Inget synligt metabeskrivningsfält hittades.</target>
+            <note>Line: </note>
+        </trans-unit>
+    </body>
+  </file>
+</xliff>

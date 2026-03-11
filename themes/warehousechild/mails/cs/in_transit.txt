@@ -1,0 +1,21 @@
+ 
+
+{shop_url}
+
+Dobrý den {firstname} {lastname},
+
+{meta_products}
+
+Objednávka ID {order_name} - Zásilka na cestě
+
+Vaše objednávka s označením {order_name} je na cestě.
+
+Vaši zásilku můžete sledovat přes následující odkaz: {followup}
+
+Sledovat tuto objednávku a stáhnout fakturu si můžete v našem obchodě, přejděte do části [Historie a detaily mých objednávek]({history_url}) ve svém zákaznickém účtu.
+
+Pokud máte účet hosta, svou objednávku můžete sledovat v našem obchodě v sekci [Sledování pro návštěvníky]({guest_tracking_url}).
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

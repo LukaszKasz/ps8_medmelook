@@ -1,0 +1,2642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin1234" source-language="it-IT" target-language="it-IT" datatype="plaintext">
+    <body>
+      <trans-unit id="f053545db1f4926f9f65343d8f1a4cf2">
+        <source>PrestaBlog</source>
+        <target>PrestaBlog</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f9b9dddfee3bcf6f4813459a502f3c10">
+        <source>A module to add a blog on your web store.</source>
+        <target>Modulo Blog nel tuo negozio online.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d6f47e627cb8b9186caa435aba1c32ae">
+        <source>Are you sure you want to delete this module ?</source>
+        <target>Sei sicuro di voler eliminare questo modulo ?</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="86f5978d9b80124f509bdb71786e929e">
+        <source>January</source>
+        <target>Gennaio</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="659e59f062c75f81259d22786d6c44aa">
+        <source>February</source>
+        <target>Febbraio</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="fa3e5edac607a88d8fd7ecb9d6d67424">
+        <source>March</source>
+        <target>Marzo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3fcf026bbfffb63fb24b8de9d0446949">
+        <source>April</source>
+        <target>Aprile</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="195fbb57ffe7449796d23466085ce6d8">
+        <source>May</source>
+        <target>Maggio</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="688937ccaf2a2b0c45a1c9bbba09698d">
+        <source>June</source>
+        <target>Giugno</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="1b539f6f34e8503c97f6d3421346b63c">
+        <source>July</source>
+        <target>Luglio</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="41ba70891fb6f39327d8ccb9b1dafb84">
+        <source>August</source>
+        <target>Agosto</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="cc5d90569e1c8313c2b1c2aab1401174">
+        <source>September</source>
+        <target>Settembre</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="eca60ae8611369fe28a02e2ab8c5d12e">
+        <source>October</source>
+        <target>Ottobre</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7e823b37564da492ca1629b4732289a8">
+        <source>November</source>
+        <target>Novembre</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="82331503174acbae012b2004f6431fa5">
+        <source>December</source>
+        <target>Dicembre</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="03ac21a9797a06114f0aedd391a1e2a3">
+        <source>No result found</source>
+        <target>Nessun risultato trovato</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="97fc49da00b5b533824411a0dd8fe11a">
+        <source>No result listed</source>
+        <target>Nessun risultato elencato</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="19bc7ba72ef4e327ed6da4afb0a96b1c">
+        <source>Total results</source>
+        <target>Risultati totali</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="10ac3d04253ef7e1ddc73e6091c0cd55">
+        <source>Next</source>
+        <target>Successivo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="dd1f775e443ff3b9a89270713580a51b">
+        <source>Previous</source>
+        <target>Precedente</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ac8b3e2ec1e793aa6c5e3879f3b2b79e">
+        <source>Block Rss all news</source>
+        <target>Blocco  Rss di tutte le notizie</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="73f6dc9e161e2551b2a263284db9ea2e">
+        <source>Block date news</source>
+        <target>Blocco data notizie</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="77cd4c6e9fc515a26032ca264521b7c0">
+        <source>Block last news</source>
+        <target>Blocco ultime notizie</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ae0c2b24293831cf267cf094a57d7a54">
+        <source>Block categories news</source>
+        <target>Blocco categoria notizie</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="69535f357422616a72036e854914061b">
+        <source>Block search news</source>
+        <target>Blocco cerca notizie</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="13bb840e469436600921a08de411ac9b">
+        <source>The import XML was successfull</source>
+        <target>Importazione XML riuscita</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="1f78cefa133fbaafa5f1ae553260ae71">
+        <source>No import selected</source>
+        <target>Nessuna import selezionato</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="1f22ea7e638047fed6a3d88f8c81bef9">
+        <source>news feed</source>
+        <target>Aggiornamento notizie</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d81f3016a226533dbca05704805eca90">
+        <source>This class doesn't exists: </source>
+        <target>Questa class non esiste: </target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f3ce02800e3e9df3ea8b02445f2a0529">
+        <source>Settings of Creative slider's slides</source>
+        <target>Impostazioni delle diapositive del cursore creativo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="db96bbe90d28bfa6cbc0d2d5ac489d1b">
+        <source>Select a slider</source>
+        <target>Selezionare un slide</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3f5cf04aca6eae079b2b22a40c6a64b9">
+        <source>If you select a slider from Creative slider, please switch off the Prestablog's slideshow on the right side.</source>
+        <target>Se si seleziona uno slider da Creative slider, disattivare lo slideshow di Prestablog sul lato destro.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c9cc8cce247e49bae79f15173ce97354">
+        <source>Save</source>
+        <target>Registrare</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="22142e4e6e72504f517fd98c776319e7">
+        <source>An error occurred while delete news.</source>
+        <target>Si è verificato un errore mentre cancellavi la notizia.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="313007ce1e0eb57babf581542228ba3d">
+        <source>An error occurred while delete categorie.</source>
+        <target>Si è verificato un errore mentre cancellavi categoria.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f92a48a0448fb9432dbbbf1486bc1c8e">
+        <source>An error occurred while delete antispam question.</source>
+        <target>Si è verificato un errore mentre cancellavi una domanda antispam.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ca90e66968c38c374bbf4f7611f026a4">
+        <source>An error occurred while change status of news.</source>
+        <target>Si è verificato un errore durante la modifica delle notizie.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="17343dbec34fbf13eb3df714bda77b7d">
+        <source>An error occurred while change status of slide.</source>
+        <target>Si è verificato un errore durante la modifica dello stato della diapositiva.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ee0742d6ee06f56bd390fe88a4a2a160">
+        <source>An error occurred while change status of antispam question.</source>
+        <target>Si è verificato un errore durante la modifica dello stato della domanda antispam.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="980dad224cc15762be75068ed86483e4">
+        <source>Sorry, your file must be png/jpg/jpeg/gif.</source>
+        <target>Spiacenti, il tuo file deve essere in formato png / jpg / jpeg / gif</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="2103f1e1e666ba192f45e6c098aea452">
+        <source>Sorry, your file was not uploaded. Your image needs to be less than </source>
+        <target>Siamo spiacenti, il tuo file non è stato caricato. La tua immagine dovrebbe essere inferiore a</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="76deecf26ebacbb0fd60d0f77e437b97">
+        <source> px width and </source>
+        <target>px di larghezza e</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3abcca3d3511f0a249cdd9e8f92dd27a">
+        <source> px height</source>
+        <target>px di altezza</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5d9edb185f5766cd28d9c0f623b7d804">
+        <source>You must activate at least one language</source>
+        <target>È necessario attivare almeno una lingua</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="dafb85f65a311cdc055d0f2d783e044e">
+        <source>You must choose at least one categorie</source>
+        <target>Devi scegliere almeno una categoria</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="08250f9f4f626ac2ce3274a7097ed523">
+        <source>The title must be specified</source>
+        <target>Il titolo deve essere specificato</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3f7a47bf95fcbd6fd941842bc27bad4b">
+        <source>The url rewrite must be specified</source>
+        <target>È necessario specificare la riscrittura della URL</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="47754ac9bfba14780fd6adaafcfaf5e9">
+        <source>The content or introduction must be specified</source>
+        <target>È necessario specificare il contenuto o la introduzione</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9e3e99e2476b084f5813e7e3ab027551">
+        <source>An error occurred while add object.</source>
+        <target>Si è verificato un errore durante la aggiunta di oggetti.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6616420f2bc707b0df9bb533c17b770a">
+        <source>An error occurred while upload image.</source>
+        <target>Si è verificato un errore durante il caricamento della immagine.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="69641f6ae277a6d5d1d9b42eb2b0472b">
+        <source>An error occurred while update object.</source>
+        <target>Si è verificato un errore durante aggiornamento dello oggetto.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a37ede293936e29279ed543129451ec3">
+        <source>Groups</source>
+        <target>Gruppi</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="883613b95f14f4b58813e812f2b9d62b">
+        <source>The question must be specified</source>
+        <target>La domanda deve essere specificata</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="41f477a05b09f922fbade2c404c8dba7">
+        <source>The reply must be specified</source>
+        <target>La risposta deve essere specificata</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="697a33d59d1c84d365cd65412877875b">
+        <source>An error occurred while change status of custom articles list.</source>
+        <target>Si è verificato un errore durante la modifica dello stato degli articoli personalizzati.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7ad7fa0e2e6b21e7019afab19ce19338">
+        <source>An error occurred while change random status of custom articles list.</source>
+        <target>Si è verificato un errore durante la modifica dello stato casuale degli articoli personalizzati.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b361125ea4a467a61a3ccc35c6efdf61">
+        <source>An error occurred while delete object.</source>
+        <target>Si è verificato un errore durante eliminazione dello oggetto.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9246c0869a074b37bd4c03a554b0c035">
+        <source>The field %1$s is not a correct.</source>
+        <target>Il campo %1$s non è corretto.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="88a3e730bd6d4bf7eeb9e3ea90afe07a">
+        <source>Permanent redirect url</source>
+        <target>URL di reindirizzamento permanente</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d0567a0995baf69e8cc59840a27d364e">
+        <source>The name must be specified</source>
+        <target>Il nome deve essere specificato</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="186c30cab59f6b64a453778330d4bbf0">
+        <source>New comment</source>
+        <target>Nuovo commento</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7fc8b5e7597368c070f5bc87c719dcc1">
+        <source>This action cannot be taken.</source>
+        <target>Questa azione non può essere presa.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b768c7adc2675864c15627b87ad9ef22">
+        <source>Nobody</source>
+        <target>Nessuno</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="076c37de9720bbc1d4049e5ffb69fc7a">
+        <source>No items to import</source>
+        <target>Nessun elemento da importare</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="1fa12c8f529dea873f1a5a0f65e76045">
+        <source>The file is too large. Maximum size allowed is: %1$d kB. The file you're trying to upload is: %2$d kB.</source>
+        <target>Il file è troppo grande. La dimensione massima consentita è: %1$d kB. Il file che si sta cercando di caricare è: %2$d kB.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="aad781b9842958b4552b8edebb83c346">
+        <source>File copy failed</source>
+        <target>La copia dei file non è riuscita</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="462390017ab0938911d2d4e964c0cab7">
+        <source>Settings updated successfully</source>
+        <target>Le impostazioni sono state aggiornate correttamente</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="833433c9605167bd3fa002aec5985b63">
+        <source>No existing the module's default "en" mails folder.</source>
+        <target>No esistente la cartella di posta elettronica predefinita del modulo "en".</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b201af4440cf75d5624bd1fa2d94ddda">
+        <source>Error extract the module's default "en" mails folder.</source>
+        <target>Errore nell'estrazione della cartella di posta predefinita "en" del modulo.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b62b5cc616309c5e51020e78e3ec6b7b">
+        <source>Restore the module's default "en" mails folder successfull.</source>
+        <target>Ripristino della cartella di posta elettronica predefinita del modulo "en" riuscito.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="1ee816370d9a4d6c79994fc3be000846">
+        <source>No existing the sitemap folder for %1$s</source>
+        <target>Non esiste la cartella sitemap per %1$s</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4ee64ac1b000a0626e1cac6644bad91e">
+        <source>Error creating the sitemap folder for %1$s.</source>
+        <target>Errore creando la cartella sitemap per %1$s.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="22c6f139d26a5fa1350269125de281b1">
+        <source>Creating sitemap folder for %1$s successfull</source>
+        <target>Creazione della cartella sitemap per %1$s con successo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ea05dfabc1a9e2e4803658b3568787b9">
+        <source>The folder %1$s not have the write permissions.</source>
+        <target>La cartella %1$s non ha la autorizzazione in scrittura.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7b69b5fccb13e760749eb3a5bfd5a597">
+        <source>Refresh this page to enter again on the configuration of module.</source>
+        <target>Aggiorna questa pagina per entrare nuovamente sulla configurazione del modulo.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="1b9f33bd085da512e04838b01e3633ca">
+        <source>Could not change status.</source>
+        <target>Impossibile di cambiare lo statuto</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8fa632336cc8cc71a9a24af1abb765e8">
+        <source>Could not delete.</source>
+        <target>Impossibile eliminare</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9fd70c5774a74d31c2b6479d791963bf">
+        <source>Could not delete %1$s</source>
+        <target>Impossibile eliminare %1$s</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c2eb1b8b5f03a79891931916419cb386">
+        <source>Please choose a starting date</source>
+        <target>Scegli una data di partenza</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a3c85fb5d1c6b40c589e1e888a1bb6ce">
+        <source>Please choose a stopping date</source>
+        <target>Scegli una data di fine</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4e026102bd55b0495e8053023da29305">
+        <source>Add an author</source>
+        <target>Aggiungi un autore</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="67e03ea53b5112966751b94bdb31b28a">
+        <source>Select an author</source>
+        <target>Seleziona un autore</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6345f96720cbfe583149acf9992825ee">
+        <source>Add an author :</source>
+        <target>Aggiungi un autore:</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="02ed1e68a953eb2d75633728315618c1">
+        <source>Edit your profile</source>
+        <target>Modifica il tuo profilo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7e628e66731f2886762ed9ebdc1305a5">
+        <source>Please add your employee account to the list of authors before editing your profile</source>
+        <target>Si prega di aggiungere il tuo account dei dipendenti alla lista degli autori prima di modificare il tuo profilo.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="847fcf17b5e3d8a6625d71c4dedd34a1">
+        <source>Your avatar</source>
+        <target>Il tuo avatar</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="2601da5290ce11255d7498228be63e20">
+        <source>Your pseudo</source>
+        <target>Nome utente</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9100c7317c2f55730e163e7e710c0a52">
+        <source>Biography</source>
+        <target>biografia</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ce8ae9da5b7cd6c3df2929543a9af92d">
+        <source>Email</source>
+        <target>Email</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c4144f455327c502b8916e1556478ad7">
+        <source>Meta Title</source>
+        <target>Meta Titolo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="81a35ec1dc4a194f938b211a86a57826">
+        <source>Meta Description</source>
+        <target>Meta Descrizione</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="232df6779ed585fc66a7ac8e3f54a852">
+        <source>Add a slide</source>
+        <target>Aggiungi una diapositiva</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="91fc1bdbc21d35d08151c312cf4e3e1a">
+        <source>The actual configuration of your sizes are settle to : </source>
+        <target>La configurazione attuale delle tue immagini è</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="32bd52059351cd9ac4ae44f16746da11">
+        <source>Edit your slide</source>
+        <target>Modifica la tua diapositiva</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4994a8ffeba4ac3140beb89e8d41f174">
+        <source>Language</source>
+        <target>Lingua</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3581732b5efcb29c5713bd74f395b7a6">
+        <source>Your slide</source>
+        <target>La tua diapositiva</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="273324ccef0b112ea366981970f67155">
+        <source>Your title</source>
+        <target>Il tuo titolo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="52f5e0bc3859bc5f5e25130b6c7e8881">
+        <source>Position</source>
+        <target>Posizione</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="08246ed5a489539cb8e4fe5224bcdea5">
+        <source>URL </source>
+        <target>URL </target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9011ab007b285c442218a517d377a9ce">
+        <source>ID slide </source>
+        <target>ID slide</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7dce122004969d56ae2e0245cb754d35">
+        <source>Edit</source>
+        <target>Edit</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e67ca739de677a95122f70f5cd7ff7f3">
+        <source>Add your articles on home's frontpage</source>
+        <target>Aggiungi i tuoi articoli sulla prima pagina di casa</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b00c17395db23a0fd26878a04015b446">
+        <source>Update the list</source>
+        <target>Aggiorna elenco</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a0e0aa87f4c463db171914d10ea9cf93">
+        <source>Create a list</source>
+        <target>Crea un elenco</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="927b073591b984cf3cb05b6ace76f51b">
+        <source>Wizard templating</source>
+        <target>Assistente al disegno</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="06933067aafd48425d67bcb01bba5cb6">
+        <source>Update</source>
+        <target>Aggiorna</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9ac20e4ca27e829f600855a24ad01c9e">
+        <source>Slideshow Prestablog</source>
+        <target>Prestablog Slideshow</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="74c454eedb4372a0359917306db97407">
+        <source>Slide on homepage</source>
+        <target>Slideshow sulla pagina iniziale</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f10c2624735f28296e99afa2ce01261f">
+        <source>The slide will be displayed in the center column of the home page of your shop.</source>
+        <target>La slide verrà visualizzata nella colonna centrale della home page del tuo negozio.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="1345b4f4255937a53cd9706bbdf815a6">
+        <source>Slide on blogpage</source>
+        <target>Slideshow nella pagina del blog</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8e6ca7a91a365cc6b2811026938fb42b">
+        <source>The slide will be displayed in the top of first page articles list of blog.</source>
+        <target>La slide verrà visualizzata nella parte superiore dell elenco di articoli nella prima pagina del blog.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="46af1df6cdf3f22d29146a3af1482637">
+        <source>Number of slide to display</source>
+        <target>Numero di slide da visualizzare</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d79e8a66760bddceba23423a722c2d5e">
+        <source>Slide picture width</source>
+        <target>Larghezza dell'immagine sulla slide</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="21de26caa6bcfc936378c4e45d235bd9">
+        <source>px</source>
+        <target>px</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="84589d3ae1c3699e0b80d58f1bf5ad9d">
+        <source>Slide picture height</source>
+        <target>Altezza dell'immagine sulla slide</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f3a773ab8a01d02c83f501a5edde791f">
+        <source>Show slide title on front</source>
+        <target>Mostra il titolo della diapositiva sul front</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="90eb46c9651375c285dfe70eb4f9da67">
+        <source>If enabled, the title of the slide will be displayed on the front.</source>
+        <target>Se abilitato, il titolo della diapositiva verrà visualizzato sul front.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="cb5feb1b7314637725a2e73bdc9f7295">
+        <source>Color</source>
+        <target>Colore</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="44749712dbec183e983dcd78a7736c41">
+        <source>Date</source>
+        <target>Data</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="75f1b9e3e4b66269c68e66978c2047b9">
+        <source>The classic comment system (on the left of your page) and its options cannot be applied to facebook comments (on the right of your page).</source>
+        <target>Il classico sistema di commenti (a sinistra della tua pagina) e le sue opzioni non possono essere applicati ai commenti su facebook (a destra della tua pagina).</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3f39346fc4cbaa95c603494163c30a33">
+        <source>Add news</source>
+        <target>Aggiungi news</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ba1dcb5f64496c1534696394139c62e1">
+        <source>Edit news</source>
+        <target>Modifica news</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d86a812bf576ab6d3d1996e5526b2d41">
+        <source>You must search before</source>
+        <target>Occorre cercare prima</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="bc8366b78f12d553ddfc571ffa53a0f6">
+        <source>caract. minimum</source>
+        <target>caratt. minimo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f03ca4e495eb8750b5af1e6fea6b0320">
+        <source>No author</source>
+        <target>Nessun autore</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="28a48861b7e20fa5de9771f61e3a7c34">
+        <source>Completed url with http://</source>
+        <target>Completa url con http://</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="eb5e6346e3b09e7ff6cc8bfd50c7a50d">
+        <source>This feature will redirect %1$s to this url with a redirect 301</source>
+        <target>Questa funzione sarà reindirizzata %1$s a questa url con il reindirizzamento 301</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="abd23ceebb3203d9dace4ad8102853c4">
+        <source>Add a category</source>
+        <target>Aggiungi una categoria</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="75b2d4ac71345554fefc81ad3387e129">
+        <source>Update the category</source>
+        <target>Aggiorna la categoria</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="735758d6c6e4760d2e554096446b6186">
+        <source>Add an AntiSpam question</source>
+        <target>Aggiungi una domanda AntiSpam</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e325ca37e05f996f1f27eff4027f58ad">
+        <source>Update the AntiSpam question</source>
+        <target>Aggiorna la domanda AntiSpam</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c3edcf2cedbd4ce230fd6d4ea8915718">
+        <source>Add a comment</source>
+        <target>Aggiungi un commento</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="025432c7c05c5a5e1532a9a0ab6ba67a">
+        <source>Update the comment</source>
+        <target>Aggiorna il commento</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="2d13df6f8b5e4c5af9f87e0dc39df69d">
+        <source>Pending</source>
+        <target>In attesa</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="00d23a76e43b46dae9ec7aa9dcbebb32">
+        <source>Enabled</source>
+        <target>Abilitato</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b9f5c797ebbf55adccdd8539a65a0241">
+        <source>Disabled</source>
+        <target>Disabilitato</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4076777286cd762b10374fd9c72b21c2">
+        <source>Your antispam reply is not correct.</source>
+        <target>La risposta antispam non è corretta.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="1e247ea0de5aef3373cff1f3d0fcd61a">
+        <source>Your name cannot be empty or inferior at 3 characters.</source>
+        <target>Il nome non può essere vuoto o inferiore a 3 caratteri.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="835ddebe55cc13b1868a2c16f6eaf579">
+        <source>Your comment cannot be empty or inferior at 5 characters.</source>
+        <target>Il commento non può essere vuoto o inferiore a 5 caratteri.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="257fff31b9e337a8cd99ef49e4c846f3">
+        <source>Make sure the url is correct.</source>
+        <target>Sei sicuro che url sia corretta.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="cbda1a3334f6fe94cfb8ac3ff4e90d62">
+        <source>Make sure to validate the captcha.</source>
+        <target>Si prega di convalidare il captcha</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="be8df1f28c0abc85a0ed0c6860e5d832">
+        <source>Blog</source>
+        <target>Blog</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d3b206d196cd6be3a2764c1fb90b200f">
+        <source>Delete selected</source>
+        <target>Cancellare la voce selezionata</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="42ebe9c4abe97a25114a946418a5dc6a">
+        <source>For the popup to appear constantly, turn it to 0</source>
+        <target>Affinché il popup appaia costantemente, ruotatelo su 0</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="71860c77c6745379b0d44304d66b6a13">
+        <source>page</source>
+        <target>pagina</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="32036005d1f6ed59803ba3e13c80993e">
+        <source>Avatar</source>
+        <target>Avatar</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a517747c3d12f99244ae598910d979c5">
+        <source>Author</source>
+        <target>Autore</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="798cbab92e12849302dd4ac8992e2bfc">
+        <source>Pseudo</source>
+        <target>Pseudo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="53f6c9a8c1f52d5c15061da107542e87">
+        <source>Date of creation</source>
+        <target>Data di creazione</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="04a8fe2d7245549f7019d3c990cd0cb3">
+        <source>Number of articles</source>
+        <target>Numero di articoli</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f9a6c66256d82f5641cd5a8e417713b4">
+        <source>Most red article</source>
+        <target>Articolo più letto</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="004bf6c9a40003140292e97330236c53">
+        <source>Action</source>
+        <target>Azione</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="729a51874fe901b092899e9e8b31c97a">
+        <source>Are you sure?</source>
+        <target>Sei sicuro?</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9f2519e4b2d3c1b668f286151e12a98d">
+        <source>Disable this rewrite</source>
+        <target>Disabilita il rewrite</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="318653bbd53094e42e8c3280aa2177f0">
+        <source>Enable this rewrite</source>
+        <target>Abilita il rewrite</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a13367a8e2a3f3bf4f3409079e3fdf87">
+        <source>Activate</source>
+        <target>Attivare</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b78a3223503896721cca1303f776159b">
+        <source>Title</source>
+        <target>Titolo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="52b68aaa602d202c340d9e4e9157f276">
+        <source>Parent category</source>
+        <target>Categoria conosciuta</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5ca7d5dd908ec79c8a1a1ff012004a45">
+        <source>Top level</source>
+        <target>Livello superiore</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d88946b678e4c2f251d4e292e8142291">
+        <source>SEO</source>
+        <target>SEO</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="0419cd753e9b23a8f46fcdaa7a572a75">
+        <source>Click here to improve SEO</source>
+        <target>Click qui per migliorare SEO</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e5c2784cbcfad27a5d674904e4173571">
+        <source>Url Rewrite</source>
+        <target>Url Rewrite</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="1a5a836f2a02fcdda2e7be4c692ff74e">
+        <source>Meta Keywords</source>
+        <target>Meta Chiave</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8ae5811be1a55b9b8447ad2dbdadbf6e">
+        <source>Picture</source>
+        <target>Immagine</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="391fc5fd0417404f63008d1356bdb6a0">
+        <source>Feature disabled on the demo mode</source>
+        <target>Caratteristica disabilitata nel modo demo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9d723d04c40bfd81835c0766a698cf63">
+        <source>Resize</source>
+        <target>Ridimensiona</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a67967ed3311808e9898b42b597d63ab">
+        <source>Please select a picture to crop.</source>
+        <target>Seleziona un immagine di crop.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a0c9a54bd823761c8e77cbb8882f2deb">
+        <source>Please select a crop region then press submit.</source>
+        <target>Seleziona una regione crop e poi premi Invia.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b18c29b8470190a02813415a04a2191f">
+        <source>Filesize</source>
+        <target>Filesize</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f2a6c498fb90ee345d997f888fce3b18">
+        <source>Delete</source>
+        <target>Cancella</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="fb2ea703b13d059f6b7ea5da806021df">
+        <source>Format:</source>
+        <target>Formato:</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="56a2806869a84e3c0ca8f7ba649f24a7">
+        <source>thumb for category list</source>
+        <target>miniatura per elenco categoria</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="45489027067e1235b0d3ef35a97177c9">
+        <source>full picture for description category list</source>
+        <target>Immagine completa per la descrizione elenco delle categorie</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ea91855628ce37b5cf54a7613081527f">
+        <source>Real size : </source>
+        <target>Dimensione reale : </target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b5a7adde1af5c87d7fd797b6245c2a39">
+        <source>Description</source>
+        <target>Descrizione</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="115c4e928eca017d6a91ceeef3e83255">
+        <source>Groups permissions</source>
+        <target>Autorizzazioni di gruppo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4b78a2fee35c2dd5d3b961b591fb1f41">
+        <source>Add a popup to your categorie :</source>
+        <target>Aggiungi un popup in questa categoria</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="383eb32660315d0bd3d087e267305a7e">
+        <source>Add the category</source>
+        <target>Aggiuingi la categoria</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3f23c1cfddef4ae79936f7dca9fbee65">
+        <source>This position is already taken for this language</source>
+        <target>La posizione è già utilizzata per questa lingua</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f61e2beb1eadbef6951edd910745559a">
+        <source>This lang is already taken</source>
+        <target>Questa lingua è già utilizzata</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f10891cb61cf4be19c2db826a48cb033">
+        <source>Filter list</source>
+        <target>Filtra la lista</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b1c94ca2fbc3e78fc30069c8d0f01680">
+        <source>All</source>
+        <target>Tutti</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="fcd788b88a2c25e65bb60017071a0eee">
+        <source>Search by articles</source>
+        <target>ricerca attraverso i articoli</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4bfd97093c9f807d9d0f46fd2a7aa8ba">
+        <source>Search by comments</source>
+        <target>ricerca attraverso i commenti</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8413c683b4b27cc3f4dbd4c90329d8ba">
+        <source>Comments</source>
+        <target>Commenti</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="dd1ba1872df91985ed1ca4cde2dfe669">
+        <source>News</source>
+        <target>Notizie</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="49ee3087348e8d44e1feda1917443987">
+        <source>Name</source>
+        <target>Nome</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="0be8406951cdfda82f00f79328cf4efc">
+        <source>Comment</source>
+        <target>Commento</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ec53a8c4f07baed5d8825072c89799be">
+        <source>Status</source>
+        <target>Stato</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="06df33001c1d7187fdd81ea1f5b277aa">
+        <source>Actions</source>
+        <target>Azioni</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="77fca7b51f9411be8e965ed274856064">
+        <source>Approuved</source>
+        <target>Approvato</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="fd9720408a3f4d6e60dd0c62bf0c8fd3">
+        <source>Delete checked comments</source>
+        <target>Sopprimere i commenti selezionati</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="35b5686923e7aa1f677eca7671344516">
+        <source>No content registered</source>
+        <target>Nessun contenuto registrato</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b14388ee25ef0a602a7a01bbb1a0cea2">
+        <source>Import from Wordpress XML file</source>
+        <target>Importa file XML da Wordpress</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="54910c448bd082579f6efa43db2de472">
+        <source>Be carefull ! Select only Articles exportation on your WordPress.</source>
+        <target>Attenzione!Seleziona solo l'esportazione degli articoli nella tua WordPress</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ffeed24e8e4fd763c1d0d02c6e5d6e15">
+        <source>Upload file</source>
+        <target>Carica file</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="520d0db389f362bf79ef56ca0af3dcab">
+        <source>Format</source>
+        <target>Formato</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4d6b3d7ac642980a7167b9a8f96820a7">
+        <source>Send file</source>
+        <target>Invia file</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3af2af15db6054a424e1b203fd8e7a1b">
+        <source>The XML file in the configuration is not locate in the ./download directory</source>
+        <target>Il file XML nella configurazione non è stato localizzato nel ./download directory</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9fbeda0b49c65656f9fa7ac93cd5f094">
+        <source>You must upload a new import XML file.</source>
+        <target>Occorre caricare un nuovo file XML importato.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a721d3c843f880ce6f51b90309b886ac">
+        <source>The file is not an XML content</source>
+        <target>Il file non è un contenuto XML</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="513cc56a9a38c3b374e77d0e094e4c02">
+        <source>Chose the language where you want to import this xml</source>
+        <target>Scegli la lingua in cui desideri importare questo XML</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="53795a3abbaf97ba7e8dc6383c2ef396">
+        <source>Current XML import file in configuration :</source>
+        <target>Il file XML corrente importato nella configurazione :</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="653777801f96237326d65205bc9129e3">
+        <source>Select language</source>
+        <target>Seleziona la lingua</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="32d9823475d8ae13fba9385b0ca3f42f">
+        <source>Import the current file</source>
+        <target>Importa il file corrente</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a97ea56b0e00b2379736ae60869ff66a">
+        <source>Question</source>
+        <target>Domanda</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="49e80dfa857aff40931c6ff923e12db3">
+        <source>Expected reply</source>
+        <target>Risposta prevista</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="50896fb6020fc86ac627f5fcfe7bf3a4">
+        <source>Add the AntiSpam question</source>
+        <target>Aggiungi la domanda AntiSpam</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3fff94dc93220e94738179ab3ab74643">
+        <source>latest news in</source>
+        <target>ultimi articoli in</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b718adec73e04ce3ec720dd11a06a308">
+        <source>ID</source>
+        <target>ID</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7a1a5f3e79fdc91edf2f5ead9d66abb4">
+        <source>Read</source>
+        <target>Letti</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="09f73cdf1c5d547d068f3b97ecc837c7">
+        <source>Rate/5</source>
+        <target>Nota/5</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="0d4c14a20b4d98a5de54e1480bf99a25">
+        <source>Popup</source>
+        <target>Popup</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8087342711ad07f36e7e99ef899ff949">
+        <source>Products linked</source>
+        <target>Prodotti collegati</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5180225574daa470582912c7d340c419">
+        <source>No picture</source>
+        <target>Nessuna immagine</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8bf8854bebe108183caeb845c7676ae4">
+        <source>of</source>
+        <target>di</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c76a5e84e4bdee527e274ea30c680d79">
+        <source>active</source>
+        <target>attivo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="93cba07454f06a4a960172bbd6e2a435">
+        <source>Yes</source>
+        <target>Si</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="bafd7322c6e97d25b6299b5d6fe8920b">
+        <source>No</source>
+        <target>No</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b28abfd2003208024c5555ea6b9bf1cb">
+        <source>Facebook comments</source>
+        <target>Commenti Facebook</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a82be0f551b8708bc08eb33cd9ded0cf">
+        <source>Information</source>
+        <target>Informazioni</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="0d7fab3ccfa03532b997a95e7de3e6ee">
+        <source>To moderate comments, go on the front office at bottom of each posts.</source>
+        <target>Per moderare i commenti, vai al front-office alla fine di ogni post.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="06d4cd63bde972fc66a0aed41d2f5c51">
+        <source>comment</source>
+        <target>commento</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7c6c2e5d48ab37a007cbf70d3ea25fa4">
+        <source>pending</source>
+        <target>in attesa</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="15f183967acb96ef88ca01937653830d">
+        <source>If your multistore functionnality is on, please select one shop to configure your blog.</source>
+        <target>Se il funzionalità multistore è attivato, volete selezionare un shop per la configurazione del blog</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4ee29ca12c7d126654bd0e5275de6135">
+        <source>List</source>
+        <target>Elenco</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b9b371458ab7c314f88b81c553f6ce51">
+        <source>Hook</source>
+        <target>Hook</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="278c491bdd8a53618c149c4ac790da34">
+        <source>Template</source>
+        <target>Modello</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4f5390ce4f2674030e3f3a7a4ac22690">
+        <source>Leave blank to use the default template %1$s</source>
+        <target>Lasciare vuoto per utilizzare il modello predefinito %1$s</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c539bdc8b1a3a33ac4e3ad2b7276a218">
+        <source>Number of news to display</source>
+        <target>Numero di notizie da visualizzare</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="72e261061041816086cb3301941b9bec">
+        <source>Title length</source>
+        <target>Lunghezza titolo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f08fbfc65a13868d76bf38ba2f1be2d2">
+        <source>caracters</source>
+        <target>caratteri</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="08f69c5cc401288d657e7a924bb722bc">
+        <source>Description length</source>
+        <target>Descrizione dimensioni</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5da618e8e4b89c66fe86e32cdafde142">
+        <source>From</source>
+        <target>Da</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e12167aa0a7698e6ebc92b4ce3909b53">
+        <source>To</source>
+        <target>A</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="768ad0b7ce6affc233dc1df0a4337f98">
+        <source>Use a period</source>
+        <target>Utilizza un periodo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="fc4ccefd98d90e381996cfab9db5627c">
+        <source>Random list</source>
+        <target>Elenco casuale</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e58ada33cbe1c3cb09b9d27d46601586">
+        <source>This option will randomize your list.</source>
+        <target>Questa opzione renderà un elenco casuale.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="af1b98adf7f686b84cd0b443e022b7a0">
+        <source>Categories</source>
+        <target>Categorie</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="be53a0541a6d36f6ecb879fa2c584b08">
+        <source>Image</source>
+        <target>Immagine</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c758687bc1444342e76de35858cdcd2b">
+        <source>Blog link</source>
+        <target>Blog link</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="eebd3bfcf3f64fecb0d87aa1613442e1">
+        <source>Show link to the blog</source>
+        <target>Mostra il link del blog</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ec211f7c20af43e742bf2570c3cb84f9">
+        <source>Add</source>
+        <target>Aggiungi</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="63b388816cedca7b4df8fd537901f63c">
+        <source>Author configuration</source>
+        <target>Configurazione dell'autore</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="83166b233cd751bdea250171ea7d76a6">
+        <source>Only allow the author and super admin to edit their own news</source>
+        <target>Permettere solo all'autore dell'articolo e al superamministratore di modificare i loro articoli</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d53ea15cf1d9d7448dad7936ade84247">
+        <source>Enable author display</source>
+        <target>Consenti visualizzazione degli autori</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6cda8ea6835ecdb8928c0637de046bd8">
+        <source>Activate the display of author and author's link page on the news.</source>
+        <target>Visualizza il link dell'autore nella pagina dell'articolo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="299ee896c759deadb7dd8df8c81fa1c3">
+        <source>Display author on categories page</source>
+        <target>Visualizza l'autore nella pagina delle categorie</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6e8057f1eff43a3a1ce9645c9d58f574">
+        <source>Display the author link on the news page</source>
+        <target>Visualizza il link dell'autore nella pagina dell'articolo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="772aef5dd05c066faa4125d093d09501">
+        <source>Display the "About" block at the bottom of the news</source>
+        <target>Mostra il blocco "Informazioni" nella parte inferiore dell'articolo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="15a82e8c6ff514b82cd2144350e989a8">
+        <source>Number of news per page</source>
+        <target>Numero di notizie per pagina</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3365d5f03eaadc67a404449acbf870bc">
+        <source>Avatar width</source>
+        <target>Larghezza dell'immagine dell'autore</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e54618641a75801513b7d2f975fe053b">
+        <source>Avatar height</source>
+        <target>Altezza dell'immagine dell'autore</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8cf04a9734132302f96da8e113e80ce5">
+        <source>Home</source>
+        <target>Inizio</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="1c7a0770180eb09999a6268fdd00a081">
+        <source>Manage content</source>
+        <target>Gestione contenuti</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6be904b1479d5f5e2bddb4f841e3e5d0">
+        <source>Customize news list</source>
+        <target>Personalizza elenco delle notizie</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6160a53ece50ce6d4f5ef4452549835e">
+        <source>Slide</source>
+        <target>Slide</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8625e1de7be14c39b1d14dc03d822497">
+        <source>Tools</source>
+        <target>Strumenti</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c24c8335069ec1e8ce444750485f8c35">
+        <source>Anti-spam</source>
+        <target>Anti-spam</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="02bca576c9ebebebdc08396f1d88ceb3">
+        <source>Import WordPress XML</source>
+        <target>Importa WordPress XML</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5813ce0ec7196c492c97596718f71969">
+        <source>Sitemap</source>
+        <target>Sitemap</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="254f642527b45bc260048e30704edb39">
+        <source>Configuration</source>
+        <target>Configurazione</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d721757161f7f70c5b0949fdb6ec2c30">
+        <source>Theme</source>
+        <target>Tema</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f6eaad86bb8ea7913633a19fb1465356">
+        <source>Blog page</source>
+        <target>Pagina Blog</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4cc6684df7b4a92b1dec6fce3264fac8">
+        <source>Global</source>
+        <target>Global</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="04c4f9f595c4f21d1de65eb07056c15a">
+        <source>Blocks</source>
+        <target>Blocchi</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="1afa74da05ca145d3418aad9af510109">
+        <source>Design</source>
+        <target>Design</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="0e08b27903aa7d87e6cc41e655396cc1">
+        <source>Author List</source>
+        <target>Elenco degli autori</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8746c28a18866a4012de6a88701264c6">
+        <source>My profile</source>
+        <target>Il mio profilo autore</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6a26f548831e6a8c26bfbbd9f6ec61e0">
+        <source>Help</source>
+        <target>Aiuto</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5b6cf869265c13af8566f192b4ab3d2a">
+        <source>Documentation</source>
+        <target>Documentazione</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="bbaff12800505b22a853e8b7f4eb6a22">
+        <source>Contact</source>
+        <target>Contacto</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="34b6cd75171affba6957e308dcbd92be">
+        <source>Version</source>
+        <target>Versione</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="948a2986c50ad6bb8c90b4d93ae5c04d">
+        <source>Demo mode</source>
+        <target>Modalità Demo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5d93a59ade60f0969e421c7a7ab4f2c1">
+        <source>View blog page</source>
+        <target>Vedi pagina blog</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="22ca251bd840d3f6d99e3ce867e31747">
+        <source>Only registered users can publish a comment</source>
+        <target>Solo gli utenti registrati possono pubblicare un commento</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c2d85ad400608d56e4ab78dd9ae9b755">
+        <source>Auto approve comments</source>
+        <target>Autoapprovazione dei commenti</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7672bb802e361afdc7955c246ebbe2ea">
+        <source>Inform admin by email for a new comment</source>
+        <target>Informa via mail l'amministratore di un nuovo commento</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="75f7ec06bf41516bad4ba3f807f135a2">
+        <source>Admin Mail</source>
+        <target>Mail Amministratore</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="45d048c35e3cfd449dc0a1b503cd103a">
+        <source>Captcha</source>
+        <target>Captcha</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="73bec4072d97379dc09e00b771b6f58c">
+        <source>Clé publique captcha google</source>
+        <target>Chiave pubblica captcha google</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="fb9cfa873f837f559ce111a859eb3dcf">
+        <source>Clé privée captcha google</source>
+        <target>Chiave privata captcha google</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c23fec3ec046938a733b6a3f6adfda97">
+        <source>Mail user subscription</source>
+        <target>Mail sottoscrizione utente</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="2274b852371d27240925d73e04904341">
+        <source>Only registered users can subscribe</source>
+        <target>Possono pubblicare solo gli utenti registrati</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="2e584d8c24eef2db691eca809f6fb32b">
+        <source>Number of comments visible</source>
+        <target>Numero di commenti visibili</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="041618780932d81d57fe58e1a991c566">
+        <source>API Facebook Id</source>
+        <target>API Facebook Id</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ebb061953c0454b2c8ee7b0ac615ebcd">
+        <source>Optional</source>
+        <target>Opzionale</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="51de512e30cf7b3f67520c395f19e41b">
+        <source>You can manage comments directly on facebook application.</source>
+        <target>Puoi gestire i commenti direttamente sull'applicazione facebook.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="fae87b33ede4f0024c894a6f9a92d297">
+        <source>Add a facebook accounts ID for beeing comments moderators.</source>
+        <target>Aggiungere un account ID facebook per moderare i commenti</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a4ac1e0274753863f41f48643ec181e5">
+        <source>ID Can be found on</source>
+        <target>ID puoi trovare su</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="bf94a205c2872cfab5f7e4827dd7ee78">
+        <source>Add global moderator</source>
+        <target>Aggiungi un global moderatore</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a1661a030d919db21c1767b2d36a5dfb">
+        <source>Facebook moderators</source>
+        <target>Moderatore di Facebook</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7d4d170ea367e4a2b382a00ffd5b2608">
+        <source>This action will delete the moderator : </source>
+        <target>Questa azione sarà cancellata dal moderatore :</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7da477f48df436f00dc54b24ca742e3e">
+        <source>No moderators configured</source>
+        <target>Nessun moderatore è configurato</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f0be2fc767210f392a7bc3dc5d650dd8">
+        <source>Sitemap activation</source>
+        <target>Attivazione della Sitemap</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7978b606e7f71e42ee8f9c1b3326fe58">
+        <source>Articles</source>
+        <target>Articoli</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a6ec6df13493ccc53ab8637821823a0e">
+        <source>Limit url number per xml file</source>
+        <target>Numero limite di url per il file xml</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="2062b418af7c0e96612587920023a5d8">
+        <source>Urls/xml</source>
+        <target>Urls/xml</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="1f7fa90d1ce5df9b9dcae78476165b65">
+        <source>Token security for cron</source>
+        <target>Chiave di sicurezza per cron</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7225f3ac167f52f9d8466ddd576c0923">
+        <source>Date since</source>
+        <target>Periodo di indicizzazione</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="2003c150eaeb3fbea7c3e28da8d57fd5">
+        <source>Month(s)</source>
+        <target>Mesi</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="75a0b3c5a71ba4885aba93787ab799f4">
+        <source>Since : </source>
+        <target>Dalla : </target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d0f2e5376298c880665077b565ffd7dd">
+        <source>Locked</source>
+        <target>Bloccato</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="0df1036d8e9735b23b0fb7d5630f55ae">
+        <source>Update the configuration</source>
+        <target>Aggiorna la configurazione</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c57c39a748b4ec5bc7403ff3781b23ee">
+        <source>This action will erase all current sitemaps for the shop %1$s</source>
+        <target>Questa azione cancellerà tutte le sitemaps correnti nel negozio %1$s</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8123c8ac806194dca71afdba4dad85a3">
+        <source>Generate sitemap</source>
+        <target>Genera sitemap</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4257a81cc240b64e66c4896bfee56bed">
+        <source>Add a "Cron task" to reload this url:</source>
+        <target>Aggiungere un "Cron task" per ricaricare questo url:</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8076be06e575e50c7f9585271c8842ad">
+        <source>It will automatically generate your XML Sitemaps.</source>
+        <target>Genera automaticamente la XML Sitemaps.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8e56365dbf2576dfa1979d1c4e8b373d">
+        <source>Debug module</source>
+        <target>Debug modulo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="34c0ce36a92f6cfc7adef3887fdd877d">
+        <source>This debug is expected to reveal the errors after an installation or upgrade.</source>
+        <target>Questo debug dovrebbe rivelare gli errori dopo una installazione o un aggiornamento.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="aaf5ee7758f09781cb9f4e4abcbbce1e">
+        <source>It is based on the knowledge base of customer feedback, bugs or simple errors.</source>
+        <target>Essa si basa sulle conoscenze avute attraverso i feedback dei clienti, bug o errori semplici.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5935533893660374826a20aad1853313">
+        <source>Return to list of categories</source>
+        <target>Ritorno ad elenco delle categorie</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="0eec0fe9acfc2d3eace8d1945a9cfbd5">
+        <source>Order categories</source>
+        <target>Ordina categorie</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e7aa407935a9c1ee69c7737628dfed2b">
+        <source><![CDATA[Change the order of categories with a simple drag&drop.]]></source>
+        <target><![CDATA[Cambia ordine delle categorie con un semplice drag&drop.]]></target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="92fbf0e5d97b8afd7e73126b52bdc4bb">
+        <source>Choose a file</source>
+        <target>Scegli un file</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="2f7af310ff70d40fac3ac5d3f18e419a">
+        <source>Articles list for </source>
+        <target>Articoli elencati per </target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f7b25481c775d2b92253760f356dffe3">
+        <source>Add this shortcode directly in your tpl</source>
+        <target>Aggiuingi questo shortcode direttamente nella tua tpl</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3160eb21973806e4291c3979d4aa242e">
+        <source>Positions</source>
+        <target>Posizioni</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a1fa27779242b4902f7ae3bdd5c6d508">
+        <source>Type</source>
+        <target>Tipologia</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3a08e2e340ab29fd9263af48193cbf8e">
+        <source>Languages</source>
+        <target>Lingue</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="fb9b14ef7ac9c6ecfd717335aac64243">
+        <source>Limit list</source>
+        <target>Limite elenco</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="1d75833db541f9cfb81244bccefd1917">
+        <source>Custom template</source>
+        <target>Template personalizzato</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="64663f4646781c9c0110838b905daa23">
+        <source>Random</source>
+        <target>Casuale</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e6b391a8d2c4d45902a23a8b6585703d">
+        <source>URL</source>
+        <target>URL</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="059ac499ed98382b5c144ba07b45323e">
+        <source>Choose your module theme :</source>
+        <target>Scegli il Tema del modulo :</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8c713a2fedf3b91482b0d9408584d987">
+        <source>Preview :</source>
+        <target>Anteprima :</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="837efdfa704f3c9d8860940e257c4732">
+        <source>Add a news</source>
+        <target>Aggiungi una notizia</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6f6a35aeabbb1294b27b3183963b206b">
+        <source>Search by author</source>
+        <target>Recherche par auteur</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="10d20f9f8a1a2d6a7d8330953dbf13b6">
+        <source>%1$s currents items on %2$s</source>
+        <target>%1$s iscrizioni su %2$s</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5160bc8dd5e65921ef546fc250c94604">
+        <source>%1$s currents items</source>
+        <target>%1$s iscritti</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="bec60391604287aee5be8e970f2486a6">
+        <source>Post date</source>
+        <target>Data di pubblicazione</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5dae9c01b5059f60e02f14ab078c7904">
+        <source>Post Date</source>
+        <target>Data di pubblicazione</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4e15f9d55072d6ee4e6e332aab5793d9">
+        <source>Color of blog's element</source>
+        <target>Colore degli elementi del blog</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b61541208db7fa7dba42c85224405911">
+        <source>Menu</source>
+        <target>Menu</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a9ded1e5ce5d75814730bb4caaf49419">
+        <source>Background</source>
+        <target>sfondo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3d79fb039236f3a1e8e45f1625f80aaf">
+        <source>Background hover</source>
+        <target>Panoramica sullo sfondo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="bd908db5ccb07777ced8023dffc802f4">
+        <source>Links</source>
+        <target>connessioni</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="cbb81506a7fe3ef03f7a89c76c52131a">
+        <source>Pagination</source>
+        <target>Pagination</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6069ba4b56f1a9aa1f3b0e4bdf34a383">
+        <source>Current-background</source>
+        <target>current sfondo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="62afac62d1254a76448cd1ab394338ae">
+        <source>Current-text</source>
+        <target>current text</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7653b848afd156b979e9644b39541faf">
+        <source>Current-border</source>
+        <target>current confine</target>
+        <note>Line: </note>
+      </trans-unit>
+       <trans-unit id="c8e2e01d1b4623cc84ea9a085b5dd26c">
+        <source>Categories listing</source>
+        <target>Elenco delle categorie</target>
+        <note>Line: </note>
+      </trans-unit>
+	  <trans-unit id="556900b9db5e31e72afba7401543c634">
+        <source>Articles content</source>
+        <target>Contenuto degli articoli</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9dffbf69ffba8bc38bc4e01abf4b1675">
+        <source>Text</source>
+        <target>Testo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ffc6c4d0344fe8e9fc3b6a83ea96e0ff">
+        <source>Articles background</source>
+        <target>Articoli sullo sfondo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c9d314a03a9f4d9c0dc59244a0d26e12">
+        <source>Articles background hover</source>
+        <target>Passa con il mouse dal fondo degli articoli</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="fc67e247738c4f457ae2288e340ee22c">
+        <source>Read more link</source>
+        <target>Link "Ulteriori informazioni"</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d58a83b72bd0da9e1403a63e0af1f89a">
+        <source>Read more background</source>
+        <target>Background "leggi di più"</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="10e9c0ccb2df9799242294b7009e8305">
+        <source>Read more hover</source>
+        <target>panoramica di "leggi di più"</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="114ce280688d109f8fb9723c5b1dc57f">
+        <source>Blocks content</source>
+        <target>Contenuto dei blocchi</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8612579044efe457f11398b5a2377226">
+        <source>Titles</source>
+        <target>valori</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f9f913854c26f23e48ed77b30192d0a1">
+        <source>Links button text</source>
+        <target>Pulsante di testo del collegamento</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5b3ec15499a125805b5bbf8e4afcec8c">
+        <source>Buttons</source>
+        <target>pulsanti</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="905b86def51ab590f4c0b625f1a3f8ee">
+        <source>Buttons hover</source>
+        <target>Pulsanti al passaggio del mouse</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="00e04b10b071ec3c2add6defcf320011">
+        <source>Custom css</source>
+        <target>Css custom</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5d7f733c24fd7384d0e7857f69013e8d">
+        <source>Order of categories</source>
+        <target>Ordina per categoria</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="83fae39206102664ef89107721196306">
+        <source>Title Meta</source>
+        <target>Meta titolo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e3d18e1ef055570bfdb0e2978e997f65">
+        <source>Use in articles</source>
+        <target>Utilizzo negli articoli</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b13ef4487b87a13a9ca5fabcc442f6a5">
+        <source>Blog page configuration</source>
+        <target>Configurazione della pagina Blog</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ee72ace5cf6e413c0f7361b167eec91e">
+        <source>Use this link in your menu configuration:</source>
+        <target>Utilizzare questo link nella configurazione del menu:</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8a4ea7732f5d5ad67e5852d132f522ab">
+        <source>Description Meta</source>
+        <target>Meta Descrizione</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3cfa4c8a48fc78e71abce3221828046e">
+        <source>Title page H1</source>
+        <target>Titolo pagina H1</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ce4c42c756047438e6aeb1a8af3d496d">
+        <source>Blog URL configuration</source>
+        <target>Configurazione dell'URL "blog"</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="bce3f91bd36707d96de91eae0a453918">
+        <source>Be careful, if you change the URL after being referenced, you'll lost all your work. Please use with caution</source>
+        <target>Attenzione: se cambi l'URL del blog DOPO il riferimento, perderai il tuo lavoro. Usa questo strumento con attenzione.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="72d9e9d9e3aae561257ec6c5463ff510">
+        <source>Url of your blog</source>
+        <target>URL del tuo blog</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b7bba2f68f407a8845d42cb9b2d67cfb">
+        <source>Popup prestablog</source>
+        <target>Popup prestablog</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4e55e9a8eb1431480fccee2521edac5b">
+        <source>Create a popup</source>
+        <target>Crea un popup</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="1a1336140da4c03c7de4af6d7cb94f4d">
+        <source>General activation of the popup</source>
+        <target>Attivazione generale del popup</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6673d8e859d4043cacdf65816ba93cda">
+        <source>Popup on homepage</source>
+        <target>Popup a casa del blog</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6d9de84e53124cd30a2c9a74b5dedd27">
+        <source>The popup will be displayed in the blog's home page. For displaying the popup in articles or categories, please go directly to the creation of articles and categories</source>
+        <target>Il popup verrà visualizzato nella home page del blog. Per visualizzare il popup nei tuoi articoli o categorie, vai direttamente alla gestione degli articoli e delle categorie.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f2660736e276ee915393f7457253ce93">
+        <source>Choose the popup to display :</source>
+        <target>Scegli un popup da visualizzare:</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6cf3de511e1cc822b91fb9052f5bd29f">
+        <source>You must add a new category before deleting this one !</source>
+        <target>È necessario aggiungere una nuova categoria prima di cancellare questa!</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f2af40d4963509debea7a67d2c155bc6">
+        <source>For delete parent category, you should delete all child before !</source>
+        <target>Per eliminare le categorie principali, si dovrà eliminare tutto il contenuto delle sotto categorie !</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="cd48206067ac5f62cc664794150bd319">
+        <source>Category listing</source>
+        <target>Elenco categorie</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4bfd90233a5b8ec6a96e6420ded44798">
+        <source>Thumb picture width for news</source>
+        <target>Larghezza immagine per le notizie</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3a0dac85692742eab94b528339855791">
+        <source>Thumb picture height for news</source>
+        <target>Altezza immagine per le notizie</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="cd1cfe3408c689a851db61c6dab73b26">
+        <source>Article's display</source>
+        <target>Visualizzazione degli articoli</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="01411f681ddd3eaf540fbf77285319e6">
+        <source>One column</source>
+        <target>Une colonna</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="53f90459acf49d6038e05489528f581c">
+        <source>Two columns</source>
+        <target>Due colonne</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="63bd7d20cb7d515fe705bcda029ea776">
+        <source>Three columns</source>
+        <target>Tre colonne</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d31573888ea1e1c32e2d201437eab7ee">
+        <source>Ratings on news</source>
+        <target>Valutazione degli articoli</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7c714599d54ebde4026f3d1ca4eba70e">
+        <source>Activate rating.</source>
+        <target>Abilita registrazione</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7db613270a5b2a66b554190080cd9346">
+        <source>Display the "read" number</source>
+        <target>Visualizza il numero "letto"</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="fc210e10103f0d26cec569269d879218">
+        <source>Show news count by category</source>
+        <target>Mostra il numero di notizie per categoria</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d4e31550a4557587177c63f4c00054f7">
+        <source>Does not display zero values.</source>
+        <target>Non visualizzare i valori zero.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f4ad45da2bed8e6412c6ce32e463b328">
+        <source>View empty categories</source>
+        <target>Visualizza categorie vuote</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ccd7b5d6bfe81e2403006b3e85218100">
+        <source>Supports the count of items in the categories recursive children.</source>
+        <target>Supporta il conteggio delle voci nelle categorie bambini in maniera ottimale</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="86912cd72385ca15f6290bdc2eb35b5e">
+        <source>Tree view</source>
+        <target>Visualizzazione ad albero</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="194b64eae32a6dba663edd7396f1c008">
+        <source>Show thumb</source>
+        <target>Visualizza miniatura</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="993cdc7d3fc2dc7a1e74e3dcc5e66833">
+        <source>Show crop description</source>
+        <target>Vedere una parte della descrizione</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="463e76a06bc33f348f2bc560af338082">
+        <source>Link "show all"</source>
+        <target>Link </target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ba7b8cc5a21eb61f60a44d88e0dc8efc">
+        <source>Rss feed</source>
+        <target>Flusso Rss</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c222df50d1f428774c86a683e57fdd17">
+        <source>List only for selected category</source>
+        <target>Riguarda solo la categoria selezionata</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ea16696772294d4ac090fe977b077c28">
+        <source>Top of first page of category</source>
+        <target>Altezza della prima pagina di una categoria</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3f942f72c23af74942d1129d5d629bc4">
+        <source>Show description</source>
+        <target>Mostra descrizione</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e0ff6ee8b2ac364e76e0123f43b48273">
+        <source>Show thumbnail</source>
+        <target>Mostra miniatura</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="70b6e50b945140ea951611f5d62a9f70">
+        <source>Show picture</source>
+        <target>Mostra immagine</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6fba7b3a9975131197fe320dc7a24c38">
+        <source>Thumb picture width for categories</source>
+        <target>Larghezza immagine per categoria</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ac25b617750ddfbf3fcb42f91ee8930a">
+        <source>Thumb picture height for categories</source>
+        <target>Altezza immagine per categoria</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="815e23d9e5840f979f1f2002fe734805">
+        <source>Full size picture width for category</source>
+        <target>Larghezza della immagine grande per la categoria</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="fadbdf3c43f0dedfb17f4a4699bae60a">
+        <source>Full size picture height for category</source>
+        <target>Altezza dell'immagine grande per categoria</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ee527614560766d7f9cb36c8d9da252d">
+        <source>Category menu in blog pages</source>
+        <target>Menù di categorie nelle pagine del blog</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="921eb5e9b2267a74ce8450abafa14aef">
+        <source>Activate menu on blog index</source>
+        <target>Attiva il menù indice del blog</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d72e83ac0df0c41f0ddd6357e9052bed">
+        <source>Activate menu on blog list</source>
+        <target>Attiva il menù nell'elenco dei blog</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d0194435cf4f58db57edb21f04c3626f">
+        <source>Activate menu on article</source>
+        <target>Attiva il menù degli articoli</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7dc16826750575d5edbab779e8ff9603">
+        <source>Show blog link</source>
+        <target>Mostra link sul blog</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f123e5269bd00d31d34d881c3918ccf1">
+        <source>Show blog image link</source>
+        <target>Mostra il link nell'immagine del blog</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3f2477fefb7cedcae01cceae80f94dc4">
+        <source>Only if blog link is activated</source>
+        <target>Solo se il collegamento del blog è attivato</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3c4f1b5f016e64df3b89968c5e547d55">
+        <source>Show %1$s instead %2$s</source>
+        <target>Mostra %1$s anzichè %2$s</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="fe6bc89a75da19c31028516f2b0310ba">
+        <source>Add the author</source>
+        <target>Aggiungi l'autore:</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4e9e9f2e75761ca884a8a2ea78ce993f">
+        <source>Rewrite configuration</source>
+        <target>Riscrivi la configurazione</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ad4487f5665a91f9aca14d1ff8dbadf5">
+        <source>The general rewrite option (Friendly URL) of your PrestaShop is not activate.</source>
+        <target>Opzione di riscrittura generale (Friendly URL) del tuo PrestaShop non è attiva.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="25188c4d608f4e898c66dce3aca58f93">
+        <source>You must enable this general option to it works.</source>
+        <target>Attivare questa opzione generale per lavorare.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="368f4d37383912101bcff8a2b0f97ab8">
+        <source>Enable rewrite (Friendly URL)</source>
+        <target>Abilita riscrittura (Friendly URL)</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="da82a2002384409477655085d5c4136e">
+        <source>Enable only if your server allows URL rewriting (recommended)</source>
+        <target>Abilita solo se il tuo server permette la riscrittura della URL (raccomandata)</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4813072f5fe1836bba6fb8887378416d">
+        <source>Global front configuration</source>
+        <target>Configurazione generale del Front-Office</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="057caeeb452f97b5ef90e3959fcc043b">
+        <source>Show breadcrumb in all blog pages</source>
+        <target>Mostra il percorso delle briciole di pane sulle pagine del blog</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="92b4e36d19a9641de4d144c2c0b34daa">
+        <source>Show thumbnail image in article page</source>
+        <target>Mostra anteprima nella pagina delle notizie</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="0b430c072fe54bf220fe17e54b1d5bfd">
+        <source>Rss link for categories in the news page.</source>
+        <target>Collegamento Rss per le categorie nella pagina delle news.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8b1b507ef1e9f2dfa08d6f73563f9352">
+        <source>Add a new tab with associated blog posts directly in your product page</source>
+        <target>Aggiungere una nuova scheda con i post dei blog associati direttamente alla tua pagina di prodotto</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7e43e3d4aa0bf43dc4e76464493c7187">
+        <source>Width of thumbnail in the product list linked</source>
+        <target>Larghezza della miniatura nell'elenco dei prodotti collegati</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="2441473aaa8b05ebafaabb249049b993">
+        <source>Include Material Icons in header</source>
+        <target>Includi Material Icons nell'intestazione</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="acbd8da8d7575597986b5ea632618fcb">
+        <source>Social share buttons</source>
+        <target>Pulsanti di condivisione</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="399a170b79b4dde6f602e617a0898728">
+        <source>Socials buttons share</source>
+        <target>Pulsante per la condivisione dei Social</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="2afb4bc12bb9ad53efe34b79b75d48f3">
+        <source>Global admin configuration</source>
+        <target>Configurazione di amministrazione globale</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f94e46cfad83d2ebafa2ba04ad66b2f4">
+        <source>Number of characters to search on related products for article edited</source>
+        <target>Numero di caratteri necessari per cercare un articolo modificato su un prodotto correlato</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="fd3804e095d467020d9cb17a0122d474">
+        <source>Number of results in search off related products for article edited</source>
+        <target>Numero dei risultati per pagina per la ricerca di prodotti legati a voci di editing</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="592258d4a07756129ec7c16f0aa1df62">
+        <source>Number of characters to search on related articles for article edited</source>
+        <target>Numero dei caratteri per la ricerca degli articoli editati sugli articoli correlati</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="1a4ee98d8a2cb77a4fb085d6f072107c">
+        <source>Number of results in search off related articles for article edited</source>
+        <target>Numero dei risultati per pagina per la ricerca di articoli relativi agli articoli editati </target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="511f278b314dab38b34ce769760f2225">
+        <source>items/page on admin list news</source>
+        <target>Articoli per pagina nella lista di amministrazione delle notizie</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8d97e495de1a27b5c63f3a2e56932943">
+        <source>items/page on admin list comments</source>
+        <target>Articoli per pagina nella lista di amministrazione dei commenti</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e508fee2c6aabf041b77934abe58c590">
+        <source>Always show comments in article edition</source>
+        <target>Mostra sempre i commenti nella modifica delle notizie</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="451cb9792c4e5e036280d9767c1e6286">
+        <source>Show introduction text</source>
+        <target>Mostra il testo dell'introduzione</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="86d1797212be62f01dcff8d32e0f83cc">
+        <source>This option may penalize your SEO.</source>
+        <target>Questa opzione può penalizzare il vostro SEO.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="816cdf9e81cc2229ff204643e7c7ba11">
+        <source>Introduction length</source>
+        <target>Lunghezza dell'introduzione</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="81d75547f802dcf518b49de933c4aa66">
+        <source>Order news</source>
+        <target>Ordina notizie</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5fc8b9a31666e95fddf7fdc19ba6070c">
+        <source>Desc</source>
+        <target>Disc</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e8338cca05b6a68b1b516f4f0d6b0a0f">
+        <source>Asc</source>
+        <target>Asc</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3ae66c2a789ef7778d6404c29de2545e">
+        <source>Advance search in the top of results, with filter of categories</source>
+        <target>Ricerca avanzata nella parte superiore dei risultati, con filtro di categorie</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="deca5c2a5c73ed256bd741c28a998d1e">
+        <source>Order of the blocks on columns</source>
+        <target>Ordine dei blocchi in colonne</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9b14090a0e352e27c2887c43d66627ab">
+        <source>Footer last news</source>
+        <target>Pié di pagina ultime notizie</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7cf230c7952071f9590afd99b8757eb9">
+        <source>Parent news</source>
+        <target>Parent news</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3a92a18679dec7445a3071e6ffdee27e">
+        <source>You will leave this page. Are you sure ?</source>
+        <target>Lasci questa pagina. Sei sicuro ?</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="02a3a357710cc2a5dfdfb74ed012fb59">
+        <source>Url</source>
+        <target>Url</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="851777bf0529c4d9d9d0bad0f792cd25">
+        <source>Delete the comment</source>
+        <target>Cancella il commento</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="29b33fd8af3324a03392ff5886ac0477">
+        <source>Add the comment</source>
+        <target>Aggiungi il commento</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="02d3fda4cd033c1ad94657d3dcff7588">
+        <source>Antispam questions</source>
+        <target>Domande AntiSpam</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="015e814ef6e9731decc400f7b5fd6e84">
+        <source>This Antispam option can protect you to comments of spammers robots.</source>
+        <target>Questa opzione Antispam protegge i commenti dagli spammer robot.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="844337d7ce540180314e2697e083dabb">
+        <source>Will random in the comment form.</source>
+        <target>Sarà casuale nel modulo di commento.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9a948080811e955e80cfd34ee3a3bf5f">
+        <source>Antispam activation</source>
+        <target>Attivazione Antispam</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7e67f927ed38c72d5380ede8943ed466">
+        <source>Add an antispam question</source>
+        <target>Aggiungi una domanda AntiSpam</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="79c4fe825474342884f03dd108b6f9eb">
+        <source>Delete all sitemap xml for this shop</source>
+        <target>Elimina tutto XML Sitemap per questo negozio</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6ee17066070c9baa4cd284506a701bdd">
+        <source>Use master sitemap to regroup all news :</source>
+        <target>Utilizza la sitemap principale per raggruppare tutte le notizie:</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="fb7ba8b7307570433fc87fa8d9a93608">
+        <source>no xml file available</source>
+        <target>nessun xml file disponibile</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4d5ad9e433258182a83efc70d62ee463">
+        <source>All sitemaps can be crawled individually for %1$s store :</source>
+        <target>Tutte le Sitemap possono essere singolarmente sottoposte a scansione nel vostro negozio Prestablog 1.7 :</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="356e994c7b3b8d7b3dce30dd60026746">
+        <source>You must choose at least one language !</source>
+        <target>Occorre scegliere almeno una lingua !</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="31fde7b05ac8952dacf4af8a704074ec">
+        <source>Preview</source>
+        <target>Prevista</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="0245625ee10f9c6c0ed7f50eb1838856">
+        <source>Main title</source>
+        <target>Titolo principale</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="00db1c27d448dea56c85d995b2dec8f8">
+        <source>In order to display the slides from Creative Slider anywhere you want in the article, please paste the shortcode of the slide you want from the Creative Slider module in your content.</source>
+        <target>Per affiggere lo slide del Creativo Slider dove lo desiderate nel vostro articolo, volete incollare lo shortcode fornito da Creativo Slider dove l'augurate nell'articolo.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ef18e0d1ea8f98bf578f1242ac11315f">
+        <source>approuved</source>
+        <target>approvato</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="659f198539428dcaa14a738ce80fb207">
+        <source>Comments pending</source>
+        <target>Commenti in attesa</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9cad5199d557aa75f9f0dec42b152664">
+        <source>Click here to manage comments</source>
+        <target>Click qui per modificare i commenti</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="84ed1c865d4156e47b203fdca60efd4f">
+        <source>No comment</source>
+        <target>Nessun commento</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="df3f079de6961496f0460dcfdbf9bca3">
+        <source>by</source>
+        <target>di</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f1c5793a1b68eed9fc3d4700070cd0b0">
+        <source>Comments approuved</source>
+        <target>Commenti approvati</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5fe6005bf6e415c950c011fb65f12b8f">
+        <source>Deleted</source>
+        <target>Cancellato</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="2db765dde7f66bd694dff789c2ac0ad4">
+        <source>Comments disabled</source>
+        <target>Commenti disabilitati</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="64bf01925015a64551b206aced77574d">
+        <source>Advanced user only</source>
+        <target>Solo per Utenti avanzati</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ad90b4dc51cc8652b2f5f0cbec5322c0">
+        <source>thumb for articles list</source>
+        <target>Miniatura per la lista degli articoli</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f9095bb03e075a17b862ffe16693f74b">
+        <source>slide picture (home / blog page)</source>
+        <target>slide immagini (home / blog page)</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8e02de5f62b2f1765f5bfbdef10725d4">
+        <source>Main picture</source>
+        <target>Immagine Principale</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="cf5eaf7acb065d116be159abf80c488c">
+        <source>Caracters remaining</source>
+        <target>Caratteri rimanenti</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e9b67b722804f4a8b28e6f2069f7b399">
+        <source>Configure the max length in the general configuration of the module theme.</source>
+        <target>Configurare la lunghezza massima nella configurazione generale del tema del modulo.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="0b79795d3efc95b9976c7c5b933afce2">
+        <source>Introduction</source>
+        <target>Introduzione</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f15c1cae7882448b3fb0404682e17e61">
+        <source>Content</source>
+        <target>Contenuto</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c1a39b6a60f8b2f87e23d60ab649d994">
+        <source>Unlink</source>
+        <target>Unlink</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="076f65e52241c1c42fc0b0942f5b9a9e">
+        <source>No product linked</source>
+        <target>Nessun prodotto connesso</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="13348442cc6a27032d2b4aa28b75a5d3">
+        <source>Search</source>
+        <target>Cerca</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="bcb937daff22172fd91787a72d69e107">
+        <source>Keywords from %1$s or #id</source>
+        <target>Mots clès pour %1$s ou #id</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="97e7c9a7d06eac006a28bf05467fcc8b">
+        <source>Link</source>
+        <target>Link</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="38070661d5ad384d9c7d21895dc4e784">
+        <source>Related products</source>
+        <target>Prodotti correlati</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c6a5d00f59a570f3474049002ed93d18">
+        <source>No article linked</source>
+        <target>Nessun articolo connesso</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="177f0eb97c41c1d839bff85af7cb1120">
+        <source>Related Posts</source>
+        <target>Messaggi correlati</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="2aa18a6e2ed5f23039f0e471b70433ad">
+        <source>Add a popup to your article :</source>
+        <target>Aggiungi un popup in questo articolo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="bc5ce759353877471cc306edd624c9b4">
+        <source>Add content</source>
+        <target>Aggiungi contenuto</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="55e65bbf4b9aba691e6587935d4ad5a3">
+        <source>To access the prestablog tutorial :</source>
+        <target>Per accedere al tutorial di prestablog :</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="516ba3870bc6ee3a5e6079e07bf1765b">
+        <source>Visit your addons account</source>
+        <target>Visita il tuo account Addons</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a0be426d24569d3861c84edc4115d59b">
+        <source>Click on the download tab</source>
+        <target>Fai clic sul pulsante di download</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="cbd5cbcf9d75334b4477d487c4de4fd7">
+        <source>Then the blue icon "?" related to the module</source>
+        <target>In seguito icona blu "?" relativa al modulo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="771233e7b27ee4d1d13a52473f5e355b">
+        <source>In order to improve our translation system, or if you have any request</source>
+        <target>Al fine di migliorare il nostro sistema di traduzione, o se avete qualsiasi richiesta</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="2930e988c12cc013d85748064b25fed5">
+        <source>Please feel free to contact us via the </source>
+        <target>Non esitate a contattarci tramite il </target>
+        <note>Line: </note>
+      </trans-unit>
+        <trans-unit id="a5c95a80218ba6bdf07237cb8269b0ee">
+          <source>Sharing Icons</source>
+          <target>Icone di condivisione</target>
+          <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="c0b1e55dd15f37efd49dacb0c07f5510">
+            <source>Failed to update permissions</source>
+            <target>Impossibile aggiornare i permessi</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="857709673d2a11271c1052c982c1e230">
+            <source>Author not found</source>
+            <target>Autore non trovato</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="b044580c9ba32d1066e86d75e0e84f2c">
+            <source>You cannot reply to a comment that does not exist or is not approved.</source>
+            <target>Non puoi rispondere a un commento che non esiste o non è stato approvato.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="17b3462af246ae740d84e1a9f0eaa1a0">
+            <source>The Name field is required.</source>
+            <target>Il campo Nome è obbligatorio.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="6011be858e5cb342bd09a64bdca6503c">
+            <source>The Date field is required.</source>
+            <target>Il campo Data è obbligatorio.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="b4dc78e551a138b8f99ed43122891bef">
+            <source>The Comment field is required.</source>
+            <target>Il campo Commento è obbligatorio.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="f8fb8a9d893b4760cbcfb91e33b7eac9">
+            <source>An error occurred while saving the reply.</source>
+            <target>Si è verificato un errore durante il salvataggio della risposta.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="d9bce6556723f03d444fc08de3ccb4db">
+            <source>You do not have permission to access this page.</source>
+            <target>Non hai il permesso di accedere a questa pagina.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="59fb868013b6bfe1977d98ad9a807fb5">
+            <source>Author added successfully.</source>
+            <target>Autore aggiunto con successo.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="75cf605878ef72e0817ac9b9425d8a06">
+            <source>Failed to add author.</source>
+            <target>Impossibile aggiungere l'autore.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="8ab22f1559fb219964b94fd5a44246a1">
+            <source>Invalid employee selection.</source>
+            <target>Selezione dipendente non valida.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="0eaadb4fcb48a0a0ed7bc9868be9fbaa">
+            <source>Warning</source>
+            <target>Avvertimento</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="2e7040087bd7a6aeba9f63efd891c522">
+            <source>You do not have permission to access this page</source>
+            <target>Non hai il permesso di accedere a questa pagina</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="47c0d00eaab13a09fec5e522113004a3">
+            <source>Enable author permissions</source>
+            <target>Attiva i permessi dell'autore</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="f32812ddf6ff036c2b878699d47244e5">
+            <source>Activate the permission system for authors.</source>
+            <target>Attiva il sistema di permessi per gli autori.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="4531ebb5879c87c9df0b228c4df32b45">
+            <source>Edit Permissions for</source>
+            <target>Modifica permessi per</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="0c36c9dc85d203cec2e08862e167f18d">
+            <source>Enable All</source>
+            <target>Attiva tutto</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="2063437b6763fba6417c28d042e87b99">
+            <source>Disable All</source>
+            <target>Disattiva tutto</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="032601cb6402c9c1fef3b2d44f633e36">
+            <source>Permissions updated successfully</source>
+            <target>Permessi aggiornati con successo</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="5d7e580b1e716d88921cfe41271a2d40">
+            <source>Article, Category, and Comment Permissions</source>
+            <target>Permessi per articoli, categorie e commenti</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="bb221655f3886bd172018754459ae21c">
+            <source>Add or Edit Article</source>
+            <target>Aggiungi o modifica articolo</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="375f601415eb27333a11eb3f04b551fc">
+            <source>Delete Article</source>
+            <target>Elimina articolo</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="220eef6f0966939db01ccb2e346d9dc9">
+            <source>Create or Edit Category</source>
+            <target>Crea o modifica categoria</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="2158901812160dd4b623e7878b2e613d">
+            <source>Delete Category</source>
+            <target>Elimina categoria</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="46be1b432f94e9608b015e12c332c67e">
+            <source>Manage Comments</source>
+            <target>Gestisci commenti</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="9f1688cb99773ac0ae7c2b0a7120c6ab">
+            <source>Manage Contents Permissions</source>
+            <target>Gestisci permessi dei contenuti</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="3ea576ed5548439da2206c47b03d2588">
+            <source>Manage Popup</source>
+            <target>Gestisci popup</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="8be8123dff6313d0b4d85eb152712f7a">
+            <source>Manage Slide</source>
+            <target>Gestisci slide</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="111b530cfd2a438efd89475d79a3f3dc">
+            <source>Manage Personalised List</source>
+            <target>Gestisci lista personalizzata</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="766bfd873cfbafc603c6c79f694e0c0b">
+            <source>Configuration Permissions</source>
+            <target>Permessi di configurazione</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="ceb94b5ba288f75b442e17df5e2f386e">
+            <source>Configure Module</source>
+            <target>Configura modulo</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="3cf95286794347cb806ab9ef83f531d3">
+            <source>Use Tool</source>
+            <target>Usare strumenti</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="bac1979c6af398082d23c5b4f5b5e8e0">
+            <source>Edit Permissions</source>
+            <target>Modifica permessi</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="d479671c6c56e8155e2425efc0f11602">
+            <source>Edit Article</source>
+            <target>Modifica articolo</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="21627a130dcae29a412c76073f67ded9">
+            <source>Activate or deactivate article</source>
+            <target>Attiva o disattiva articolo</target>
+            <note>Line: </note>
+        </trans-unit>
+    </body>
+  </file>
+</xliff>

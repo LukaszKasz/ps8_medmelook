@@ -1,0 +1,29 @@
+ 
+
+{shop_url}
+
+Dobrý den {firstname} {lastname},
+
+Děkujeme Vám za nákup v e-shopu {shop_name}!
+
+Objednávka ID {order_name} - Čeká se na platbu šekem
+
+Vaše objednávka s označením {order_name} byla úspěšně zadána. Doručení můžete očekávat ihned po přijetí platby.
+
+Způsob platby: šek
+
+Vybrali jste si platbu bankovním šekem. Zde jsou informace, které potřebujete pro vyplnění šeku:
+
+Částka:  {total_paid}
+
+Příjemce platby:  {check_name}
+
+Prosíme, pošlete šek na:  {check_address_html}
+
+Sledovat tuto objednávku a stáhnout fakturu si můžete v našem obchodě, přejděte do části [Historie a detaily mých objednávek]({history_url}) ve svém zákaznickém účtu.
+
+Pokud máte účet hosta, svou objednávku můžete sledovat v našem obchodě v sekci [Sledování pro návštěvníky]({guest_tracking_url}).
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

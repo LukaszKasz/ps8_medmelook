@@ -1,0 +1,60 @@
+/**
+            * (c) Prestablog
+            *
+            * MODULE PrestaBlog
+            *
+            * @author    Prestablog
+            * @copyright Copyright (c) permanent, Prestablog
+            * @license   Commercial
+            */
+           #prestablog_menu_cat nav ul, img.logo_home, #menu-mobile {
+             list-style: none;
+             background-color: #ffffff!important;
+           }#prestablog_menu_cat nav ul li:hover {
+             background: !important;
+           }.prestablog_more {
+             display: block;
+             background-color: #ffffff!important;
+           }.prestablog_more a.blog_link:hover, .prestablog_more .comments:hover, .prestablog_more a.blog_link:hover::before, .prestablog_more .comments:hover::before {
+             background-color: !important;
+             color: #fff;
+           }#blog_list_1-7 .block_bas h3 a, #blog_list_1-7 .block_bas .h3title a, .prestablog .block_bas h3 a, .prestablog .block_bas .h3title a {
+            color:!important;
+           }#blog_list_1-7 p, .date_blog-cat {
+             margin: 12px 0px;
+             color: !important;
+           }#prestablog_menu_cat nav ul li a, #prestablog_menu_cat nav ul li i, #prestablog_menu_cat span, #menu-mobile {
+             color: #000000!important;
+           }#blog_list_1-7 a.blog_link, #blog_list_1-7 a.comments, .prestablog_more, .prestablog_more a {
+             color: #000000!important;
+           }#prestablogfont h1, #prestablogfont h2, #prestablogfont h3, #prestablogfont h4, #prestablogfont h5, #prestablogfont h6, #prestablog_article{
+             color:!important;
+           }#prestablogfont p, #prestablogfont ul, #prestablogfont li {
+             color: !important;
+           }.block-categories.prestablog {
+             background: !important;
+           }.block-categories.prestablog a.link_block, #prestablog_catliste a {
+             color: !important;
+           }.block-categories.prestablog a.btn_link {
+             color: !important;
+           }.blogsoc-icon {
+             background-color: !important;
+           }.title_block {
+             color: !important;
+           }#prestablog_lastliste a.btn-primary, #prestablog_catliste a.btn-primary, #prestablog_dateliste a.btn-primary, #prestablog_block_rss a, #prestablog_bloc_search .btn.button-search {
+             background-color: !important;
+           }#prestablogfront, .prestablogExtra, #prestablog-fb-comments, #prestablog-comments, #prestablog-rating, #prestablogauthor, time.date span, .info_blog span {
+             background-color: !important;
+           }#blog_list_1-7 .block_cont, .prestablog .block_cont {
+             background-color: !important;
+           }#blog_list_1-7 li:hover .block_cont, .prestablog:hover .block_cont {
+             background-color: !important;
+           }#prestablog_lastliste a.btn-primary:hover, #prestablog_catliste a.btn-primary:hover, #prestablog_dateliste a.btn-primary:hover, #prestablog_block_rss a:hover, #prestablog_bloc_search .btn.button-search:hover {
+             background-color: !important;
+           }div.prestablog_pagination span.current {
+             background-color: #ffffff!important;
+           }div.prestablog_pagination span.current {
+             color: !important;
+           }div.prestablog_pagination span.current {
+             border: 1px solid #000000!important;
+			}

@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin1234" source-language="de-DE" target-language="de-DE" datatype="plaintext">
+    <body>
+        <trans-unit id="731ba043178c37ff680e4065d80a154f">
+            <source>API key is missing, setting default models.</source>
+            <target>API-Schlüssel fehlt, Standardmodelle werden verwendet.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="4ea1b466fddc094d2559f2ca1d4bece5">
+            <source>Error connecting to API: </source>
+            <target>Fehler bei der Verbindung zur API:</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="ac9c86e73a07d758db9a310819605d19">
+            <source>Unauthorized: Invalid API key.</source>
+            <target>Unbefugt: Ungültiger API-Schlüssel.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="9eaa881086685b3dcb00dc6a1bb65f7e">
+            <source>Failed to connect to API. HTTP Status Code: </source>
+            <target>Verbindung zur API fehlgeschlagen. HTTP-Statuscode:</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="6d9e8308f31825abd91b0acf6398e4f5">
+            <source>API connection successful.</source>
+            <target>API-Verbindung erfolgreich.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="2c7ad613cb43207929424cdb9907e186">
+            <source>Failed to retrieve models, setting default models.</source>
+            <target>Modelle konnten nicht abgerufen werden, Standardmodelle werden verwendet.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="fc42865ab309f2e642480630b92db575">
+            <source>This field cannot be empty</source>
+            <target>Dieses Feld darf nicht leer sein.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="3fb66787028092600f08cd2c37cc1027">
+            <source>I manage a website focused on the theme of %theme%. Can you suggest some blog topics I should develop? Format the response as an HTML table with two columns: one for the 'Topic' and one for the 'Popularity Score' (a number between 1 and 100). Each topic should be in a separate row.</source>
+            <target>Ich betreibe eine Website zum Thema %theme%. Können Sie einige Blog-Themen vorschlagen, die ich entwickeln sollte? Formatieren Sie die Antwort als HTML-Tabelle mit zwei Spalten: eine für das 'Thema' und eine für die 'Popularitätspunkte' (eine Zahl zwischen 1 und 100). Jedes Thema sollte in einer separaten Zeile stehen.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="3c299be1cf8d8948c25b1433eecc542f">
+            <source>Use the topic "%theme%". Create a table with title and keyword variations that group long-tail terms capable of ranking in search engines. Format the response as an HTML table with two columns: one for the Titles and one for the keywords.</source>
+            <target>Verwenden Sie das Thema "%theme%". Erstellen Sie eine Tabelle mit Titel- und Schlüsselwortvariationen, die Long-Tail-Begriffe gruppieren, die in Suchmaschinen ranken können. Formatieren Sie die Antwort als HTML-Tabelle mit zwei Spalten: eine für die Titel und eine für die Schlüsselwörter.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="1065948d549c2bc51ea828181f2328cf">
+            <source>I want you to write a SEO-optimized blog article on the topic of "%theme%", with a writing style of "%style%". Structure the text in HTML with appropriate tags. The article should be engaging, relevant, high-quality, and undetectable as AI-generated content. Start with an introductory paragraph without mentioning the blog or using a heading. Use subheadings formatted with h2 and h3 tags, incorporating long-tail titles to enhance SEO. Naturally integrate long-tail keywords and highlight them with strong tags. Ensure that each section contains at least 100 words, with smooth transitions. Conclude with a summary that reinforces the key points without adding new information.</source>
+            <target>Ich möchte, dass Sie einen SEO-optimierten Blogartikel zum Thema "%theme%" im Schreibstil "%style%" verfassen. Strukturieren Sie den Text in HTML mit den entsprechenden Tags. Der Artikel sollte ansprechend, relevant, hochwertig und als KI-generierter Inhalt nicht erkennbar sein. Beginnen Sie mit einem Einleitungsabsatz, ohne den Blog zu erwähnen oder eine Überschrift zu verwenden. Verwenden Sie Zwischenüberschriften, die mit h2- und h3-Tags formatiert sind, und integrieren Sie Long-Tail-Titel, um das SEO zu verbessern. Integrieren Sie Long-Tail-Schlüsselwörter natürlich und heben Sie sie mit strong-Tags hervor. Stellen Sie sicher, dass jeder Abschnitt mindestens 100 Wörter enthält und dass die Übergänge fließend sind. Schließen Sie mit einer Zusammenfassung ab, die die wichtigsten Punkte unterstreicht, ohne neue Informationen hinzuzufügen.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="bdfb00881e5b80ef206858f72db30420">
+            <source>Create a captivating introduction that will be displayed in the blog category to present the article "%theme%". This introduction should be concise, engaging, and provide a general overview of the article's content.</source>
+            <target>Erstellen Sie eine fesselnde Einführung, die in der Blog-Kategorie angezeigt wird, um den Artikel "%theme%" vorzustellen. Diese Einführung sollte prägnant, ansprechend sein und einen allgemeinen Überblick über den Inhalt des Artikels geben.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="dceabd505243b76be8191a63ff37046c">
+            <source>Based on the topic "%theme%", create a compelling title that will capture attention and summarize the content effectively. And do not include quotation marks around your answer</source>
+            <target>Basierend auf dem Thema "%theme%" erstellen Sie einen fesselnden Titel, der Aufmerksamkeit erregt und den Inhalt effektiv zusammenfasst. Verwenden Sie keine Anführungszeichen in Ihrer Antwort.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="23e8bc5c05172b396e2a5bad9b1d6e7f">
+            <source>Based on the topic "%theme%", create a short and effective meta title that is SEO-friendly and accurately represents the content. And do not include quotation marks around your answer</source>
+            <target>Basierend auf dem Thema "%theme%" erstellen Sie einen kurzen und effektiven Meta-Titel, der SEO-freundlich ist und den Inhalt genau wiedergibt. Verwenden Sie keine Anführungszeichen in Ihrer Antwort.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="cb71ee03fd4e763b82325c5fa0c28711">
+            <source>Based on the topic "%theme%", create a concise and compelling meta description that encourages clicks and is optimized for search engines. And do not include quotation marks around your answer</source>
+            <target>Basierend auf dem Thema "%theme%" erstellen Sie eine prägnante und überzeugende Meta-Beschreibung, die Klicks fördert und für Suchmaschinen optimiert ist. Verwenden Sie keine Anführungszeichen in Ihrer Antwort.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="9d0996a44c6d51cf223e833dceecb286">
+            <source>Artificial intelligence</source>
+            <target>Künstliche Intelligenz</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="c2d32aa272572eafe2cc4770e2bfd014">
+            <source>ChatGPT API key</source>
+            <target>ChatGPT-API-Schlüssel</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="cf5ec9fb9f7214a3db82a5a39fec5b48">
+            <source>Enter your API key</source>
+            <target>Geben Sie Ihren API-Schlüssel ein</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="75ed532d32dc70959050e31b77e58ea7">
+            <source>Leave this field empty to keep the current API key.</source>
+            <target>Lassen Sie dieses Feld leer, um den aktuellen API-Schlüssel beizubehalten.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="ceff4daba8325b3361765852aaee7993">
+            <source>ChatGPT Model</source>
+            <target>ChatGPT-Modell</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="06933067aafd48425d67bcb01bba5cb6">
+            <source>Update</source>
+            <target>Aktualisieren</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="c9303b1945ce21da78c0dbf322760d21">
+            <source>Your feedback matters!</source>
+            <target>Ihr Feedback ist uns wichtig!</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="d29a6b40ffd41c38d621d20c857f64c1">
+            <source>Try out the idea generation and article writing assistance with ChatGPT, and let us know your thoughts. Your input is valuable to us.</source>
+            <target>Probieren Sie die Ideenfindung und die Unterstützung bei der Artikelerstellung mit ChatGPT aus und lassen Sie uns wissen, was Sie darüber denken. Ihr Feedback ist uns wertvoll.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="4d51c8de422054448e6ce0ba8e601d26">
+            <source>How to configure</source>
+            <target>So konfigurieren Sie</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="017a450e2366b7cac044ddc7d2ec6d8c">
+            <source>To get your API key, follow these steps:</source>
+            <target>Um Ihren API-Schlüssel zu erhalten, folgen Sie diesen Schritten:</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="936ccdb97115e9f35a11d35e3d5b5cad">
+            <source>Click here</source>
+            <target>Hier klicken</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="95d1a91db28943b4415e58c3a33da00d">
+            <source>and create or log in to your OpenAI account</source>
+            <target>und erstellen oder melden Sie sich bei Ihrem OpenAI-Konto an</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="cc20f3461e758ab19d6c5153d0c03cbf">
+            <source>Generate a new API key or copy your existing API key.</source>
+            <target>Generieren Sie einen neuen API-Schlüssel oder kopieren Sie Ihren vorhandenen API-Schlüssel.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="de569f43eaf876d21ef31bdff02dddce">
+            <source>Save your API key securely.</source>
+            <target>Speichern Sie Ihren API-Schlüssel sicher.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="114cc8b1c0ac091317b57b43c943ce3c">
+            <source>Choose the type of GPT you want to use. We suggest you start with the GPT-4 option.</source>
+            <target>Wählen Sie den Typ von GPT, den Sie verwenden möchten. Wir empfehlen, mit der GPT-4-Option zu beginnen.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="0102e48992806b281dfda5b8c32dbfe0">
+            <source>For more detailed instructions, visit the</source>
+            <target>Für detailliertere Anweisungen besuchen Sie die</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="a491057e2a512be510577e93ed7431ca">
+            <source>OpenAI documentation</source>
+            <target>OpenAI-Dokumentation</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="e9fc39463470e1ad3aceeb8244e724a2">
+            <source>How to Use the ChatGPT Integration on PrestaBlog</source>
+            <target>Wie man die ChatGPT-Integration auf PrestaBlog verwendet</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="5e128822110d5365a6045423ea397d33">
+            <source>Navigate to the article of your choice or create a new one in PrestaBlog.</source>
+            <target>Navigieren Sie zu dem Artikel Ihrer Wahl oder erstellen Sie einen neuen in PrestaBlog.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="7393a8196b30dc29c96f66e551d0e1a0">
+            <source>Click on, </source>
+            <target>Klicken Sie auf, </target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="09f5fffbea463f4bba3c7df3bacf8af0">
+            <source>Create your article with the help of AI</source>
+            <target>Erstellen Sie Ihren Artikel mit Hilfe von KI</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="67cb07ef2029aac61fd1c58bae821126">
+            <source>Explore the 3 available fields:</source>
+            <target>Erkunden Sie die 3 verfügbaren Felder:</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="ac21e1aa38b4f246d09ab6ab35ed309e">
+            <source>AI conversation interface</source>
+            <target>KI-Konversationsschnittstelle</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="1ec217726f49b348c4fd729dd4cdb3d9">
+            <source>This area displays the ongoing conversation with ChatGPT and indicates available actions.</source>
+            <target>In diesem Bereich wird die laufende Unterhaltung mit ChatGPT angezeigt und es werden verfügbare Aktionen angezeigt.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="876e05f7a35cede0a6dfb45ca8a1bf2f">
+            <source>Select the type of discussion</source>
+            <target>Wählen Sie die Art der Diskussion</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="f7a1a77382f593bf44d96f3ea90815da">
+            <source>Choose the purpose of your interaction with the AI, such as idea generation, writing article or summary, etc.</source>
+            <target>Wählen Sie den Zweck Ihrer Interaktion mit der KI, wie z. B. Ideenfindung, Artikelschreiben oder Zusammenfassung usw.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="229a6246e3bcb00dc80f5062f21e4261">
+            <source>Input Area:</source>
+            <target>Eingabebereich:</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="cb1dbc03dd0800161365d31bf34a0dfa">
+            <source>Use this area to enter your messages or requests based on the selected type of discussion. If needed, you can also fine-tune your inputs with specific prompts. ChatGPT’s responses will appear in the conversation interface.</source>
+            <target>Verwenden Sie diesen Bereich, um Ihre Nachrichten oder Anfragen basierend auf der ausgewählten Art der Diskussion einzugeben. Bei Bedarf können Sie Ihre Eingaben auch mit spezifischen Aufforderungen anpassen. Die Antworten von ChatGPT werden in der Konversationsschnittstelle angezeigt.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="7e1b06e49d9166c6b0573f4c2a8a7a7d">
+            <source>Insert as Title</source>
+            <target>Als Titel einfügen</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="b956d3110bf0ec93f5143307f8805858">
+            <source>Insert as Summary</source>
+            <target>Als Zusammenfassung einfügen</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="4fa9d50c162845ce07031e59a0b8f9d9">
+            <source>Insert as Content</source>
+            <target>Als Inhalt einfügen</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="01ad56177ad7d89c8bb1b87d04073b00">
+            <source>Insert as Meta Title</source>
+            <target>Als Meta-Titel einfügen</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="93ec8ef721a968d46e0d1c33b0b2ad0a">
+            <source>Insert as Meta Description</source>
+            <target>Als Meta-Beschreibung einfügen</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="6a6582418fa4fa682583297ce016691e">
+            <source>Perform Action</source>
+            <target>Aktion ausführen</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="deccbe4e9083c3b5f7cd2632722765bb">
+            <source>Translate</source>
+            <target>Übersetzen</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="570fdb4a2ef6f7de2ad5792df04762ac">
+            <source>Free Discussion</source>
+            <target>Freie Diskussion</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="643c4b78e6b32f9c8c62e45bc2fe083f">
+            <source>Find Topic ideas</source>
+            <target>Themenideen finden</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="20ab5f1273080384c2f6e90b2d4e2977">
+            <source>Find SEO Variations ideas</source>
+            <target>SEO-Variationen finden</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="c6737f945d8059c07cd6883d954407f4">
+            <source>Write Article</source>
+            <target>Artikel schreiben</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="28e0253892784cf8089a2fb5f8547302">
+            <source>Create Summary</source>
+            <target>Zusammenfassung erstellen</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="ac6d3236a59e3be0d834444665964096">
+            <source>Create Title</source>
+            <target>Titel erstellen</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="9ca21d5ab709b656905d25323a10782e">
+            <source>Create Meta Title</source>
+            <target>Meta-Titel erstellen</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="e2277017902135e0093a6164dc80b8cc">
+            <source>Create Meta Description</source>
+            <target>Meta-Beschreibung erstellen</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="a5e2f7fabd1510feb6ee13b9c418624d">
+            <source>Choose a writing style for your article...</source>
+            <target>Wählen Sie einen Schreibstil für Ihren Artikel...</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="9238e39b78a343523047c8f093482fdc">
+            <source>Casual and Friendly</source>
+            <target>Ungezwungen und freundlich</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="aeae4d62e861ba9c01c2aa96883c42a9">
+            <source>Emotional and Personal</source>
+            <target>Emotional und persönlich</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="9547cd0d23be04ccf439845e3dbdb0d7">
+            <source>Professional and Formal</source>
+            <target>Professionell und formell</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="dfee64ebedff424995f7bac3618a6b67">
+            <source>Sarcastic or Humorous</source>
+            <target>Sarkastisch oder humorvoll</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="b618ae21695ea702066a677432b9e939">
+            <source>Inspiring and Motivating</source>
+            <target>Inspirierend und motivierend</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="5aeb46595f96275a462932f0bfef3892">
+            <source>Confident and Assertive</source>
+            <target>Selbstbewusst und bestimmt</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="955bdfba4832e3f88b020a5c1edaaded">
+            <source>Thoughtful and Reflective</source>
+            <target>Nachdenklich und reflektierend</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="0510c2bebec733098959e5b1c27054a3">
+            <source>Trustworthy and Serious</source>
+            <target>Vertrauenswürdig und ernst</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="4023d776af856af29d16f68c6157b664">
+            <source>Innovative and Forward-thinking</source>
+            <target>Innovativ und zukunftsorientiert</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="6a8a7969d927a7507103c244d079a617">
+            <source>Inclusive and Diverse</source>
+            <target>Inklusiv und vielfältig</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="0d579c0c2343b83459cc9882a9eb044c">
+            <source>Enter your theme...</source>
+            <target>Geben Sie Ihr Thema ein...</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="88512a88100c22e54a61aaec8ed842ba">
+            <source>Type your message here...</source>
+            <target>Geben Sie Ihre Nachricht hier ein...</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="94966d90747b97d1f0f206c98a8b1ac3">
+            <source>Send</source>
+            <target>Senden</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="7713c2a0cbed27dadb47b358c95e2935">
+            <source>Enter your subject...</source>
+            <target>Geben Sie Ihr Thema ein...</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="b6ac38ddf6d8f88d5b6f14c6613b4f47">
+            <source>Enter your article topic...</source>
+            <target>Geben Sie Ihr Artikeltopic ein...</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="8d62b895b039cc484a42cd57dacaef12">
+            <source>Enter the theme to summarize...</source>
+            <target>Geben Sie das Thema ein, um es zusammenzufassen...</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="4217de8a5def833de500a1c9d9d16c93">
+            <source>Enter the topic for the title...</source>
+            <target>Geben Sie das Thema für den Titel ein...</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="21b06d47d600f4defa3f1490225dd958">
+            <source>Enter the topic for the meta title...</source>
+            <target>Geben Sie das Thema für den Meta-Titel ein...</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="4f1d1c82fe605744316162c2cf5c4a37">
+            <source>Enter the topic for the meta description...</source>
+            <target>Geben Sie das Thema für die Meta-Beschreibung ein...</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="299ec5932718436e262f5c13ab48f2ed">
+            <source>Processing your request, this might take a little time...</source>
+            <target>Ihre Anfrage wird bearbeitet, das kann etwas dauern...</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="cfe1b4b75fb8dc152b124f9305835a11">
+            <source>Your message</source>
+            <target>Ihre Nachricht</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="902b0d55fddef6f8d651fe1035b7d4bd">
+            <source>Error</source>
+            <target>Fehler</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="06df33001c1d7187fdd81ea1f5b277aa">
+            <source>Actions</source>
+            <target>Aktionen</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="6e00d090d55d80e07326e6defe846c78">
+            <source>Content inserted successfully.</source>
+            <target>Inhalt erfolgreich eingefügt.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="78f31810e25fc5797dd2184947e14e09">
+            <source>Error inserting content.</source>
+            <target>Fehler beim Einfügen des Inhalts.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="6dd08874f83507e9c7b23f1a46b7fa7c">
+            <source>Translation</source>
+            <target>Übersetzung</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="0da980338ca97a6c3cfcd646be318b2d">
+            <source>Error: No visible field found.</source>
+            <target>Fehler: Kein sichtbares Feld gefunden.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="f408a76b9b0b937b60217a50b6b65abb">
+            <source>Error: No visible TinyMCE editor found.</source>
+            <target>Fehler: Kein sichtbarer TinyMCE-Editor gefunden.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="bb1fc649b76642bc3794e0b6912877be">
+            <source>Error: No visible meta title field found.</source>
+            <target>Fehler: Kein sichtbares Meta-Titelfeld gefunden.</target>
+            <note>Line: </note>
+        </trans-unit>
+        <trans-unit id="74f0d4137e01b767650b6779b4d7fc5b">
+            <source>Error: No visible meta description field found.</source>
+            <target>Fehler: Kein sichtbares Meta-Beschreibungsfeld gefunden.</target>
+            <note>Line: </note>
+        </trans-unit>
+    </body>
+  </file>
+</xliff>

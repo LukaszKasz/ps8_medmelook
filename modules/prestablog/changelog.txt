@@ -1,0 +1,991 @@
+Release Notes for module PrestaShop 8
+Module : PrestaBlog
+[root] = ./modules/prestablog
+[theme] = current: "grid-and-slides"
+[pre] = default prefixe for tables installation of PrestaShop : “ps_"
+* = All files
+
+##########################
+#   v5.2.9 - 2024-10-30  #
+##########################
+[+] [root]views/js/masonry.pkgd.min.js update from 4.2.1 to 4.2.2
+[+] [root]views/templates/hook/*_footer-lastliste.tpl added thumb option for last news in footer
+[+] [root]prestablog.php added thumb option for last news in footer
+[+] [root]views/templates/admin/ConfigBlocs.tpl added thumb option for last news in footer
+[+] [root]prestablog.php updated path for slideshow
+[+] [root]translations/* updating translations.
+[+] [root]views/templates/admin/displayListeArborescenceCategories.tpl Fix prestaboost compatibility
+[+] [root]prestablog.php Fix prestaboost compatibility
+[+] [root]class/author.php added new permissions (edit news and validate news)
+[+] [root]prestablog.php added new permissions (edit news and validate news)
+[+] [root]views/templates/admin/EditNews.tpl added new permissions (edit news and validate news)
+[+] [root]views/templates/admin/Home.tpl added new permissions (edit news and validate news)
+[+] [root]views/templates/admin/News.tpl added new permissions (edit news and validate news)
+[+] [root]views/templates/admin/displayAuthorPermissions.tpl added new permissions (edit news and validate news)
+
+##########################
+#   v5.2.8 - 2024-10-15  #
+##########################
+[+] [root]class/news.php Change prestablog_color Varchar Value from 255 to 33.
+[+] [root]class/categorie.php Following new Prestashop Addons validation rules -> fix compatibility with php7.x
+[+] [root]class/news.php Following new Prestashop Addons validation rules -> fix compatibility with php7.x
+[+] [root]prestablog.php Following new Prestashop Addons validation  -> fix compatibility with php7.x
+
+##########################
+#   v5.2.7 - 2024-10-14  #
+##########################
+**Compatibility update: **
+Following the new Prestashop Addons validation rules, the module will no longer be compatible with PHP 7.0 and 7.1. Please use PHP 7.2 or higher.
+[+] [root]translations/* improving translations.
+[+] [root]views/css/*-module.css improve category block display
+[+] [root]views/js/collapse.js merge collaps system for the two templates
+[+] [root]views/templates/hook/*_bloc-catliste.tpl improve category block display
+[+] [root]class/categorie.php Following new Prestashop Addons validation rules
+[+] [root]class/news.php Following new Prestashop Addons validation rules
+[+] [root]prestablog.php Following new Prestashop Addons validation rules
+
+##########################
+#   v5.2.6 - 2024-10-05  #
+##########################
+Added permissions system for all blog authors. (Access to configuration, article, category, popup, tools etc.)
+[+] [root]prestablog.php Improved excerpt truncation behavior
+[+] [root]views/templates/hook/*_page_subblock.tpl Improved excerpt truncation behavior
+[+] [root]views/templates/admin/Component/displayFormInput.tpl fix required warning
+[+] [root]views/templates/admin/Component/displayFormDate.tpl fix required warning
+[+] [root]prestablog.php Added new tab shortcut on left column
+[+] [root]translations/* improving translations.
+[+] [root]views/templates/hook/colorpicker.tpl fix popup preview in admin
+[+] [root]views/templates/hook/lite-popup.tpl fix popup preview in admin
+[+] [root]class/popup.php fix popup preview in admin
+[+] [root]class/author.php Added author permissions system
+[+] [root]prestablog.php Added author permissions system
+[+] [root]views/templates/admin/displayAuthorPermissions.tpl Added author permissions
+[+] [root]views/templates/admin/displayConfigAuthor.tpl Added author permissions
+[+] [root]views/templates/admin/displayListeArborescenceCategories.tpl Added author permissions
+[+] [root]views/templates/admin/displayListeCategories.tpl Added author permissions
+[+] [root]views/templates/admin/Home.tpl Added author permissions
+[+] [root]views/templates/admin/NavigationConfiguration.tpl Added author permissions
+[+] [root]views/templates/admin/Home.tpl Added author permissions
+[+] [root]views/templates/admin/News.tpl Added author permissions
+[+] [root]views/templates/admin/displayAuthorList.tpl Added author permissions
+[+] [root]controllers/ New controllers for shortcut access on left menu
+
+##########################
+#   v5.2.5 - 2024-09-23  #
+##########################
+[+] [root]translations/* improving translations.
+[+] [root]views/templates/front/*_page-comment.tpl New fonctionnality and design, reply to comment.
+[+] [root]prestablog.php New fonctionnality and design, reply to comment on front and backoffice.
+[+] [root]views/css/*-module.css New fonctionnality and design, reply to comment.
+[+] [root]views/css/admin.css New fonctionnality and design, reply to comment.
+[+] [root]views/templates/admin/Comments.tpl New fonctionnality and design, reply to comment on backoffice.
+[+] [root]class/commentnews.php Pagination exlude reply to comment table in backoffice.
+[+] [root]views/js/comments.js New fonctionnality and design, reply to comment.
+
+##########################
+#   v5.2.4 - 2024-09-10  #
+##########################
+[+] [root]prestablog.php Enhanced slideshow functionality and ergonomics (now, you can hide slide title on front)
+[+] [root]views/templates/admin/displaySlideSystem.tpl Enhanced slideshow functionality and ergonomics
+[+] [root]views/templates/admin/displayEditSlide.tpl Enhanced slideshow functionality and ergonomics
+[+] [root]views/templates/admin/displayAddSlide.tpl Enhanced slideshow functionality and ergonomics
+[+] [root]views/templates/admin/NavigationConfiguration.tpl Enhanced slideshow functionality and ergonomics
+[+] [root]views/templates/front/*_slide.tpl Enhanced slideshow functionality and ergonomics
+[+] [root]class/slider.php Enhanced slideshow functionality and ergonomics
+[+] [root]views/css/admin.css Enhanced slideshow functionality and ergonomics
+[+] [root]views/templates/admin/EditNews.tpl Added max lenght configuration for title.
+[+] [root]translations/* improving translations.
+[+] [root]class/popup.php improving translations.
+[+] [root]views/templates/admin/EditNews.tpl improving translations.
+[+] [root]views/css/*-module.css Improvement of the blog search behavior
+[+] [root]views/templates/front/*-filtrecat.tpl Improvement of the blog search behavior
+[+] [root]views/templates/front/*-search.tpl Improvement of the blog search behavior
+
+##########################
+#   v5.2.3 - 2024-09-02  #
+##########################
+[+] [root]prestablog.php Multishop with virtual folder activated are now, correctly displaying.
+[+] [root]class/author.php Fix author last article display in multishop.
+
+##########################
+#   v5.2.2 - 2024-08-30  #
+##########################
+[+] [root]views/css/*-module.css Fix author picture max-with to 45% on screen lower than 600px.
+[+] [root]views/css/admin.css change subcategory order design.
+[+] [root]prestablog.php Fix subcategory order.
+[+] [root]views/templates/admin/displayOrderCategories.tpl Fix subcategory order.
+[+] [root]views/templates/admin/displayOrderTreeCategories.tpl Fix subcategory order.
+[+] [root]views/templates/admin/ConfigGlobal.tpl Adjust design in sharing icons config.
+[+] [root]prestablog.php Added option for Material icons in header.
+[+] [root]views/templates/admin/ConfigGlobal.tpl Added option for Material icons in header
+[+] [root]translations/* Update of all language files
+[+] [root]views/templates/admin/displayFormEnableItemConfiguration.tpl update translation on enable item input
+
+##########################
+#   v5.2.1 - 2024-08-20  #
+##########################
+[+] [root]controllers/admin/AdminPrestaBlogChatGPTController.php Added new fonctionnality: ChatGPT.
+[+] [root]prestablog.php New fonctionnality: ChatGPT.
+[+] [root]views/css/admin.css New style for ChatGPT.
+[+] [root]views/img/ai.png New picture for ChatGPT.
+[+] [root]views/templates/admin/ConfigAi.tpl New configuration file for ChatGPT.
+[+] [root]views/templates/admin/EditNews.tpl Integration of ChatGPT in article edit
+[+] [root]views/templates/admin/NavigationConfiguration.tpl Integration of link to configuration of ChatGPT (in Tools)
+[+] [root]views/templates/admin/displayChatGPT.tpl Integration of ChatGPT in article edit
+[+] [root]translations/* Update of all language files
+
+##########################
+#   v5.2.0 - 2024-07-29  #
+##########################
+[+] [root]upgrade/upgrade-5.1.9.php Fix issue with 5.1.9 upgrade
+
+##########################
+#   v5.1.9 - 2024-07-24  #
+##########################
+[+] [root]views/templates/admin/EditNews.tpl fix comportment of the subcategory in edit mod
+[+] [root]prestablog.php Fix group visitor display when deleted from prestashop
+[+] [root]prestablog.php Fix group visitor display when deleted from prestashop
+[+] [root]views/css/grid-and-slides-module.css Fix creative elements issue with swip button
+[+] [root]views/css/*-module.css fix pagination badly showing in some rare case
+[+] [root]views/css/*_page.tpl Using now iso lang instead of iso code.
+[+] [root]controllers/front/blog.php Using now iso lang instead of iso code.
+[+] [root]controllers/front/blog.php Improve Author display (adding menu and fix breadcrumb display)
+[+] [root]views/css/*_page-unique-author.tpl Improve Author display (adding menu and fix breadcrumb display)
+[+] [root]views/templates/front/*_page-extra.tpl fix Twitter url changed for sharing icon
+[+] [root]views/templates/hook/*_header-meta-og.tpl added twitter card, (don't forget to add : Allow: /modules/prestablog in robots.txt)
+
+##########################
+#   v5.1.8 - 2024-05-24  #
+##########################
+[+] [root]views/templates/admin/checkCurrentSitemap.tpl fix edit issue due to 5.1.6 update.
+[+] [root]views/templates/admin/checkCurrentSitemap.tpl fix edit issue due to 5.1.6 update.
+[+] [root]views/templates/admin/Home.tpl (multishop) Now, article are showing only if a shop is selected
+[+] [root]views/templates/admin/News.tpl (multishop) Now, article are showing only if a shop is selected
+[+] [root]prestablog.php (multishop) Now, article are showing only if a shop is selected
+[+] [root]blog.php (multishop) Now, article are showing only if a shop is selected
+
+##########################
+#   v5.1.7 - 2024-05-23  #
+##########################
+[+] [root]views/templates/admin/displayAddSlide.tpl fix edit issue due to 5.1.6 update.
+[+] [root]views/templates/admin/displayFormAntiSpam.tpl fix edit issue due to 5.1.6 update.
+
+##########################
+#   v5.1.6 - 2024-05-17  #
+##########################
+[+] [root]views/css/grid-for-1-7-module.css fix display of the associated product block for grid 1.7 template.
+[+] [root]views/templates/front/*_page-extrat.tpl fix display of associated product when social icons are not displayed on frontoffice.
+[+] [root]views/templates/admin/displayFormCategories.tpl fix cropping box ratio in category.
+[+] [root]views/templates/admin/EditComments.tpl added dialog confirmation when clicking on article link in comment editing.
+[+] [root]views/templates/admin/Component/moduleDatepicker.tpl Supression fichier.
+[+] [root]views/templates/admin/Component/themePreview.tpl Supression fichier.
+[+] [root]views/templates/admin/Component/themeLayout.tpl Supression fichier.
+[+] [root]views/templates/admin/Component/displayConfLayout.tpl Modification suite à supression fichiers.
+[+] [root]controllers/front/blog.php New method for filtering by id_shop in multishop environnement.
+[+] [root]class/news.php New method for filtering by id_shop in multishop environnement.
+[+] [root]upgrade/upgrade-5.1.6.php Update custom controller.
+[+] [root]views/templates/front/*_page-all.tpl display modification for images in category
+[+] [root]views/templates/hook/grid-and-slides_bloc-lastliste.tpl display modification for images in block
+
+##########################
+#   v5.1.5 - 2024-04-30  #
+##########################
+[+] [root]views/templates/admin/Home.tpl remplaced icons img by material icons
+[+] [root]views/templates/*_category.tpl Added WebP format for the normal and thumb category picture
+[+] [root]controllers/front/blog.php Added WebP format for the normal and thumb category picture
+[+] [root]views/templates/admin/EditNews.tpl Limited all meta to 250 caracters
+[+] [root]views/img/ Deleted all unused pictures
+[+] [root]views/templates/admin/Comments.tpl fix url for changing comments status
+
+##########################
+#   v5.1.4 - 2024-04-20  #
+##########################
+[+] [root]views/templates/admin/Comments.tpl Fix pagination issue in backoffice
+[+] [root]views/templates/admin/ConfigAntiSpam.tpl Fix confirmation dialog when deleting antispam question
+[+] [root]views/templates/admin/Home.tpl Fix confirmation dialog when deleting a news
+[+] [root]views/templates/admin/News.tpl Fix confirmation dialog when deleting a news
+[+] [root]views/templates/admin/EditNews.tpl Fix confirmation dialog when deleting a comment or picture
+[+] [root]views/templates/admin/EditComments.tpl Fix confirmation dialog when deleting a comment
+[+] [root]views/templates/admin/popup_preview_link.tpl Fix colorpicker in popup edit
+[+] [root]views/templates/front/*_page.tpl Fix canonical in pagination category
+[+] [root]views/css/*_module.css Force width and height of svg social icons
+[+] [root]views/css/admin.css Update comment design in admin news
+[+] [root]views/templates/admin/EditNews.tpl Update comment design in admin news
+
+##########################
+#   v5.1.3 - 2024-04-02  #
+##########################
+
+[+] [root]prestablog.php Optimise picture quality (now keep original picture if size uploaded is same as config)
+[+] [root]/upgrade/ Automatically update controller on changed url of the blog
+[+] [root]/views/config/default.xml adding new default config file (specific config for img templates will not be erased)
+[+] [root]views/css/custom1.css delete file (will be added automatically when config design)
+[+] [root]views/css/blog1.css delete file (will be added automatically when config design)
+
+##########################
+#   v5.1.2 - 2024-03-20  #
+##########################
+
+(Update url is needed in configuration > front page if you have changed the url configuration)
+[+] [root]views/templates/front/*_page-all.tpl Introducing WebP
+[+] [root]views/templates/front/*_page-title.tpl Introducing WebP
+[+] [root]views/templates/front/*_page-extra.tpl Introducing WebP
+[+] [root]views/templates/hook/*_page-subblock.tpl Introducing WebP
+[+] [root]views/templates/hook/*_bloc-lastliste.tpl Introducing WebP
+[+] [root]controllers/front/blog.php Introducing WebP
+[+] [root]prestablog.php Introducing WebP
+[+] [root]views/templates/css/*-module.css adjust design of: last list and footer
+[+] [root]views/templates/admin/displayFormCategories.tpl Deletion of a semicolon
+[+] [root]views/templates/hook/*_page-subblock.tpl fix author warning when no author set
+[+] [root]views/templates/admin/displayAccountGestion.tpl Improvement of escape input
+[+] [root]views/templates/admin/Component/displayFormGroups.tpl fix category checkbox empty when create a category
+[+] [root]class/*.php Improvement of SQL Querys
+[+] [root]views/templates/hook/*_footer-lastliste update footer design (not much thing but better for css customisation) and remove date
+
+##########################
+#   v5.1.1 - 2024-03-06  #
+##########################
+[+] [root]views/templates/front/grid-for-1-7_page.tpl Adjust prev balise
+[+] [root]views/templates/front/grid-and-slides_page.tpl Adjust prev balise
+[+] [root]controllers/front/blog.php Fix author lenght
+[+] [root]views/templates/admin/Component/displayFormGroups.tpl Fix Checked box for group permission in category
+[+] [root]views/templates/admin/EditNews_titlesTab.tpl Fix Escape on blog title
+[+] [root]views/templates/admin/News.tpl Pagination in news table now keep language selector 
+
+##########################
+#   v5.1.0 - 2024-02-13  #
+##########################
+
+New template for 1.7 and 8 version of Prestashop.
+grid-for-1-7 will be maintained for the moment.
+
+##########################
+#   v5.0.9 - 2023-10-15  #
+##########################
+
+[+] [root]views/templates/front/grid-for-1-7_page-extra.tpl Change color and icon for twitter x
+[+] [root]views/css/rrssb.css Change color and icon for twitter x
+[-] [root]views/js/jquery.rwdImageMaps.min.js Delete unused file
+[-] [root]views/js/jquery.canvasAreaDraw.blog.js Delete unused file
+[-] [root]views/js/treeCategories.js Delete unused file
+[-] [root]views/js/rrssb.min.js Delete unused file
+[-] [root]views/css/rrssb.css Delete unused file
+[+] [root]views/templates/ Add new files for new template Grid and slides
+[+] [root]views/css/grid-and-slides-module.css Add new file for new template Grid and slides
+[+] [root]views/css/grid-and-slides-module-widget.css Add new file for new template Grid and slides
+[+] [root]views/config/grid-and-slides.xml Add new file for new template Grid and slides
+[+] [root]views/img/grid-and-slides/ Add new folders for new template Grid and slides
+[+] [root]views/js/prestablog-swip.min.js Update to version 11.0.0
+[+] [root]views/templates/front/grid-for-1-7_page-title.tpl arrange author display in title
+[+] [root]views/templates/admin/ConfigGlobal.tpl fix display on config page on multishop context.
+[+] [root]views/templates/admin/ConfigDesign.tpl fix display on config page on multishop context.
+[+] [root]views/templates/admin/ConfigTheme.tpl fix display on config page on multishop context.
+[+] [root]views/templates/admin/ConfigBlocs.tpl fix display on config page on multishop context.
+[+] [root]views/templates/admin/displaySitemap.tpl fix display on config page on multishop context.
+[+] [root]views/templates/admin/ConfigComment.tpl fix display on config page on multishop context.
+[+] [root]views/templates/admin/ConfigPageBlog.tpl fix display on config page on multishop context.
+[+] [root]views/templates/admin/displayFormSubBlocks.tpl Fix issue with special caracters in title
+[+] [root]views/css/grid-for-1-7.css new icons sharing design, fix padding-left to 0 in sub category block.
+[+] [root]views/templates/front/grid-for-1-7_page-extra.tpl new icons sharing design
+[+] [root]controller/blog.php added price on associated products
+[+] [root]class/categories.php fix error with 2nd level subcategory in search filter.
+[-] [root]views/templates/admin/News.tpl Delete unused function.
+[-] [root]views/img/postdate.gif Delete unused file.
+[+] [root]class/news.php Add possibility to edit icons sharing color.
+[+] [root]prestablog.php Add possibility to edit icons sharing color.
+[+] [root]prestablog.php add actionOnImageResizeAfter hook for compatibility with module Page Cache Ultimate and WEBP
+[+] [root]views/css/admins.css Add possibility to edit icons sharing color.
+[+] [root]views/templates/admin/ConfigDesign.tpl Add possibility to edit icons sharing color.
+[+] [root]translations/pl-PL/ Polish translation enhancement
+[+] [root]translations/it-IT/ Italian translation enhancement
+[+] [root]translations/cs-CZ/ Czech translation enhancement
+[+] [root]translations/ro_RO/ Adding Romanian translation
+[+] [root]views/templates/admin/displayFormCategories.tpl Fix quote display in meta tags backoffice
+[+] [root]views/templates/admin/EditNews.tpl Fix quote display in meta tags backoffice
+[+] [root]views/templates/admin/News.tpl Fix display column when prestaboost is activated
+[+] [root]views/templates/admin/Home.tpl Add restriction feature for author on home backoffice page
+[+] [root]views/templates/front/grid-for-1-7_page-all.tpl New column with full picture view 
+[+] [root]views/templates/admin/ConfigCategories.tpl New column with full picture view 
+[+] [root]views/templates/css/grid-for-1-7.css New column with full picture view
+
+##########################
+#   v5.0.8 - 2023-10-03  #
+##########################
+
+[+] [root]views/templates/front/grid-for-1-7_page.tpl Display canonical.
+[+] [root]views/templates/front/grid-for-1-7_page-title.tpl Fix display author when pseudo is not set.
+[+] [root]controllers/front/blog.php Fix alternate url for multilanguage.
+
+##########################
+#   v5.0.7 - 2023-09-25  #
+##########################
+
+[+] [root]views/templates/front/grid-for-1-7_page-title.tpl Fixed a div display in some cases where the category was not active.
+[+] [root]views/templates/front/grid-for-1-7_page-menusubcat.tpl Fixe compatibility with older prestashop version (<1.7.8).
+[+] [root]views/templates/front/grid-for-1-7_page.tpl Change canonical display
+
+##########################
+#   v5.0.6 - 2023-11-05  #
+##########################
+
+[+] [root]views/templates/admin/displayFormCategories.tpl Fix auto change of url rewrite when creating a category.
+[+] [root]prestablog.php fix Lock of url rewrite when updating a category
+[+] [root]views/templates/hook/grid-for-1-7_page-subblock.tpl : Change div place for li:first-child triggering in css.
+[+] [root]controllers/blog.php : Fix Warning on 8.1
+[+] [root]views/templates/ : Add escape on different files.
+
+--------------------------------
+##########################
+#   v5.0.5 - 2023-09-05  #
+##########################
+
+[+] [root]views/templates/admin/EditNews.tpl : fix issue where input disapear when input flag was unselected in some news.
+[+] [root]views/css/grid-for-1-7-module.css : Add a new class for comment display
+[+] [root]views/templates/front/grid-for-1-7_page-comment.tpl : Add a new span class for comment display
+
+##########################
+#   v5.0.4 - 2023-07-17  #
+##########################
+
+Important features added and changed :
+   [+] [root]controller/front/blog.php : fix breadcrumb translation.
+   [+] [root]translations/ : fix translation on sitemap configuration page.
+   [+] [root]views/templates/admin/EditNews.tpl : fix issue on some meta title with special caracters.
+   [+] [root]views/templates/admin/displaySitemap.tpl : fix translation on sitemap configuration page.
+   [+] [root]views/templates/admin/Component/Datepicker.tpl : New tpl for datepicker.
+   [+] [root]prestablog.php : Delete unused code.
+   [+] [root]controllers/front/blog.php : Change <p> and </p> deleted in category description to not deleted to be able to add a complet html description in category. change function voirFiltrageSearch and displayMenuCategories
+   [+] [root]views/templates/front/grid-for-1-7_category.tpl : changing <p class="cat_desc_blog"> to <div class="cat_desc_blog"> to feat blog.php fix.
+   [+] [root]views/templates/front/grid-for-1-7_page-filtrecat.tpl modification of the filter.
+   [+] [root]views/templates/front/grid-for-1-7_page-menusubcat.tpl Adding new tpl for subcateories.
+   [+] [root]views/templates/admin/displayOrdedrCategories.tpl minor change.
+   [+] [root]views/templates/js/jquery.mjs.nestedSortable.js minor change.
+ 
+   
+##########################
+#   v5.0.3 - 2023-06-05  #
+##########################
+
+Important features added and changed :
+   [+] [root]views/templates/front/grid-for-1-7_page.tpl : Added displayAfterTitleTag hook for compatibility with some modules using it.
+   [+] [root]prestablog.php : Fix propagation link color in css for blog catégories
+   [+] [root]views/img/colorpicker : Added pictures for design category
+   [+] [root]translation: Added new translations in configuration > design
+   [+] [root]views/css/prestablog-back-office.css fix icon design for colorpicker
+   [+] [root]views/templates/admin/ConfigPageBlog.tpl fix flag select
+   [+] [root]views/templates/admin/displayFormSubBlocks.tpl fix flag select
+   [+] [root]views/css/prestablog-back-office.css delete unused file
+   [+] [root]views/templates/admin/ : adding new tpl popup_preview_link.tpl
+   [+] [root]views/templates/admin/news.tpl : fix display in table.
+   
+##########################
+#   v5.0.2 - 2023-05-23  #
+##########################
+
+Important features added and changed :
+   [+] [root]/prestablog.php : Delete unused js file.
+   [+] [root]/controllers/blog.php : Fix php8 compatibility on author page
+   [+] [root]/prestablog.php : Fix php8 compatibility
+   [+] [root]/classes/popup.php : adding preview in popup editing
+   
+##########################
+#   v5.0.1 - 2023-05-03  #
+##########################
+
+Important features added and changed :
+    [+] [root]/prestablog.php : Fix issue with creative slider display in backoffice edition
+	[+] [root]/prestablog.php : Fix display in backoffice of shortcode in personalised list table
+	[+] [root]/prestablog.php : Fix author list compatibility on php8
+	[+] [root]/views/templates/admin/EditNews.tpl : Fix issue with creative slider display in backoffice edition
+	[+] [root]/views/templates/admin/EditNews.tpl : change mouse over blog category list
+	[+] [root]/views/templates/css/ConfigPageBlog.tpl : fix display of the url in the blog page configuration for shop with one language.
+	[+] [root]/views/templates/css/displayFormSubBlocks.tpl : fix checkbox for shop with one language.
+	
+##########################
+#   v5.0.0 - 2023-04-17  #
+##########################
+MAJOR UPDATE (Backup before update is important)
+
+Important features added and changed :
+    [+] [root]/prestablog.php : php8 compatibility and admin tpl added
+    [+] [root]/controllers/* : php8 compatibility  
+    [+] [root]/class/* : php8 compatibility  
+    [+] [root]/views/templates/* : Added New language system >prestashop 1.7.8 and news tpls admin.
+    [+] [root]/class/*.class.php : delete all unused file (due to new translation systeme compatibility) 
+    [+] [root]/translation/*: Added new folder for translation compatibility and keep old translation files for older prestashop version.
+    [+] [root]/prestablog.php : fix url comment error message
+
+##########################
+#   v4.5.0 - 2021-01-05  #
+##########################
+
+Important features added and changed :
+    [+] [root]/prestablog.php : backoffice display with template files
+    [+] [root]/controllers/admin/AdminPrestaBlogAjaxController.php : fix search product with IDs
+    [+] [root]views/templates/front/grid.tpl : fix alt on product associated
+    [+] [root]views/templates/hook/grid.tpl : fix unwanted language showed
+	
+#########################
+#   v4.4.8 - 2022-09-30 #
+#########################
+
+	[+] [root] Deleting unused file
+	[+] [root] views/templates/hook/colorpicker.tpl fix issue when using a popup
+	
+#########################
+#   v4.4.7 - 2022-09-09 #
+#########################
+
+	[+] [root]/views/templates/js/ Fix submenu
+	[+] [root]/controllers/front/blog.php fix translation on blog name in breadcrumb and search page
+  	[+] [root]/views/templates/css/grid-for-1-7-module.css update background on author page
+	[+] [root]/views/templates/front/grid-for-1-7_page.tpl Fix meta keyword display
+	[+] [root]/views/templates/front/grid-for-1-7_bloc-catliste.tpl Fix cross on category with no subcategory
+ 	[+] [root]/views/templates/front/ update escape on many tpls
+	[+] [root]/views/templates/front/ : update escape on many tpls
+    [+] [root]/prestablog.php : fix SQL issue 
+    [+] [root]/prestablog.php : fix popup notice
+	
+#########################
+#   v4.4.6 - 2021-01-25 #
+#########################
+
+Important features added and changed :
+    [+] [root]/prestablog.php : fix search product by ID 
+    [+] [root]/prestablog.php : update class for custom css textarea
+    [+] [root]/prestablog.php : update url for finding facebook id 
+    [+] [root]/controllers/admin/AdminPrestaBlogAjaxController.php : Fix pictures not correct in associated product backoffice
+    [+] [root]views/templates/front/grid-for-1-7_page-extra.tpl : fix alt on product associated
+    [+] [root]views/templates/hook/grid-for-1-7_page-subblock.tpl : fix unwanted language showed
+    [+] [root]views/controllers/front/blog.php : fix url rewrite for home, categories and news
+    [+] [root]views/controllers/front/blog.php : Fix pictures not correct in associated product frontoffice
+    [+] [root]views/templates/front/grid-for-1-7_page.tpl : fix hreflang for home, categories and news
+	[+] [root]class/author.class.php: Fix order by date DESC
+	[+] [root]views/templates/css/grid-for-1-7-module.css : improving some display feature (author background, transition effect, padding etc.)
+
+##########################
+#   v4.4.5 - 2020-12-01  #
+##########################
+
+Important features added and changed :
+    [+] [root]/prestablog.php : fix install issues from id_shop not in database
+    [+] [root]/prestablog.php : fix blog url change crash
+    [+] [root]/prestablog.php : fix bug on products linked
+
+##########################
+#   v4.4.4 - 2020-11-25  #
+##########################
+
+Important features added and changed :
+    [+] [root]/upgrade : fix all upgrades
+    [+] [root]/class/news.class.php : update id_shop to database for product links in news
+
+##########################
+#   v4.4.3 - 2020-11-12  #
+##########################
+
+Important features added and changed :
+    [+] [root]/prestablog.php : delete old functionnality
+    [+] [root]/prestablog.php : Fix rewrite issue on 1.7.7
+    [+] [root]/prestablog.php : Fix deleting author
+    [+] [root]/translations/ : update translation files
+    [+] [root]/views/css/jquery.Jcrop.css : Fix picture
+
+#########################
+#   v4.4.2 - 2020-09-26 #
+#########################
+ Important features added and changed :
+    [+] [root]/views/css/grid-for-1-7-module.css : Adding new animation for news listing
+    [+] [root]views/templates/hook/grid.tpl : Adding new animation for news listing
+    [+] [root]/translations/ : fix some translations
+
+#########################
+#   v4.4.1 - 2020-08-26 #
+#########################
+
+ Important features added and changed :
+    [+] [root]/translations/fr.php : added new translation related to last update for creative elements
+    [+] [root]/translations/en.php : added new translation related to last update for creative elements
+    [+] [root]/translations/it.php : added new translation related to last update for creative elements
+    [+] [root]/translations/es.php : added new translation related to last update for creative elements
+    [+] [root]/translations/sv.php : added new translation related to last update for creative elements
+    [+] [root]/translations/de.php : added new translation related to last update for creative elements
+
+#########################
+#   v4.4.0 - 2020-08-08 #
+#########################
+
+ Important features added and changed :
+    [+] [root]/prestablog.php : fix multishop context for popup and slider features
+    [+] [root]/prestablog.php : fix table diplay ISO language on home backoffice
+    [+] [root]/class/popup.class.php : Remove checkbox and use multishop context
+    [+] [root]/class/slider.class.php : fix multishop context for slider listing
+    [+] [root]/controllers/blog.php : Add new tpl (compatibility with Creative Elements)
+    [+] [root]/views/templates/front/grid.tpl : New tpl for extra informations (compatibility with Creative Elements)
+    [+] [root]/views/templates/front/grid.tpl : New tpl for title H1 display and extra informations (compatibility with Creative Elements)
+    [+] [root]/views/templates/front/grid-for-1-7_page-unique.tpl : Deleting content extra (compatibility with Creative Elements)
+    [+] [root]/views/templates/front/grid-for-1-7_page.tpl : Adding two new tpl display (compatibility with Creative Elements)
+
+#########################
+#   v4.3.9 - 2020-07-15 #
+#########################
+
+ Important features added and changed :
+    [+] [root]/prestablog.php : Fix title h1 display bug in backoffice
+    [+] [root]/prestablog.php : Fix search filter in backoffice for article list
+    [+] [root]/views/css/admin.css : fix some design on table in backoffice
+	[+] [root]/views/templates/front/grid-for-1-7_page-all.tpl : fix issue with no content for creative element
+
+
+#########################
+#   v4.3.8 - 2020-06-08 #
+#########################
+
+ Important features added and changed :
+    [+] [root]/prestablog.php : edit title class custom css
+    [+] [root]/views/templates/front/grid-for-1-7_page-unique.tpl : optimising extras info on the page for SEO and modifying some design.
+    [+] [root]/views/templates/hook/grid.tpl : optimising associated news for SEO.
+    [+] [root]/views/templates/css/grid-for-1-7-module.css : Adding new classes for extras infos
+    [+] [root]/views/templates/css/blog1.css : Adding new classes for extras infos color edition
+
+
+#########################
+#   v4.3.7 - 2020-05-15 #
+#########################
+
+ Important features added and changed :
+    [+] [root]/class/popup.class.php : Adding translation
+    [+] [root]/translations/* : Updating all translations
+    [+] [root]/views/templates/front/grid-for-1-7_page-all.tpl : Fix h1 tag in category
+    [+] [root]/prestablog.php : Adding meta title and description for author page
+    [+] [root]/mails/* : Delete url comments
+
+#########################
+#   v4.3.6 - 2020-04-03 #
+#########################
+
+ Important features added and changed :
+    [+] [root]/prestablog.php : Fix collapse and expand categories
+    [+] [root]/views/templates/hook/grid-for-1-7_bloc-catliste.tpl : Fix collapse and expand subcategories
+    [+] [root]/prestablog.php : Changing default css colors
+    [+] [root]/prestablog.php : Fixing comment table display
+    [+] [root]/prestablog.php : Fixing category branch display in news editions.
+    [+] [root]/prestablog.php : Deleting url column
+    [+] [root]/views/templates/front/grid.tpl : Deleting url field in comments form
+    [+] [root]/views/templates/css/grid-for-1-7_page-module.css : Changing form display
+    [+] [root]/controllers/front/blog.php : Adding author meta title and description
+
+
+#########################
+#   v4.3.5 - 2020-02-13 #
+#########################
+
+ Important features added and changed :
+    [+] [root]/prestablog.php : Fixing news crop system for thumbs
+    [+] [root]/prestablog.php : Fixing pagination in news listing
+
+#########################
+#   v4.3.4 - 2020-02-03 #
+#########################
+    Important features added and changed :
+    [+] [root]/prestablog.php : fix for multishop display in category configuration
+    [+] [root]/prestablog.php : changing date on news display depending on the lang
+    [+] [root]/class/categories.class.php : fixing php error for php 7.3 "strpos"
+    [+] [root]/prestablog.php : fixing GLOB_BRACE error, deprecated
+    [+] [root]/prestablog.php : fixing display issue with language on news and slide list
+    [+] [root]/views/templates/front/grid-for-1-7_page-all.php : fixing H1 empty if number news on categorie not selected
+    [+] [root]/prestablog.php : fixing author's display + adding conf for news editing
+    [+] [root]/prestablog.php : super admin can change and select the author that edited the news
+    [+] [root]/translations : fixing translations of DE, DA, EN, FR, ES and PO
+    [+] [root]/views/css/grid-for-1-7.css : fixing some issues about submenu
+    [+] [root]/prestablog.php : changing date format for the different languages
+
+#########################
+#   v4.3.3 - 2020-01-09 #
+#########################
+    Important features added and changed :
+    [+] [root]/views/tpl/hook/grid-for-1_7-page-subblocks : fixing the number of news displayed issue
+
+#########################
+#   v4.3.2 - 2020-01-06 #
+#########################
+    MAJOR FIX
+    Important features added and changed :
+    [+] [root]/prestablog.php : Fixing slide editing + deleting + adding system
+    [+] [root]/class/slider.class.php : automatic adding last position
+    [+] [root]/prestablog.php : author + slide validation + error text while editing
+    [+] [root]/prestablog.php : news + home news list changings + current language display system
+    [+] [root]/prestablog.php : Contact page for faster addons contact
+    [+] [root]/prestablog.php : Popup duplication fixing + delete/edit problem fixed
+    [+] [root]/views/tpl/grid-for-1_7-page-unique + page-author + page-all + subblocks.tpl : fixing start displayed + modification of the "title" and "about/author" design
+    [+] [root]/views/css/blog1.css : adding line about the new article's title display
+
+#########################
+#   v4.3.1 - 2019-11-08 #
+#########################
+    MAJOR FIX
+    Important features added and changed :
+    [+] [root]/prestablog.php : Changing images link for underdirectories installation
+    [+] [root]/prestablog.php + class/author.class.php : Personnalization of image size
+    [+] [root]/prestablog.php + class/slider.class.php : Fixing all error + settling image size + adding JS + updating position/language system
+    [+] [root]/controllers/admin/rss.php : Adding news image to the rss tag
+    [+] [root]/prestablog.php : migrating "prestablog" link in the admin menu to a new menu for fresh install
+    [+] [root]/prestablog.php + views/template/page-all.tpl : Add view count option on category listing
+    [+] [root]/prestablog.php + class/news.class.php: deleting + adding 3 new color columns + adding informations to the design display in the BO
+    [+] [root]/translations : updating translations of all languages
+    [+] [root]/prestablog.php : Modification of backoffice home blog page
+    [+] [root]/views/css/blog1.css + grid-for-1-7_module.css + prestablog-back-office.css : Modification of css of color content + frontoffice
+    [+] [root]/upgrade/upgrade-4.3.1.php : add upgrade / addings of the new DB tables and refresh cache
+
+#########################
+#   v4.3.0 - 2019-09-25 #
+#########################
+    MAJOR UPDATE
+    Important features added and changed :
+    [+] [root]/prestablog.php : adding author features
+    [+] [root]/class/author.class.php : all functions linked to author system
+    [+] [root]/controller/blog.php : displaying author system and front office display
+    [+] [root]/views/templates/grid.tpl : unique page for author's info
+    [+] [root]/views/templates/grid-for-1-7_page-unique.tpl && grid-for-1-7_category.tpl : "about the author" block in the common pages
+    [+] [root]/views/grid-for-1-7/author_th : adding the author folder for authors pics
+    [+] [root]/prestablog.php : regrouping of configurations in their correct places
+    [+] [root]/prestablog.php : changing all the slide system
+    [+] [root]/prestablog.php : changing all the aspect of the blog (table, icons...)
+    [+] [root]/prestablog.php : adding of the possibility to change the url / adding new blog.php file linked to the changings of url
+    [+] [root]/controller/blog.php : adding the changes for the URL changing system
+    [+] [root]/views/grid-for-1-7/slider : folder for all the slider's pictures
+    [+] [root]/translations : updating translations of all languages
+    [+] [root]/upgrade/upgrade-4.3.0.php : add upgrade / addings of the new DB tables and refresh cache
+
+#########################
+#   v4.2.1 - 2019-09-18 #
+#########################
+    Added Features:
+    [+] [root]/views/js/menucat.js.php: fixing menu errors about displaying subcategories
+    [+] [root]/controller/front/blog.php: fixing menu errors about displaying subcategories
+
+
+#########################
+#   v4.2.0 - 2019-08-06 #
+#########################
+    Added Features:
+    [+] [root]/prestablog.php: fixing issues with the popup, adding some conditions about loading the JS + general button for displaying the popup
+    [+] [root]/prestablog.php: adding error when the category is not selected in adding the news
+    [+] [root]/views/templates/grid-for-1.7_page-all.tpl : fixing the div of ratings and fixing the "show articles" condition
+    [+] [root]/controllers/blog.tpl : adding submenu JS function
+    [+] [root]/translations : updating translations of all languages
+
+#########################
+#   v4.1.9 - 2019-07-15 #
+#########################
+    Added Features:
+    [+] [root]/prestablog.php: fixing issues due to prestashop 1.7.6 languages errors
+
+#########################
+#   v4.1.8 - 2019-06-17 #
+#########################
+    Added Features:
+    [+] [root]/prestablog.php + tpl: fixing issues
+
+#########################
+#   v4.1.7 - 2019-06-17 #
+#########################
+
+    Added Features:
+    [+] [root]/prestablog.php : fixing issues
+#########################
+#   v4.1.6 - 2019-06-17 #
+#########################
+    MAJOR UPDATE
+    Important features added and changed :
+
+    Added Features:
+    [+] [root]/upgrade/upgrade-4.1.6.php : add upgrade and refresh cache
+    [+] [root]/prestablog.php : adding of the popup system
+    [+] [root]/prestablog.php : fixing issues
+    [+] [root]/prestablog.php : adding to the homepage the config of subblocks
+    [+] [root]/prestablog.php : adding the possibility to rate articles
+    [+] [root]/prestablog.php : fixing popup and upgrade issues
+    [+] [root]/prestablog.php : addings of custom.css + all design content and table
+    [+] [root]/class/news.class.php : adding function for ratings
+    [+] [root]/class/news.class.php : adding table of prestablog's rate + column average rate and number of rates
+    [+] [root]/views/templates/grid-for-1.7_page-unique.tpl + subblocks.php : adding the rating system and hook function + modification of back offices display
+
+#########################
+#   v4.1.5 - 2019-03-18 #
+#########################
+    MAJOR UPDATE
+    Important features added and changed :
+
+    Added Features:
+    [+] [root]/upgrade/upgrade-4.1.5.php : add upgrade and refresh cache
+    [+] [root]/prestablog.php : adding of the popup systeme
+    [+] [root]/class/popup.class.php + views/templates/grid and lite-popup : adding of files connected to the popup system
+    [+] [root]/class/news.class.php and categories.class.php : adding function for displaying the popup
+    [+] [root]/prestablog.php : fixing search comments and articles
+    [+] [root]/prestablog.php : fixing all function depreciated in php 7.2
+    [+] [root]/views/templates/grid-for-1.7_page-unique.tpl : adding the href lang for the SEO
+    [+] [root]/translations : adding polish and danish translation
+
+#########################
+#   v4.1.4 - 2018-11-26 #
+#########################
+    Important features added and changed :
+
+    Added Features:
+
+    [+] [root]/upgrade/upgrade-4.1.4.php : add upgrade and refresh cache
+    [+] [root]/translation : Upgrading translation in english and spanish
+    [+] [root]/views/templates/grid-for-1.7_page-unique.tpl : Rel and prev system for better SEO.
+
+#########################
+#   v4.1.3 - 2018-11-02 #
+#########################
+    Important features added and changed :
+
+    Added Features:
+
+    [+] [root]/upgrade/upgrade-4.1.3.php : add upgrade and refresh cache
+    [+] [root]views/js/facebook-count.js : Fixing commentaries icon problem
+
+#########################
+#   v4.1.2 - 2018-10-31 #
+#########################
+    Important features added and changed :
+
+    Added Features:
+
+    [+] [root]/upgrade/upgrade-4.1.2.php : add upgrade and refresh cache
+    [+] [root]/templates : Changing name for old-grid and fixing template problems due to facebook comment system
+
+#########################
+#   v4.1.1 - 2018-10-18 #
+#########################
+    Important features added and changed :
+
+    Added Features:
+
+    [+] [root]/upgrade/upgrade-4.1.1.php : add upgrade and refresh cache
+    [+] [root]/prestablog.php : Adding the fonctionnality of displaying the articles in 1-2-3 columns on the front-office
+    [+] [root]/views/templates/front/grid-for-1-7_page-all.tpl : Adding the conditions for displaying in 1-2-3 columns
+    [+] [root]/views/css/grid-for-1-7-module.css : Customization of the CSS for the different displaying of the columns
+    [+] [root]/views/templates + [root]/views/css : Adding the old grid template for people that want the old display
+
+
+#########################
+#   v4.1.0 - 2018-10-11 #
+#########################
+	Important features added and changed :
+
+    Added Features:
+
+    [+] [root]/upgrade/upgrade-4.1.0.php : add upgrade and refresh cache
+    [+] [root]/prestablog.php : Creative slider functionnalities to integrate to the blog
+    [+] [root]/class/displayslider.class.php : Creative slider functionnalities to integrate to the blog
+    [+] [root]/views/hook/displayslider.tpl : Adding the hook to display the slider into the blog
+    [+] [root]/views/front/page.tpl : Adding hook to the code to display the slider
+
+    Fixed bugs:
+
+	[*] [root]/views/js/imagesloaded.pkgd.min: fixed loading of the JS in the front page of the shop for diaplaying articles
+    [*] [root]/prestablog.php: fixing problem of the Wordpress's import XML files
+
+
+#########################
+#   v4.0.7 - 2018-10-02 #
+#########################
+	Important features added and changed :
+
+    Added Features:
+
+    [+] [root]/upgrade/upgrade-4.0.7.php : add upgrade and refresh cache
+    [+] [root]/views/templates/front/[theme]_page-unique.tpl : Changing the view of the linked articles and linked products
+    [+] [root]/views/ : adding the masonry JS for a better looking of the articles
+    [+] [root]/views/templates/front/page-all.tpl : major changing of the looking of the articles.
+	[+] [root]/class/news.class.php : title length of the news set up from 80 to 150 characters
+
+    Fixed bugs:
+
+
+
+#########################
+#   v4.0.6 - 2018-04-25 #
+#########################
+
+    Fixed bugs:
+
+    [*] [root]/views/templates/front/page-unique.tpl : fixing the facebook share system that missed when upgraded
+
+#########################
+#   v4.0.5 - 2018-03-27 #
+#########################
+
+    Note:
+
+    Lookbook feature is currently developing and will be available in the future version
+
+    Important features added and changed :
+
+    Added Features:
+
+
+    [+] [root]/upgrade/upgrade-4.0.6.php : add upgrade with add key index
+    [+] [root]/upgrade/upgrade-4.0.6.php : add upgrade and refresh cache
+    [+] [root]/views/templates/front/[theme]_page-unique.tpl : Changing the view of the linked articles
+    [+] [root]/prestablog.php : adding the possibility to delete multiple commentaries
+    [+] [root]/prestablog.php : adding the possibility to search commentaries and articles
+
+    Fixed bugs:
+
+    [*] [root]/prestablog.php: fixed commentary management bug by changing the JS script
+    [*] [root]/prestablog.php: fixed the delete problem when uninstall the module
+
+#########################
+#   v4.0.4 - 2017-10-28 #
+#########################
+
+    Note:
+
+    Lookbook feature is currently developing and will be available in the future version
+
+    Important features added and changed :
+
+    [.]
+
+    Added Features:
+
+    [+] [root]/upgrade/upgrade-4.0.4.php : add upgrade with add key index
+    [+] [root]/upgrade/upgrade-4.0.4.php : add upgrade and refresh cache
+
+    Fixed bugs:
+
+    [*] [root]/views/templates/front/[theme]_page-all.tpl : fix SEO !h2 => h1
+    [*] [root]/prestablog.php : fix expand and collapse js with the good path of gif
+    [*] [root]/controllers/front/rss.php : change jpg to png image logo
+    [*] [root]/controllers/front/blog.php : change text in the select option of categories filter search
+
+    Improved/changed features:
+
+    [*] [root]/prestablog.php : delete auto detect registered table for SubBlock
+    [+] [root]/translations/cs.php : add translations for Czech
+    [+] [root]/mails/cs/* : add translations for Czech
+    [*] [root]/views/templates/front/[theme]_page-all.tpl : add mention for show the current categorie title in the count list
+
+--------------------------------
+#########################
+#   v4.0.3 - 2017-07-27 #
+#########################
+
+    Note:
+
+    [.]
+
+    Important features added and changed :
+
+    [.]
+
+    Added Features:
+
+    [+] [root]/class/lookbook.class.php : add lookbook table for link news
+    [+] [root]/mails/it/* : add translations it for mails
+    [+] [root]/translations/it.php : add translations it
+    [+] [root]/upgrade/upgrade-4.0.3.php : add upgrade and refresh cache (installation sql lookbook link)
+    [+] [root]/upgrade/upgrade-4.0.2.php : add upgrade and refresh cache
+
+    Fixed bugs:
+
+    [.]
+
+    Improved/changed features:
+
+    [*] [root]/controllers/admin/AdminPrestaBlogAjaxController.php : better search for ajax search products, articles and lookbooks
+    [+] [root]/prestablog.php : add placeholder for ajax search products, articles and lookbooks
+    [*] [root]/controllers/admin/AdminPrestaBlogAjaxController.php : use PrestaBlog::getT() to get theme name
+    [*] [root]/controllers/front/blog.php : use PrestaBlog::getT() to get theme name
+    [*] [root]/prestablog.php : use self::getT() to get theme name
+    [*] [root]/prestablog.php : use self::imgUpPath() to get path of upload images, excepted loop with theme value
+    [*] [root]/prestablog.php : use self::imgPath() instead deprecated dirname(__FILE__).'/views/img/'
+    [*] [root]/prestablog.php : use $this->confpath instead deprecated $this->path_module_conf
+    [*] [root]/* : compliance of PSR2 PrestaShop 1.7 Validator (standards warnings long lines)
+
+--------------------------------
+#########################
+#   v4.0.2 - 2017-06-01 #
+#########################
+
+    Note:
+
+    The before 4.0.2 is a version dev beta for transition to 4.0.3
+
+#########################
+#   v4.0.1 - 2017-04-25 #
+#########################
+
+    Note:
+
+    [.]
+
+    Important features added and changed :
+
+    [.]
+
+    Added Features:
+
+    [+] [root]/upgrade/upgrade-4.0.1.php : add upgrade and refresh cache
+    [+] [root]/prestablog.php : add menu tab in BO
+    [+] [root]/views/css/prestablog-back-office.css : add css for bo header
+
+    Fixed bugs:
+
+    [*] [root]/prestablog.php : fix opengraph for app id facebook
+    [*] [root]/views/templates/hook/[theme]_header-meta-og.tpl : fix opengraph for app id facebook
+    [*] [root]/prestablog.php : fix tiny_mce skins for prestashop
+    [+] [root]/views/js/facebook-count.js : add facebook js for comments count
+    [*] [root]/views/js/facebook.js : fix url facebook comments js
+    [*] [root]/prestablog.php : fix facebook comments js
+    [*] [root]/controllers/front/blog.php : fix facebook comments js
+    [*] [root]/views/templates/hook/[theme]_page-all.tpl : fix facebook comments js
+    [*] [root]/views/templates/hook/[theme]_page-subblock.tpl : fix facebook comments js
+    [*] [root]/prestablog.php : fix complete meta tags on the front controller blog
+    [*] [root]/views/templates/hook/[theme]_page.tpl : add head_seo block for front controller blog meta tags
+    [*] [root]/prestablog.php : change input length with large sufixe in displayConfSlide()
+    [*] [root]/class/categories.class.php : 2 fixes low complexe in(select) in the sql to get groups users
+    [*] [root]/class/correspondancescategories.class.php : fix low complexe in(select) in the sql to get groups users
+    [*] [root]/class/news.class.php : 2 fixes low complexe in(select) in the sql to get groups users
+    [*] [root]/prestablog.php : fix low complexe in(select) in the sql to get groups users
+    [*] [root]/prestablog.php : add static function to fix low complexe in(select) in the sql to get groups users
+
+    Improved/changed features:
+
+    [*] [root]/* : compliance of PSR2 PrestaShop 1.7 Validator (errors & standards)
+    [*] [root]/views/css/admin.css : enable float left style for thumb in articles top list
+    [*] [root]/views/templates/hook/[theme]_bloc-catliste.tpl : change button class link to all articles
+    [*] [root]/views/templates/hook/[theme]_bloc-dateliste.tpl : change button class link to all articles
+    [+] [root]/prestablog.php : detect if configurations _layout_blog, _lb_title_length, _lb_intro_length exists after upgrade 1.6>1.7
+    [*] [root]/prestablog.php : complete meta tags with empty description for no duplicate content
+    [*] [root]/translations/es.php : update translations for lookbook
+    [*] [root]/views/css/[theme]-modules.css : change css for button link to all articles in date & categories blocs
+
+#########################
+#   v4.0.0 - 2017-01-19 #
+#########################
+
+    Note:
+
+    [.]
+
+    Important features added and changed :
+
+    [.]
+
+    Added Features:
+
+    [.]
+
+    Fixed bugs:
+
+    [.]
+
+    Improved/changed features:
+
+    [.]

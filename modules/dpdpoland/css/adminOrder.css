@@ -1,0 +1,318 @@
+#dpdpoland
+{
+	position: relative;
+	width: 400px;
+	z-index: 100;
+}
+
+#dpdpoland.dpdpoland-ps16
+{
+	width: auto;
+}
+
+#dpdpoland legend a
+{
+	padding-left:5px;
+}
+
+#dpdpoland #dpdpoland_shipment_creation
+{
+	width: 880px;
+	display:none;
+}
+
+#dpdpoland.dpdpoland-ps16 #dpdpoland_shipment_creation
+{
+	width: auto;
+}
+
+#dpdpoland_shipment_creation #add_parcel
+{
+	float: right;
+}
+
+#dpdpoland_shipment_creation #save_and_print_labels,
+	#dpdpoland_shipment_creation #print_labels,
+		#dpdpoland_shipment_creation #save_labels
+{
+	float:right;
+	margin-top: 15px;
+}
+
+#dpdpoland #print_labels,
+	#dpdpoland #save_labels
+{
+	margin-right: 10px;
+}
+
+.dpdpoland-ps16 #dpdpoland_shipment_creation #save_and_print_labels,
+	.dpdpoland-ps16 #dpdpoland_shipment_creation #print_labels,
+		.dpdpoland-ps16 #dpdpoland_shipment_creation #save_labels
+{
+	float: none;
+	margin-top: 0;
+}
+
+#dpdpoland_shipment_creation .infoContainer
+{
+	float:left;
+	margin-right:10px;
+}
+
+#dpdpoland_sender_address_container,
+	#dpdpoland_recipient_address_container,
+			#dpdpoland_additional_info_container,
+				#dpdpoland_shipment_references_container{
+	width: 420px;
+}
+
+.dpdpoland-ps16 #dpdpoland_recipient_address_container,
+.dpdpoland-ps16 #dpdpoland_sender_address_container,
+.dpdpoland-ps16 #dpdpoland_additional_info_container label
+{
+	width: auto;
+}
+
+.dpdpoland-ps16 #dpdpoland_additional_info_container,
+.dpdpoland-ps16 #dpdpoland_shipment_references_container
+{
+	width: 50%;
+}
+
+#dpdpoland_sender_address_container
+{
+	float: left;
+	padding-right: 10px;
+	margin-right: 20px;
+	border-right: 1px solid #CCCCCC;
+}
+
+#dpdpoland_recipient_address_container
+{
+	float: right;
+}
+
+.dpdpoland-ps16 #dpdpoland_recipient_address_container, .dpdpoland-ps16 #dpdpoland_sender_address_container
+{
+	float: none;
+	margin-right: 0;
+}
+
+#dpdpoland_sender_address_container h3,
+	#dpdpoland_recipient_address_container h3
+{
+	margin: 0 0 5px 0;
+}
+
+.dpdpoland-ps14 #dpdpoland_sender_address_container label, .dpdpoland-ps15 #dpdpoland_sender_address_container label,
+	.dpdpoland-ps14 #dpdpoland_recipient_address_container label, .dpdpoland-ps15 #dpdpoland_recipient_address_container label,
+		.dpdpoland-ps14 #dpdpoland_cod_amount_container label, .dpdpoland-ps15 #dpdpoland_cod_amount_container label,
+			.dpdpoland-ps14 #dpdpoland_declared_value_amount_container label, .dpdpoland-ps15 #dpdpoland_declared_value_amount_container label,
+				.dpdpoland-ps14 #dpdpoland_additional_info_container label, .dpdpoland-ps15 #dpdpoland_additional_info_container label,
+					.dpdpoland-ps14 #dpdpoland_shipment_references_container label, .dpdpoland-ps15 #dpdpoland_shipment_references_container label
+{
+	width: 155px;
+}
+
+#dpdpoland_sender_address_container .margin-form,
+	#dpdpoland_recipient_address_container .margin-form
+{
+	font-size: 1em;
+	padding: 3px 0 3px 170px;
+	height: 15px;
+	width: 260px;
+}
+
+.dpdpoland-ps16 #dpdpoland_sender_address_container .margin-form,
+	.dpdpoland-ps16	#dpdpoland_recipient_address_container .margin-form
+{
+	display: inline-block;
+	padding:3px 0 3px 20px;
+	width: 230px;
+}
+
+#dpdpoland_cod_amount_container .margin-form,
+	#dpdpoland_declared_value_amount_container .margin-form,
+		#dpdpoland_additional_info_container .margin-form,
+			#dpdpoland_shipment_references_container .margin-form
+{
+    padding: 3px 0 3px 170px;
+	width: 260px;
+}
+
+#dpdpoland_cod_amount_container p,
+	#dpdpoland_declared_value_amount_container p,
+		#dpdpoland_additional_info_container p,
+			#dpdpoland_shipment_references_container p
+{
+	margin: 0;
+}
+
+#dpdpoland #dpdpoland_shipment_creation .dpdpoland_address
+{
+	padding-top: 5px;
+	height: 168px;
+}
+
+#dpdpoland.dpdpoland-ps16 #dpdpoland_shipment_creation .dpdpoland_address
+{
+	height: auto;
+}
+
+.dpdpoland-ps16	#dpdpoland_recipient_address_container .dpdpoland_address
+{
+	margin-top: 36px;
+}
+
+#dpdpoland_recipient_address_selection_container
+{
+	margin-top: 10px;
+	margin-bottom: 22px;
+}
+
+.dpdpoland-ps14 #dpdpoland_recipient_address_selection,
+.dpdpoland-ps15 #dpdpoland_recipient_address_selection
+{
+	width: 250px;
+}
+
+#dpdpoland_shipment_parcels .delete_parcel,
+	#dpdpoland_shipment_products .delete_product {
+	cursor: pointer;
+}
+
+#dpdpoland_add_product_container p
+{
+	font-size: 0.85em;
+	margin-top: 3px;
+}
+
+#dpdpoland_add_product
+{
+	margin-left: 8px;
+}
+
+.dpdpoland-ps16 #dpdpoland_add_product
+{
+	margin-left: 0;
+}
+
+div.ac_results
+{
+	z-index: 200;
+}
+
+div.ac_results ul
+{
+	margin: 0;
+}
+
+.separation {
+    background-color: #CCCCCC;
+    border-bottom: 1px solid #FFFFFF;
+    height: 1px;
+    margin: 10px 0;
+    width: 100%;
+}
+
+select.client_number_select
+{
+	width: 120px;
+}
+
+fieldset#dpdpoland.extended
+{
+	width: 880px;
+}
+
+div#printout_format_container
+{
+	display: block;
+	float: right;
+	margin-top: 15px;
+	margin-right: 15px;
+}
+
+.dpdpoland-ps16 div#printout_format_container
+{
+	float: none;
+	margin-top: inherit;
+	margin-right: inherit;
+}
+
+label.printout_format_label
+{
+	float: right;
+	width: auto;
+	margin-top: 15px;
+}
+
+.dpdpoland-ps16 label.printout_format_label
+{
+	float: none;
+	margin-top: inherit;
+}
+
+.margin-top-5
+{
+	margin-top: 5px;
+}
+
+#dpdpoland_shipment_parcels_container
+{
+	overflow-x: auto;
+	overflow-y: hidden;
+}
+
+#dpdpoland_sender_address_container .info
+{
+	display:block;
+}
+
+#dpdpoland .hidden-element
+{
+	display: none;
+}
+
+#dpdpoland.dpdpoland-ps14 .displayed-element
+{
+	display: block;
+}
+
+#dpdpoland .preference_description
+{
+	display: none;
+	width: auto;
+}
+
+#dpdpoland.dpdpoland-ps14 #parcel_addition_container .infoContainer
+{
+	display:block;
+}
+
+#dpdpoland.dpdpoland-ps14 #parcel_addition_container .infoContainer.first
+{
+	width: 751px;
+}
+
+#dpdpoland #dpdpoland_current_status_accordion
+{
+	margin-top:10px;
+}
+
+#dpdpoland.dpdpoland-ps14 #dpdpoland_current_status_accordion h3
+{
+	margin-bottom:0;
+}
+
+#dpdpoland_cud, #dpdpoland_rod, #dpdpoland_dpde{
+	margin-top: 10px;
+}
+
+#dpdpoland_duty{
+	margin: 10px 0 10px 0;
+}
+
+#dpdpoland_shipment_creation .control-label .col-lg-3{
+	text-align: left;
+}

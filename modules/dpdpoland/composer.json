@@ -1,0 +1,7 @@
+{
+  "name": "prestashop/dpdpoland",
+  "description": "DPD Poland",
+  "autoload": { "psr-4": { "DpdPoland\\": "src/" } },
+  "license": "DPDPoland",
+  "type": "prestashop-module"
+}

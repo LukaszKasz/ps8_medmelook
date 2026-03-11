@@ -1,0 +1,202 @@
+/**
+ * Product Variants Pro
+ *
+ * @author    Nxtal <support@nxtal.com>
+ * @copyright Nxtal 2023
+ * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License version 3.0
+ * @version   1.4.0
+ *
+ */
+
+.hide {
+    display: none !important;
+}
+
+/* Product page */
+
+#product .nxtal-variant-box,
+.quickview .nxtal-variant-box{
+	margin: 10px 0px 20px;
+}
+#product .nxtal-variant,
+.quickview  .nxtal-variant{
+	width: 100%;
+    display: inline-block;
+    align-items: center;
+}
+
+#product .nxtal-variant-label,
+.quickview  .nxtal-variant-label{
+	text-align: left;
+    display: flex;
+    width: 100%;
+    border-top: solid 1px #ddd;
+    padding: 12px 0px;
+	cursor: pointer;
+}
+
+#product .nxtal-variant-label .variant-group-left-inline,
+.quickview  .nxtal-variant-label .variant-group-left-inline{
+	display: inline-block;
+    width: calc(100% - 80px);
+}
+
+#product .nxtal-variant-label .variant-group-right-inline,
+.quickview  .nxtal-variant-label .variant-group-right-inline{
+	display: inline-block;
+    width: 80px;
+}
+#product .nxtal-variant-label .variant-group-value,
+.quickview  .nxtal-variant-label .variant-group-value{
+	font-weight:600;
+}
+
+#product .nxtal-variant-label .variant-group-image,
+.quickview  .nxtal-variant-label .variant-group-image{
+	float: left;
+	display: none;
+}
+
+#product .nxtal-variant-label .variant-group-action,
+.quickview  .nxtal-variant-label .variant-group-action{
+	float: right;
+	transition: .4s;
+}
+
+#product .nxtal-variant-label .variant-group-action i,
+.quickview  .nxtal-variant-label .variant-group-action i{
+    transition: all .4s ease;
+}
+
+#product .nxtal-variant-label .variant-group-image img,
+.quickview  .nxtal-variant-label .variant-group-image img{
+	width: 45px;
+    height: 45px;
+}
+
+#product .nxtal-variant-attributes,
+.quickview .nxtal-variant-attributes{
+    padding-bottom: 10px;
+	display: inline-block;
+    width: 100%;
+	overflow: auto;
+}
+
+#product .nxtal-variant-attributes ul,
+.quickview .nxtal-variant-attributes ul{
+	list-style: none;
+    padding: 0;
+	margin: 0;
+	float: left;
+}
+
+#product .nxtal-variant-attributes li,
+.quickview  .nxtal-variant-attributes li{
+	display: inline-block;
+	text-align: center;
+}
+
+#product .nxtal-variant-attributes li a,
+.quickview .nxtal-variant-attributes li a{
+    border: 2px solid #E0E0E0;
+    background: #ffffff;
+    padding: 5px 10px 5px 10px;
+    margin: 5px 5px 5px 0px;
+	text-decoration: none;
+	display: inline-block;
+	color: #0F1111;
+}
+
+#product .nxtal-variant-attributes .variant-attribute-info > div,
+.quickview  .nxtal-variant-attributes .variant-attribute-info > div{
+    margin: 5px 0px;
+}
+
+#product .nxtal-variant-attributes li.active a, #product .nxtal-variant-attributes li:hover a,
+.quickview .nxtal-variant-attributes li.active a, .quickview .nxtal-variant-attributes li:hover a {
+	border-color: #2fb5d2;
+}
+#product .nxtal-variant-attributes li.active a,
+.quickview .nxtal-variant-attributes li.active a {
+	font-weight: 600;
+}
+
+#product .nxtal-variant-attributes .product-discount,
+.quickview .nxtal-variant-attributes .product-discount {
+    color: #7a7a7a;
+}
+
+#product .nxtal-variant-attributes .product-discount .regular-price, 
+.quickview .nxtal-variant-attributes .product-discount .regular-price {
+    text-decoration: line-through;
+    font-weight: 400;
+    margin-right: .625rem;
+}
+
+#product .nxtal-variant-attributes .current-price,
+.quickview .nxtal-variant-attributes .current-price {
+	font-weight: 700;
+}
+
+.product-miniature .nxtal-variant-label,
+.product-container .nxtal-variant-label {
+    text-align: right;
+}
+
+#product .nxtal-variant.closed .variant-group-value,
+.quickview .nxtal-variant.closed .variant-group-value {
+    display: block;
+	font-size: 18px;
+}
+#product .nxtal-variant.closed .variant-group-image,
+.quickview .nxtal-variant.closed .variant-group-image{
+	display: block;
+}
+
+#product .nxtal-variant.closed .nxtal-variant-attributes,
+.quickview .nxtal-variant.closed .nxtal-variant-attributes {
+	display: none;
+}
+
+#product .nxtal-variant.closed .nxtal-variant-label .variant-group-action,
+.quickview .nxtal-variant.closed .nxtal-variant-label .variant-group-action {
+	margin-top: 8px;
+}
+
+#product .nxtal-variant.closed .nxtal-variant-label .variant-group-action i,
+.quickview .nxtal-variant.closed .nxtal-variant-label .variant-group-action i{
+	transform: rotateZ(-180deg);
+}
+
+.nxtal-variant-box .xs-toggle-view {
+    font-size: 12px;
+    float: right;
+    cursor: pointer;
+    display: none;
+}
+.nxtal-variant-box .nxtal-variant.closed .xs-toggle-view {
+    display: none!important;
+}
+
+@media (max-width: 1180px){
+	#product .nxtal-variant-attributes ul, .quickview .nxtal-variant-attributes ul{
+		white-space: nowrap;
+	}
+	.nxtal-variant-box .xs-toggle-view {
+		display: block;
+	}
+}
+
+/* Listing page */
+
+.product-miniature .nxtal-variant-text div,
+.product-container .nxtal-variant-text div {
+	text-transform: uppercase;
+    padding: 5px 10px;
+    background: rgba(0, 0, 0, 0.6);
+    color: #ffffff;
+    display: inline-block;
+    font-size: 14px;
+}
+
+

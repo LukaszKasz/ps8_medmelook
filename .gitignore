@@ -1,0 +1,102 @@
+# -------------------------
+# SYSTEM
+# -------------------------
+.DS_Store
+Thumbs.db
+*.log
+
+# -------------------------
+# IDE
+# -------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# -------------------------
+# NODE / BUILD
+# -------------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# -------------------------
+# COMPOSER
+# -------------------------
+vendor/
+
+# -------------------------
+# PRESTASHOP CACHE
+# -------------------------
+/var/cache/*
+!/var/cache/.gitkeep
+
+/var/logs/*
+!/var/logs/.gitkeep
+
+/var/sessions/*
+!/var/sessions/.gitkeep
+
+# -------------------------
+# UPLOADS / MEDIA
+# -------------------------
+/upload/*
+!/upload/.gitkeep
+
+/download/*
+!/download/.gitkeep
+
+/img/p/*
+/img/c/*
+/img/tmp/*
+/img/m/*
+/img/s/*
+/img/co/*
+/img/os/*
+/img/st/*
+/img/scenes/*
+/img/t/*
+!/img/.gitkeep
+
+# -------------------------
+# DATABASE / BACKUPS
+# -------------------------
+*.sql
+*.gz
+*.zip
+dump/
+backup/
+
+# -------------------------
+# CONFIG LOCAL
+# -------------------------
+/app/config/parameters.php
+.env
+.env.local
+
+# -------------------------
+# MAIL / EXPORTS
+# -------------------------
+mails/_cache/
+export/
+import/
+
+# -------------------------
+# TEMP FILES
+# -------------------------
+tmp/
+temp/
+
+# -------------------------
+# DOCKER (jeśli używasz)
+# -------------------------
+docker/mysql/data/
+docker/mysql/logs/
+
+# -------------------------
+# SYSTEM FILES
+# -------------------------
+*.swp
+*.swo
+*~

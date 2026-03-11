@@ -1,0 +1,13 @@
+ 
+
+{shop_url}
+
+Dobrý den {firstname} {lastname},
+
+Nová objednávka byla vytvořena.
+
+Přejděte prosím na odkaz {order_link} a dokončete platbu.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

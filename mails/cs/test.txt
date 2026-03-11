@@ -1,0 +1,13 @@
+ 
+
+{shop_url}
+
+Dobrý den {firstname} {lastname},
+
+Toto je zkušební e-mail z vašeho obchodu.
+
+Pokud čtete tento text, znamená to, že test je úspěšný!
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

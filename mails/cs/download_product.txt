@@ -1,0 +1,21 @@
+ 
+
+{shop_url}
+
+Dobrý den {firstname} {lastname},
+
+Děkujeme za Vaši objednávku s označením {order_name} v obchodě {shop_name}
+
+Produkt(y) ke stažení
+
+Máte {nbProducts} produkt(ů) nyní dostupný(ch) ke stažení zde:
+
+{virtualProductsTxt}
+
+Sledovat tuto objednávku a stáhnout fakturu si můžete v našem obchodě, přejděte do části [Historie a detaily mých objednávek]({history_url}) ve svém zákaznickém účtu.
+
+Pokud máte účet hosta, svou objednávku můžete sledovat v našem obchodě v sekci [Sledování pro návštěvníky]({guest_tracking_url}).
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

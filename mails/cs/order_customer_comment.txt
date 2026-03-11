@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+Dobrý den,
+
+Zpráva od zákazníka
+
+Obdrželi jste novou zprávu týkající se objednávky s označením {order_name}.
+
+Zákazník: {firstname} {lastname} ({email})
+
+Zpráva od zákazníka:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

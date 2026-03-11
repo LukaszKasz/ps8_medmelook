@@ -1,0 +1,13 @@
+ 
+
+{shop_url}
+
+Dobrý den {firstname} {lastname},
+
+{reply}
+
+Prosím, neodpovídejte přímo na tento e-mail, nebude možné ho obdržet. Chcete-li odpovědět, klikněte na následující odkaz: {link}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

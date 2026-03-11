@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin1234" source-language="cs-CZ" target-language="cs-CZ" datatype="plaintext">
+    <body>
+      <trans-unit id="9e8d4d8cab0baf05163340c731a82f4c">
+        <source>hackernews</source>
+        <target>hackernews</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5e8a5709f662f8d401f7a00e6137f9ca">
+        <source>reddit</source>
+        <target>reddit</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8ece64205432c3790f2d531156a8026a">
+        <source>tumblr</source>
+        <target>tumblr</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9aa91f81de7610b371dd0e6fe4168b01">
+        <source>pocket</source>
+        <target>pocket</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="bb6ec8dcea15643283afe386156af82e">
+        <source>pinterest</source>
+        <target>pinterest</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="1ec5f5ec77c51a968271b2ca9862907d">
+        <source>e-mail</source>
+        <target>e-mail</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="44e2308cdc51a0a1a5350ba3937e0b5e">
+        <source>Linkedin</source>
+        <target>Linkedin</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="2491bc9c7d8731e1ae33124093bc7026">
+        <source>Twitter</source>
+        <target>Twitter</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d85544fce402c7a2a96a48078edaf203">
+        <source>Facebook</source>
+        <target>Facebook</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="394efb42d8bf427587bc4333d7f461f1">
+        <source>Related posts</source>
+        <target>Related posts</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="38070661d5ad384d9c7d21895dc4e784">
+        <source>Related products</source>
+        <target>Related products</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="de9fbb31a77fd14bb6228f52d6e1907c">
+        <source>About the author</source>
+        <target>About the author</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d9bd4dd4209bd50e1f49124e73dc8f20">
+        <source>Share this content</source>
+        <target>Share this content</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="17ed6ca6533dfbf6cabcf7c11c9dcf69">
+        <source>By :</source>
+        <target>By :</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c821231dfb94125e494adf4ba5a7533f">
+        <source>No subcategories</source>
+        <target>No subcategories</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3cfd94e5b1e020a2b88c15f49d57886e">
+        <source>Blog categories</source>
+        <target>Blog categories</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="be8df1f28c0abc85a0ed0c6860e5d832">
+        <source>Blog</source>
+        <target>Blog</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9e9f523a80289ba2652a15e9f1e7f299">
+        <source>Search on blog</source>
+        <target>Vyhledávání na blogu</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f7a1e81918f1c549be70efac43efd7ed">
+        <source>Last blog articles</source>
+        <target>Poslední články blogu</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="0bc83ff2c68450113bbf41422aa2dc62">
+        <source>No news</source>
+        <target>Žádné novinky</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="453d11d297e3318a9112039e9a41ef3d">
+        <source>See all</source>
+        <target>Zobrazit vše</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e27ccf3d3814c67101d7fdc923635c81">
+        <source>Rate the article</source>
+        <target>Ohodnoťte článek</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="539a07aca88177c4a9a32dcddef0265c">
+        <source>You have already rated this article</source>
+        <target>Tento článek jste již ohodnotili</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c47250699b69a061605e604262068af8">
+        <source>Please log in to rate this article</source>
+        <target>Chcete-li ohodnotit tento článek, přihlaste se</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3a81b1c988c7819869edfc5ebad8b444">
+        <source>Blog archives</source>
+        <target>Archiv blogu</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d99880c79e8feeb2a1385e4e6908f402">
+        <source>Related articles on blog</source>
+        <target>Související články na blogu</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="43340e6cc4e88197d57f8d6d5ea50a46">
+        <source>Read more</source>
+        <target>Číst více</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4286269e728a6f8ee8a88bd96ce0966c">
+        <source>No related articles on blog</source>
+        <target>Žádné související články na blogu</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b409c4822e43b633c7775008b07fbdb5">
+        <source>Published :</source>
+        <target>Publikováno:</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="53e5aa2c97fef1555d2511de8218c544">
+        <source>By</source>
+        <target> </target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="681230c4cc213136176e9d768f9f8662">
+        <source>Categories :</source>
+        <target>Kategorie :</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d3d2e617335f08df83599665eef8a418">
+        <source>Close</source>
+        <target>Zavřít</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8ebc39f2dec185d777205ed780f83729">
+        <source>Follow our blog Rss</source>
+        <target>Sledovat RSS našeho blogu</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9981599e4b493a15441f027f434b9e9e">
+        <source>From the same author</source>
+        <target>Od stejného autora</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c3edcf2cedbd4ce230fd6d4ea8915718">
+        <source>Add a comment</source>
+        <target>Přidat komentář</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="49ee3087348e8d44e1feda1917443987">
+        <source>Name</source>
+        <target>Jméno</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="0be8406951cdfda82f00f79328cf4efc">
+        <source>Comment</source>
+        <target>Komentář</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="59b7d6b64e53534ed4fcf9f07d466aae">
+        <source>Antispam protection</source>
+        <target>Antispamová ochrana</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="0adcb8b4159a10f3ac443fc8117998cf">
+        <source>Submit comment</source>
+        <target>Odeslat komentář</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ee2f15c01f68d3b440f67b8a9dd9f14f">
+        <source>Your comment has been successfully sent</source>
+        <target>Váš komentář byl úspěšně odeslán</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a5705988f446d8bf0a804cdd2ea8b50a">
+        <source>This comment is automatically published.</source>
+        <target>Tento komentář je automaticky publikován.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="307ec7cf080b1cb7dba5782537efcfe5">
+        <source>Before published, your comment must be approve by an administrator.</source>
+        <target>Před zveřejněním musí váš komentář schválit správce.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="effb91c7cdbf45e3db3f2b60ab04f2f1">
+        <source>You must be register</source>
+        <target>Musíte být registrováni, abyste mohli komentovat.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="858a1a9a845221281cae27184d6aaeb3">
+        <source>Clic here to registered</source>
+        <target>Klikněte zde pro registraci</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a5d491060952aa8ad5fdee071be752de">
+        <source>comments</source>
+        <target>komentáře</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6881f96cfc9c32005a32e7ce3de3865c">
+        <source>Stop my subscription to comments</source>
+        <target>Zastavit můj odběr komentářů</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="61927f0cb5a625b457e9c069ebd4fcc5">
+        <source>Subscribe to comments</source>
+        <target>Odebírat komentáře</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7f5e6adf4fcbeb4d43dcdd35f42f670f">
+        <source>Search again on blog</source>
+        <target>Znovu vyhledat na blogu</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="dba5d91846ce1a5e63734dfcbcb481cb">
+        <source>articles</source>
+        <target>Články</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="92a2b5cb9c6906035c2864fa225e1940">
+        <source>article</source>
+        <target>článek</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="170e3589b651123fa0b908b6a3826e6f">
+        <source>in the category</source>
+        <target>v kategorii</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ce2c8aed9c2fa0cfbed56cbda4d8bf07">
+        <source>Empty</source>
+        <target>Prázdný</target>
+        <note>Line: </note>
+      </trans-unit>
+    <trans-unit id="44f04d3f02f0e0ccad20c86df337c675">
+        <source>View replies</source>
+        <target>Zobrazit odpovědi</target>
+        <note>Line: </note>
+    </trans-unit>
+    <trans-unit id="25d8df6e580905091a0d5ef5b9e05bf0">
+        <source>Reply</source>
+        <target>Odpovědět</target>
+        <note>Line: </note>
+    </trans-unit>
+    <trans-unit id="b5073ba199b7636d4a333934beaabb83">
+        <source>Blog Author</source>
+        <target>Autor blogu</target>
+        <note>Line: </note>
+    </trans-unit>
+
+    </body>
+  </file>
+</xliff>

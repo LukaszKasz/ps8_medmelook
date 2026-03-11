@@ -1,0 +1,22 @@
+section.facet.af_facet_features li {
+    float: left;
+}
+section.facet.af_facet_features li label.facet-label a  {
+    display: none !important;
+}
+.color_feature_item {
+    display: inline-block;
+    margin: 5px auto;
+}
+.color_feature_color, .color_feature_texture {
+    width: 20px;
+    height: 20px;
+    display: block;
+    float: left;
+}
+.color_feature_texture {
+    background-size: cover;
+}
+.color_feature_name {
+    padding-left: 5px;
+}

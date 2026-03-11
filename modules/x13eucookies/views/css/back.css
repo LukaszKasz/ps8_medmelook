@@ -1,0 +1,34 @@
+form.x13eucookies .force-full-width {
+    width: 100% !important;
+}
+/* .customer-group-selection .required-selection {
+    opacity: .4;
+} */
+
+#subtab-AdminEuCookiesParent > a > i.mi-:before,
+.icon-AdminEuCookiesParent:before {
+  content: '';
+  display: block;
+  width: 16px;
+  height: 16px;
+  background-size: 16px 16px;
+  background-repeat: no-repeat;
+background-image: url(../img/x13eucookies_bo_white.svg);
+}
+
+.x13-hide-element {
+  display: none !important;
+}
+
+.x13eucookies-tags-setting-blocked {
+  background-color: #f0f0f0;
+  opacity: 0.6;
+  padding: 5px;
+  border-radius: 4px;
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
+.x13eucookies-tags-setting-blocked:hover {
+  cursor: not-allowed;
+}

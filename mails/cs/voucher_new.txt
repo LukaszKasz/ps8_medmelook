@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+Dobrý den {firstname} {lastname},
+
+Byl vygenerován slevový kupón
+
+Zde je váš nový slevový kupón: {voucher_num}
+
+Pokud jej chcete použít, stačí tento kód kopírovat / přilepit během vyplňování objednávky.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

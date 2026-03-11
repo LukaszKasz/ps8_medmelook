@@ -1,0 +1,200 @@
+/**
+ * Product Variants Pro
+ *
+ * @author    Nxtal <support@nxtal.com>
+ * @copyright Nxtal 2023
+ * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License version 3.0
+ * @version   1.4.0
+ **/
+
+/* Back office */
+
+.ajax_list{
+	list-style: none;
+	position: absolute;
+	z-index: 3;
+	background: #fff;
+	width: 98%;
+	box-shadow: 0px 10px 15px 0 rgba(154, 154, 154, 0.8);
+	padding: 5px;
+	display: none;
+	max-height: 388px;
+    overflow: auto;
+}
+.ajax_list > div, .filter-panel .list-group > div{
+	border: 2px solid #eee;
+	margin-bottom: 10px;
+}
+.ajax_list > div{
+	cursor: pointer;
+	display: inline-block !important;
+	width: 100%;
+}
+.ajax_list .clear {
+	display: none;
+}
+.filter-panel .list-group {
+	width: 100%;
+    margin: 0;
+    display: inline-block;
+}
+.filter-panel .list-group .list-group-item {    
+	position: relative;
+    padding-left: 35px;
+    cursor: move;
+	display: inline-block;
+	margin: 5px;
+}
+[data-type="product"].filter-panel .list-group .list-group-item {
+    width: 100%;
+}
+.filter-panel .list-group .list-group-item:before {
+    content: "\F047";
+    position: absolute;
+    left: 10px;
+    top: 35%;
+    font: normal normal normal 14px/1 FontAwesome;
+}
+.filter-panel .list-group .clear {
+    margin-left: 10px;
+    font-size: 12px;
+    font-weight: 600;
+	cursor: pointer;
+}
+[data-multioption="0"].filter-panel {
+	padding: 0 !important;
+    border: 0 !important;
+    margin: 0 !important;
+}
+[data-type="product"].filter-panel .list-group .clear {
+    position: absolute;
+    cursor: pointer;
+    width: 22px;
+    top: 30%;
+    font-size: 18px;
+	font-weight: normal;
+    text-align: center;
+    right: 10px;
+}
+.ajax_list > div:hover{
+	background: #edf7fb;
+}
+.filter-panel .panel-body{
+	padding: 0;
+}
+.float-left{
+	float: left;
+}
+.float-right{
+	float: right;
+}
+.list-group-item img{
+	width: 55px;
+}
+.no-data {
+    display: none;
+	margin: 0px !important;
+}
+.filter-panel .list-group:empty {
+    display: none;
+}
+.filter-panel .list-group:empty + .no-data {
+    display: block;
+}
+
+
+#variant-product-image .variant-image-box {
+   display: inline-block;
+}
+#variant-product-image .variant-image-box label{
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    min-height: 100px;
+    width: 130px;
+    height: 130px;
+    border: 1px solid #bbcdd2;
+	cursor: pointer;
+	color: #bbcdd2;
+    text-align: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    margin: 0 auto;
+}
+#variant-product-image .variant-image-box label:hover {
+    border: 3px solid #25b9d7;
+    border-radius: 3px;
+}
+#variant-product-image .variant-image-box label input {
+    display: none;
+}
+#variant-product-image .variant-image-box label .vi-add {
+    position: relative;
+    top: 50%;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: 5px solid #bbcdd2;
+    border-radius: 100%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+#variant-product-image .variant-image-box label[style] .vi-add {
+	display: none;
+}
+#variant-product-image .variant-image-box label .vi-add span {
+    display: inline-block;
+    height: 50px;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 40px;
+    text-align: center;
+}
+#variant-product-image .variant-image-box label .vi-progress {
+    opacity: 0;
+    -webkit-transition: opacity .4s ease-in;
+    -moz-transition: opacity .4s ease-in;
+    -ms-transition: opacity .4s ease-in;
+    -o-transition: opacity .4s ease-in;
+    transition: opacity .4s ease-in;
+    z-index: 1000;
+    pointer-events: none;
+    position: absolute;
+    height: 10px;
+    left: 50%;
+    top: 50%;
+    margin-top: -5px;
+    width: 80px;
+    margin-left: -40px;
+    background: rgba(255,255,255,.9);
+    -webkit-transform: scale(1);
+    border-radius: 5px;
+    overflow: hidden;
+}
+#variant-product-image .variant-image-box label .vi-progress .vi-upload {
+    background-color: #25b9d7;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    -webkit-transition: width 300ms ease-in-out;
+    -moz-transition: width 300ms ease-in-out;
+    -ms-transition: width 300ms ease-in-out;
+    -o-transition: width 300ms ease-in-out;
+    transition: width 300ms ease-in-out;
+}
+#variant-product-image .variant-image-box .delete-image {
+    text-align: center;
+	display: none;
+}
+#variant-product-image .variant-image-box .delete-image span {
+    cursor: pointer;
+}
+#variant-product-image .variant-image-box label[style] + .delete-image {
+    display: block;
+}
+#variant-product-image .display-response {
+    margin-top: 10px;
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>thecheckout</name>
+    <displayName><![CDATA[Szybkie zakupy Pro]]></displayName>
+    <version><![CDATA[3.3.8]]></version>
+    <description><![CDATA[Wydajny i intuicyjny proces realizacji transakcji.]]></description>
+    <author><![CDATA[PrestaDev.pl]]></author>
+    <tab><![CDATA[checkout]]></tab>
+	<confirmUninstall><![CDATA[Napewno chcesz odinstalować moduł?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>
