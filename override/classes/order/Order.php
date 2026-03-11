@@ -1,26 +1,5 @@
 <?php
-/**
- * Copyright 2021-2023 InPost S.A.
- *
- * NOTICE OF LICENSE
- *
- * Licensed under the EUPL-1.2 or later.
- * You may not use this work except in compliance with the Licence.
- *
- * You may obtain a copy of the Licence at:
- * https://joinup.ec.europa.eu/software/page/eupl
- * It is also bundled with this package in the file LICENSE.txt
- *
- * Unless required by applicable law or agreed to in writing,
- * software distributed under the Licence is distributed on an AS IS basis,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the Licence for the specific language governing permissions
- * and limitations under the Licence.
- *
- * @author    InPost S.A.
- * @copyright 2021-2023 InPost S.A.
- * @license   https://joinup.ec.europa.eu/software/page/eupl
- */
+
 class Order extends OrderCore
 {
     /*
@@ -67,5 +46,33 @@ class Order extends OrderCore
             }
         }
         return $choice->point;
+    }
+    /*
+    * module: apaczka
+    * date: 2026-03-11 18:15:58
+    * version: 1.4.0
+    */
+    public $apaczka_supplier;
+    /*
+    * module: apaczka
+    * date: 2026-03-11 18:15:58
+    * version: 1.4.0
+    */
+    public $apaczka_point;
+    
+    /*
+    * module: apaczka
+    * date: 2026-03-11 18:15:58
+    * version: 1.4.0
+    */
+    public function __construct($id = null, $id_lang = null)
+    {
+        if (Module::isEnabled("apaczka")) {
+            self::$definition['fields']['apaczka_supplier'] =  array('type' => self::TYPE_STRING);
+            self::$definition['fields']['apaczka_point'] =  array('type' => self::TYPE_STRING);
+            $this->webserviceParameters['fields']['apaczka_supplier'] = [];
+            $this->webserviceParameters['fields']['apaczka_point'] = [];
+        }
+        parent::__construct($id, $id_lang);
     }
 }

@@ -1,0 +1,7 @@
+1.0.0
+* first version of the plugin
+
+1.1.0
+* added polish translations
+* added changelog.txt for future releases
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>apaczka</name>
+	<displayName><![CDATA[Shipping with Apaczka]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Shipping with Apaczka]]></description>
+	<author><![CDATA[Prestaguru]]></author>
+	<tab><![CDATA[shipping_logistics]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
