@@ -100,3 +100,5 @@ docker/mysql/logs/
 *.swp
 *.swo
 *~
+
+themes/*/assets/cache/

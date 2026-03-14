@@ -323,13 +323,16 @@ class Apaczka extends Module
         );
         
         $smarty = Context::getContext()->smarty;
-        $smarty->assign('apaczka_carriers_json', json_encode($apaczkaCarriersConfig));
-        $smarty->assign('apaczka_apiKey', $apiKey);
-        $smarty->assign('apaczka_carriersConfig', $apaczkaCarriersConfig);
-        $smarty->assign('apaczka_cartRow', $cartRow);
-        $smarty->assign('apaczka_cart', $this->context->cart);
-        $smarty->assign('apaczka_addressObjTxt', $addressObjTxt);
-        $smarty->assign('countryCode', $countryCode);
+        $smarty->assign([
+            'apaczka_carriers_json' => json_encode($apaczkaCarriersConfig),
+            'apaczka_apiKey' => $apiKey,
+            'apaczka_carriersConfig' => $apaczkaCarriersConfig,
+            'apaczka_cartRow' => $cartRow,
+            'apaczka_cart' => $this->context->cart,
+            'apaczka_addressObjTxt' => $addressObjTxt,
+            'countryCode' => $countryCode,
+            'apaczka_ajax_url' => $this->context->link->getModuleLink($this->name, 'ajax'),
+        ]);
 
         $idsCarriersPoints = [];
         foreach ($apaczkaCarriersConfig as $config) {

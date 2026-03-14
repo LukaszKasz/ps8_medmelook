@@ -31,13 +31,13 @@ class CheckoutDeliveryStep extends CheckoutDeliveryStepCore
         if (Module::isEnabled("apaczka") && !empty($requestParams['delivery_option'])) {
             $indexApaczka = $requestParams['delivery_option'][array_keys($requestParams['delivery_option'])[0]];
             $indexApaczka = str_replace(",", "", $indexApaczka);
-            
+
             if (!empty($requestParams['apaczka_supplier'][$indexApaczka])) {
                 $qryPoint = ",apaczka_point=NULL";
                 if (!empty($requestParams['apaczka_delivery_point'][$indexApaczka])) {
                     $qryPoint = ',apaczka_point="'. pSQL($requestParams['apaczka_delivery_point'][$indexApaczka]).'" ';
                 }
-                
+
                 Db::getInstance()->execute(
                     "UPDATE "._DB_PREFIX_.'cart 
                         SET apaczka_supplier="'. pSQL($requestParams['apaczka_supplier'][$indexApaczka]).'"'
